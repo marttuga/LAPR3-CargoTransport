@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="786.6px" preserveAspectRatio="none" style="width:1565px;height:786px;" version="1.1" viewBox="0 0 1565 786" width="1565.6px" zoomAndPan="magnify"><defs><filter height="300%" id="f7akcmmbzyi6b" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="1.52"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="3.04" dy="3.04" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="639.6053" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="51.68" y="75.7031"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="92.0016" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="431.68" y="111.9575"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="481.4422" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="431.68" y="227.0263"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="572.66" y="135.0247"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="78.8144" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="785.08" y="250.0934"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="409.2006" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1178.76" y="306.1078"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1343.68" y="351.975"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1343.68" y="397.8422"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1343.68" y="443.7094"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1343.68" y="489.5766"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1343.68" y="535.4438"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1343.68" y="581.3109"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1343.68" y="627.1781"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="55.48" x2="55.48" y1="68.1031" y2="722.1484"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="435.48" x2="435.48" y1="68.1031" y2="722.1484"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="576.08" x2="576.08" y1="68.1031" y2="722.1484"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="788.88" x2="788.88" y1="68.1031" y2="722.1484"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="1182.56" x2="1182.56" y1="68.1031" y2="722.1484"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="1347.48" x2="1347.48" y1="68.1031" y2="722.1484"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="1479.72" x2="1479.72" y1="681.3697" y2="722.1484"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="76" x="15.2" y="65.7652">Traffic manager</text><ellipse cx="55.48" cy="11.4" fill="#FEFECE" filter="url(#f7akcmmbzyi6b)" rx="6.08" ry="6.08" style="stroke:#A80036;stroke-width:1.52;"/><path d="M55.48,17.48 L55.48,38 M45.6,23.56 L65.36,23.56 M55.48,38 L45.6,49.4 M55.48,38 L65.36,49.4 " fill="none" filter="url(#f7akcmmbzyi6b)" style="stroke:#A80036;stroke-width:1.52;"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="76" x="15.2" y="732.4337">Traffic manager</text><ellipse cx="55.48" cy="742.3716" fill="#FEFECE" filter="url(#f7akcmmbzyi6b)" rx="6.08" ry="6.08" style="stroke:#A80036;stroke-width:1.52;"/><path d="M55.48,748.4516 L55.48,768.9716 M45.6,754.5316 L65.36,754.5316 M55.48,768.9716 L45.6,780.3716 M55.48,768.9716 L65.36,780.3716 " fill="none" filter="url(#f7akcmmbzyi6b)" style="stroke:#A80036;stroke-width:1.52;"/><rect fill="#FEFECE" filter="url(#f7akcmmbzyi6b)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="167.2" x="350.36" y="40.28"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="156.56" x="355.68" y="56.6452">:ShipSortedTemporallyController</text><rect fill="#FEFECE" filter="url(#f7akcmmbzyi6b)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="167.2" x="350.36" y="721.3884"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="156.56" x="355.68" y="737.7537">:ShipSortedTemporallyController</text><rect fill="#FEFECE" filter="url(#f7akcmmbzyi6b)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="93.48" x="528.2" y="40.28"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="82.84" x="533.52" y="56.6452">:BST&lt;ShipMMSI&gt;</text><rect fill="#FEFECE" filter="url(#f7akcmmbzyi6b)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="93.48" x="528.2" y="721.3884"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="82.84" x="533.52" y="737.7537">:BST&lt;ShipMMSI&gt;</text><rect fill="#FEFECE" filter="url(#f7akcmmbzyi6b)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="120.08" x="727.32" y="40.28"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="109.44" x="732.64" y="56.6452">:ShipSortedTemporally</text><rect fill="#FEFECE" filter="url(#f7akcmmbzyi6b)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="120.08" x="727.32" y="721.3884"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="109.44" x="732.64" y="737.7537">:ShipSortedTemporally</text><rect fill="#FEFECE" filter="url(#f7akcmmbzyi6b)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="103.36" x="1129.36" y="40.28"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="92.72" x="1134.68" y="56.6452">:PositionalMessage</text><rect fill="#FEFECE" filter="url(#f7akcmmbzyi6b)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="103.36" x="1129.36" y="721.3884"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="92.72" x="1134.68" y="737.7537">:PositionalMessage</text><rect fill="#FEFECE" filter="url(#f7akcmmbzyi6b)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="89.68" x="1301.12" y="40.28"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="79.04" x="1306.44" y="56.6452">:List&lt;ShipMMSI&gt;</text><rect fill="#FEFECE" filter="url(#f7akcmmbzyi6b)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="89.68" x="1301.12" y="721.3884"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="79.04" x="1306.44" y="737.7537">:List&lt;ShipMMSI&gt;</text><rect fill="#FEFECE" filter="url(#f7akcmmbzyi6b)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="153.52" x="1401.44" y="721.3884"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="142.88" x="1406.76" y="737.7537">:ShipSortedTemporallyOutPut</text><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="639.6053" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="51.68" y="75.7031"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="92.0016" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="431.68" y="111.9575"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="481.4422" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="431.68" y="227.0263"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="572.66" y="135.0247"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="78.8144" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="785.08" y="250.0934"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="409.2006" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1178.76" y="306.1078"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1343.68" y="351.975"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1343.68" y="397.8422"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1343.68" y="443.7094"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1343.68" y="489.5766"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1343.68" y="535.4438"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1343.68" y="581.3109"/><rect fill="#FFFFFF" filter="url(#f7akcmmbzyi6b)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="1343.68" y="627.1781"/><polygon fill="#A80036" points="422.56,108.9175,430.16,111.9575,422.56,114.9975,425.6,111.9575" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="59.28" x2="427.12" y1="111.9575" y2="111.9575"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="64.6" y="108.2666">1</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="123.88" x="72.96" y="108.2666">inserts the MMSI of the ship</text><polygon fill="#A80036" points="563.54,131.9847,571.14,135.0247,563.54,138.0647,566.58,135.0247" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="439.28" x2="568.1" y1="135.0247" y2="135.0247"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="444.6" y="131.3338">2</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="98.04" x="452.96" y="131.3338">shipList: getShipslist()</text><polygon fill="#A80036" points="779.76,177.8519,787.36,180.8919,779.76,183.9319,782.8,180.8919" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="439.28" x2="784.32" y1="180.8919" y2="180.8919"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="444.6" y="177.201">3</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="178.6" x="452.96" y="177.201">shipSorted = sortTemporally(MMSI, tree)</text><polygon fill="#A80036" points="67.64,200.9191,60.04,203.9591,67.64,206.9991,64.6,203.9591" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="63.08" x2="434.72" y1="203.9591" y2="203.9591"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="72.2" y="200.2682">4</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="88.92" x="80.56" y="200.2682">Asks interval of time</text><polygon fill="#A80036" points="422.56,223.9863,430.16,227.0263,422.56,230.0663,425.6,227.0263" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="59.28" x2="427.12" y1="227.0263" y2="227.0263"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="64.6" y="223.3354">5</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="101.08" x="72.96" y="223.3354">Chooses period of time</text><polygon fill="#A80036" points="775.96,247.0534,783.56,250.0934,775.96,253.1334,779,250.0934" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="439.28" x2="780.52" y1="250.0934" y2="250.0934"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="444.6" y="246.4025">6</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="323" x="452.96" y="246.4025">positionalMessage = positionValues(list, startDatePeriod, endDatePeriod)</text><line style="stroke:#A80036;stroke-width:0.76;" x1="792.68" x2="824.6" y1="273.1606" y2="273.1606"/><line style="stroke:#A80036;stroke-width:0.76;" x1="824.6" x2="824.6" y1="273.1606" y2="283.0406"/><line style="stroke:#A80036;stroke-width:0.76;" x1="793.44" x2="824.6" y1="283.0406" y2="283.0406"/><polygon fill="#A80036" points="801.04,280.0006,793.44,283.0406,801.04,286.0806,798,283.0406" style="stroke:#A80036;stroke-width:0.76;"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="798" y="269.4697">7</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="192.28" x="806.36" y="269.4697">checkDate(startDatePeriod, endDatePeriod)</text><polygon fill="#A80036" points="1169.64,303.0678,1177.24,306.1078,1169.64,309.1478,1172.68,306.1078" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="792.68" x2="1174.2" y1="306.1078" y2="306.1078"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="798" y="302.4169">8</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="363.28" x="806.36" y="302.4169">positionMessage = PositionMessage(MMSI, vesselType, sOG, cOG, date, lat, lon)</text><polygon fill="#A80036" points="1334.56,348.935,1342.16,351.975,1334.56,355.015,1337.6,351.975" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="1186.36" x2="1339.12" y1="351.975" y2="351.975"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="1191.68" y="348.2841">9</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="80.56" x="1200.04" y="348.2841">mMSI= getMMSI()</text><polygon fill="#A80036" points="1334.56,394.8022,1342.16,397.8422,1334.56,400.8822,1337.6,397.8422" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="1186.36" x2="1339.12" y1="397.8422" y2="397.8422"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="10.64" x="1191.68" y="394.1513">10</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="129.2" x="1205.36" y="394.1513">vesselType= getVesselType()</text><polygon fill="#A80036" points="1334.56,440.6694,1342.16,443.7094,1334.56,446.7494,1337.6,443.7094" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="1186.36" x2="1339.12" y1="443.7094" y2="443.7094"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="10.64" x="1191.68" y="440.0185">11</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="69.92" x="1205.36" y="440.0185">sOG= getsOG()</text><polygon fill="#A80036" points="1334.56,486.5366,1342.16,489.5766,1334.56,492.6166,1337.6,489.5766" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="1186.36" x2="1339.12" y1="489.5766" y2="489.5766"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="10.64" x="1191.68" y="485.8857">12</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="69.92" x="1205.36" y="485.8857">cOG= getsOG()</text><polygon fill="#A80036" points="1334.56,532.4038,1342.16,535.4438,1334.56,538.4838,1337.6,535.4438" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="1186.36" x2="1339.12" y1="535.4438" y2="535.4438"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="10.64" x="1191.68" y="531.7529">13</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="68.4" x="1205.36" y="531.7529">date= getDate()</text><polygon fill="#A80036" points="1334.56,578.2709,1342.16,581.3109,1334.56,584.3509,1337.6,581.3109" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="1186.36" x2="1339.12" y1="581.3109" y2="581.3109"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="10.64" x="1191.68" y="577.62">14</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="57.76" x="1205.36" y="577.62">lon= getLon()</text><polygon fill="#A80036" points="1334.56,624.1381,1342.16,627.1781,1334.56,630.2181,1337.6,627.1781" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="1186.36" x2="1339.12" y1="627.1781" y2="627.1781"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="10.64" x="1191.68" y="623.4872">15</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="53.2" x="1205.36" y="623.4872">lat= getLat()</text><polygon fill="#A80036" points="1392.32,670.0053,1399.92,673.0453,1392.32,676.0853,1395.36,673.0453" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="439.28" x2="1396.88" y1="673.0453" y2="673.0453"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="10.64" x="444.6" y="669.3544">16</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="309.32" x="458.28" y="669.3544">PositionalMessages= outPutPositionalMessages(positionalMessages)</text><rect fill="#FEFECE" filter="url(#f7akcmmbzyi6b)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="153.52" x="1401.44" y="656.0581"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="142.88" x="1406.76" y="672.4234">:ShipSortedTemporallyOutPut</text><polygon fill="#A80036" points="67.64,705.4284,60.04,708.4684,67.64,711.5084,64.6,708.4684" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="63.08" x2="434.72" y1="708.4684" y2="708.4684"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="10.64" x="72.2" y="704.7775">17</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="340.48" x="85.88" y="704.7775">Shows positional messages sent during that time period organized temporally</text><!--MD5=[48583c30a66d92368838607fa825f83e]
+@startuml
+autonumber
+'hide footbox
+actor "Traffic manager" as TM
+
+participant ":ShipSortedTemporallyController" as CTRL
+participant ":BST<ShipMMSI>" as BSTMMSI
+participant ":ShipSortedTemporally" as sst
+participant ":PositionalMessage" as pm
+participant ":List<ShipMMSI>" as LMMSI
+participant ":ShipSortedTemporallyOutPut" as OUTP
+activate TM
+alt chooses to search the ship by MMSI
+TM -> CTRL : inserts the MMSI of the ship
+activate CTRL
+CTRL -> BSTMMSI: shipList: getShipslist()
+activate BSTMMSI
+deactivate BSTMMSI
+CTRL -> sst: shipSorted = sortTemporally(MMSI, tree)
+CTRL -> TM: Asks interval of time
+deactivate CTRL
+TM -> CTRL:Chooses period of time
+activate CTRL
+CTRL -> sst: positionalMessage = positionValues(list, startDatePeriod, endDatePeriod)
+activate sst
+sst -> sst: checkDate(startDatePeriod, endDatePeriod)
+sst -> pm: positionMessage = PositionMessage(MMSI, vesselType, sOG, cOG, date, lat, lon)
+
+activate pm
+deactivate sst
+pm->LMMSI: mMSI= getMMSI()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: vesselType= getVesselType()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: sOG= getsOG()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: cOG= getsOG()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: date= getDate()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: lon= getLon()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: lat= getLat()
+activate LMMSI
+deactivate LMMSI
+CTRL-> OUTP**: PositionalMessages= outPutPositionalMessages(positionalMessages)
+
+CTRL -> TM: Shows positional messages sent during that time period organized temporally
+deactivate CTRL
+@enduml
+
+@startuml
+autonumber
+actor "Traffic manager" as TM
+
+participant ":ShipSortedTemporallyController" as CTRL
+participant ":BST<ShipMMSI>" as BSTMMSI
+participant ":ShipSortedTemporally" as sst
+participant ":PositionalMessage" as pm
+participant ":List<ShipMMSI>" as LMMSI
+participant ":ShipSortedTemporallyOutPut" as OUTP
+activate TM
+alt chooses to search the ship by MMSI
+TM -> CTRL : inserts the MMSI of the ship
+activate CTRL
+CTRL -> BSTMMSI: shipList: getShipslist()
+activate BSTMMSI
+deactivate BSTMMSI
+CTRL -> sst: shipSorted = sortTemporally(MMSI, tree)
+CTRL -> TM: Asks interval of time
+deactivate CTRL
+TM -> CTRL:Chooses period of time
+activate CTRL
+CTRL -> sst: positionalMessage = positionValues(list, startDatePeriod, endDatePeriod)
+activate sst
+sst -> sst: checkDate(startDatePeriod, endDatePeriod)
+sst -> pm: positionMessage = PositionMessage(MMSI, vesselType, sOG, cOG, date, lat, lon)
+
+activate pm
+deactivate sst
+pm->LMMSI: mMSI= getMMSI()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: vesselType= getVesselType()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: sOG= getsOG()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: cOG= getsOG()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: date= getDate()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: lon= getLon()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: lat= getLat()
+activate LMMSI
+deactivate LMMSI
+CTRL-> OUTP**: PositionalMessages= outPutPositionalMessages(positionalMessages)
+
+CTRL -> TM: Shows positional messages sent during that time period organized temporally
+deactivate CTRL
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 10:25:05 GMT 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

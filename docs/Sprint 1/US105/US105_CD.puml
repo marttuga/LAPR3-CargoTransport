@@ -1,0 +1,136 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+
+package Controller{
+class ListMmsiMovTDDDController {
+    +allShips(BST<ShipMMSI>)
+   +listDescTravDist(List<ShipAtrib>)
+    +listAsceNumMovements(List<ShipAtrib>)
+}
+}
+
+
+package Domain {
+
+class ShipMMSI{
++ShipMMSI(ship)
++ShipMMSI(List<Map.Entry<String, ShipMMSI>>)
++getMapList()
++compareTo(ShipMMSI)
++toString()
+}
+
+class Ship {
+  - mMSI
+  -baseDateTime
+  -lati
+  -long
+  -sog
+  -cog
+  -heading
+  -vesselName
+  -iMO
+  -callSign
+  -vesselType
+  -length
+  -width
+  -draft
+  -cargo
+  -transcieverClass
+
+  +getMMSI()
+  +getBaseDateTime()
+  +getLati()
+  +getLong()
+  +getSOG()
+  +getCOG()
+  +getHeading()
+  +getVesselType()
+  +getLenght()
+  +getWidth()
+  +getDraft()
+  +getCargo()
+  +getTranscieverClass()
+  +setMMSI(mMSI)
+  +setBaseDateTime(baseDateTime)
+  +setLati(lati)
+  +setLong(long)
+  +setSOG(sog)
+  +setCOG(cog)
+  +setHeading(heading)
+  +setVesselType(vesselType)
+  +setLenght(lenght)
+  +setWidth(width)
+  +setDraft(draft)
+  +setCargo(cargo)
+  +setTranscieverClass(transcieverClass)
+  +Ship()
+}
+  class ShipAtrib {
+    -mMSI
+    -mMSI1
+    -dDistance1
+    -dDistance2
+    -numMovements
+    -numMovements1
+    -travelledDist
+    -travelledDist1
+    -travelledDistDiference
+
+    +getMMSI()
+    +getMMSI1()
+    +getNumMovements()
+    +getNumMovements1()
+    +getTravelledDist()
+    +getDDist1()
+    +getNumMovements1()
+    +getTravelledDist1()
+    +getDDist2()
+    +ShipAtrib()
+}
+
+  class ShipResume {
+    +getShipResume( mMSI, BST<ShipMMSI> )
+    +getBaseDateTimeInicial(List<ShipMMSI>)
+    +getBaseDateTimeFinal(List<ShipMMSI> )
+    +getTotalMovementTime(List<ShipMMSI>)
+    +getTotalNumberOfMovements(List<ShipMMSI>)
+    +getMaxSOG(List<ShipMMSI>)
+    +getMeanSOG(List<ShipMMSI> )
+    +getMeanCOG(List<ShipMMSI> )
+    +getMaxCOG(List<ShipMMSI>)
+    +containShip( mMSI, List<Map.Entry<ShipMMSI, Double>> )
+    +getDepartureLatitude(List<ShipMMSI>)
+    + getDepartureLongitude(List<ShipMMSI> )
+    +getArrivalLatitude(List<ShipMMSI> )
+    +getArrivalLongitude(List<ShipMMSI> )
+    +getTravelDistance(List<ShipMMSI> )
+    +getDeltaDistance(List<ShipMMSI> )
+}
+
+ class ListMmsiMovTDDD {
+    +allShips(BST<ShipMMSI>)
+    +shipMmsiMovTDDD((List<ShipMMSI>, ShipMMSI)
+    +sameMMSIList(List<ShipMMSI>, mMSI)
+    +containShip(List<ShipAtrib>, mMSI)
+    +listDescTravDist(List<ShipAtrib>)
+    +listAsceNumMovements(List<ShipAtrib>)
+
+
+}
+}
+package Utils{
+class ListMMTDDDOutput{
+outputList(List<ShipAtrib>)
+}
+}
+
+ ListMmsiMovTDDDController..> ListMmsiMovTDDD
+ShipAtrib..>Ship
+ShipAtrib..>ShipMMSI
+ListMmsiMovTDDD..>ShipAtrib
+ListMmsiMovTDDD..>ShipResume
+ListMmsiMovTDDD..>ListMMTDDDOutput
+ShipMMSI..>Ship
+@enduml

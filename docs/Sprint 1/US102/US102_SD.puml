@@ -1,0 +1,203 @@
+@startuml
+autonumber
+'hide footbox
+actor "Traffic manager" as TM
+
+participant ":ShipDetailsController" as CTRL
+
+participant ":BST<ShipMMSI>" as BSTMMSI
+participant ":BST<ShipIMO>" as BSTIMO
+participant ":BST<ShipCallSign>" as BSTCS
+participant ":ShipDetails" as det
+participant ":List<ShipMMSI>" as LMMSI
+participant ":List<ShipIMO>" as LIMO
+participant ":List<ShipCallSign>" as LCS
+participant "ship:Ship" as ship
+participant ":ShipDetailsOutput" as OUTP
+participant "shipMmsi:ShipMMSI" as MMSI
+participant "shipImo:ShipIMO" as IMO
+participant "shipCallSign:ShipCallSign" as SCS
+alt chooses to show details by MMSI
+
+activate TM
+alt chooses to search the ship by MMSI
+
+TM -> CTRL : inserts the MMSI of the ship
+activate CTRL
+
+
+CTRL -> BSTMMSI: shipList: getShipslist()
+activate BSTMMSI
+deactivate BSTMMSI
+CTRL -> det: shipDet= getShipDetailsMMSI(mMSI, BST<ShipMMSI> )
+
+
+activate det
+
+ det -> LMMSI: listMMSI: addToListMMSI(mMSI)
+deactivate det
+activate LMMSI
+
+
+LMMSI->ship: mMSI= getMMSI()
+activate ship
+deactivate ship
+LMMSI->ship: iMO= getiMO()
+activate ship
+deactivate ship
+LMMSI->ship: callSign= getCallSign()
+activate ship
+deactivate ship
+LMMSI->ship: lenght= getLenght()
+activate ship
+deactivate ship
+LMMSI->ship: width= getWidth()
+activate ship
+deactivate ship
+LMMSI->ship: vesselName= getVesselName()
+activate ship
+deactivate ship
+LMMSI->ship: vesselType= getVesselType()
+activate ship
+deactivate ship
+LMMSI->ship: draft= getDraft()
+activate ship
+deactivate ship
+LMMSI->ship: cargo= getCargo()
+activate ship
+deactivate ship
+LMMSI->ship: transcieverClass= getTrascieverClass()
+deactivate LMMSI
+activate ship
+
+CTRL-> OUTP**: details= outputDetails(details)
+deactivate CTRL
+
+deactivate ship
+
+
+
+
+
+
+else chooses to show details by IMO
+
+TM -> CTRL : inserts the IMO of the ship
+activate CTRL
+
+
+CTRL -> BSTIMO: shipList: getShipslist()
+activate BSTIMO
+deactivate BSTIMO
+CTRL -> det: shipDet= getShipDetailsIMO(iMO, BST<ShipIMO> )
+
+
+activate det
+
+ det -> LIMO: listIMO: addToListIMO(imo)
+deactivate det
+activate LIMO
+
+
+LIMO->ship: mMSI= getMMSI()
+activate ship
+deactivate ship
+LIMO->ship: iMO= getiMO()
+activate ship
+deactivate ship
+LIMO->ship: callSign= getCallSign()
+activate ship
+deactivate ship
+LIMO->ship: lenght= getLenght()
+activate ship
+deactivate ship
+LIMO->ship: width= getWidth()
+activate ship
+deactivate ship
+LIMO->ship: vesselName= getVesselName()
+activate ship
+deactivate ship
+LIMO->ship: vesselType= getVesselType()
+activate ship
+deactivate ship
+LIMO->ship: draft= getDraft()
+activate ship
+deactivate ship
+LIMO->ship: cargo= getCargo()
+activate ship
+deactivate ship
+LIMO->ship: transcieverClass= getTrascieverClass()
+deactivate LIMO
+activate ship
+
+CTRL-> OUTP**: details= outputDetails(details)
+deactivate CTRL
+
+deactivate ship
+
+
+
+
+
+
+
+else chooses to show details by Call Sign
+TM -> CTRL : inserts the Call Sign of the ship
+activate CTRL
+
+
+CTRL -> BSTCS: shipList: getShipslist()
+activate BSTCS
+deactivate BSTCS
+CTRL -> det: shipDet= getShipDetailsCallSign(callSign, BST<ShipCallSign> )
+
+
+activate det
+
+ det -> LCS: listCallSign: addToListCallSign(callSign)
+deactivate det
+activate LCS
+
+
+LCS->ship: mMSI= getMMSI()
+activate ship
+deactivate ship
+LCS->ship: iMO= getiMO()
+activate ship
+deactivate ship
+LCS->ship: callSign= getCallSign()
+activate ship
+deactivate ship
+LCS->ship: lenght= getLenght()
+activate ship
+deactivate ship
+LCS->ship: width= getWidth()
+activate ship
+deactivate ship
+LCS->ship: vesselName= getVesselName()
+activate ship
+deactivate ship
+LCS->ship: vesselType= getVesselType()
+activate ship
+deactivate ship
+LCS->ship: draft= getDraft()
+activate ship
+deactivate ship
+LCS->ship: cargo= getCargo()
+activate ship
+deactivate ship
+LCS->ship: transcieverClass= getTrascieverClass()
+deactivate LCS
+activate ship
+
+CTRL-> OUTP**: details= outputDetails(details)
+deactivate CTRL
+
+deactivate ship
+
+end
+
+
+
+
+@enduml

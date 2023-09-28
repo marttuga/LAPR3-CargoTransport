@@ -1,0 +1,42 @@
+﻿LOCATION_ID;NAME;POSITION_ID;COUNTRY;TYPE;TRIP_ID;CAPACITY
+29002;Marsaxlokk;445419;Cyprus;port;1;35
+14635;Aarhus;621073;Malta;port;2;32
+25007;Copenhagen;497051;Greece;port;3;15
+20301;Matarani;533922;Portugal;port;4;19
+20351;Genoa;535090;Turkey;port;5;65
+27248;Grundartangi;199859;Armenia;port;6;52
+22226;Kaliningrad;274074;Spain;port;7;63
+25350;Gdansk;101472;Albania;port;8;66
+27792;Leixoes;358817;Georgia;port;9;69
+28082;Venice;510955;Italy;port;10;85
+28261;Setubal;838647;Macedonia;port;11;11
+28313;Bahia Blanca;611495;Montenegro;port;12;75
+18012;Esmeraldas;732715;Kosovo;port;13;20
+18326;Manzanillo;492320;Bulgaria;port;14;99
+980587;dhl supply;854938;Spain;warehouse;15;43
+653583;Mare Nostrum;874559;Bosnia;warehouse;16;33
+18476;Mareiro;848581;Romania;port;17;16
+236759;xpo logistics;873599;Serbia;warehouse;18;54
+918149;nfi logistics;342842;Croatia;warehouse;19;67
+23428;Atlantis;136177;Slovenia;port;20;61
+13012;Sargaço;591409;Switzerland;port;21;90
+468085;ballast;737929;Moldova;warehouse;22;15
+162952;van;203523;Liechtenstein;warehouse;23;83
+655226;haul;908733;Hungary;warehouse;24;41
+18937;platform ;402908;Slovakia;port;25;15
+30045;box;586855;Austria;port;26;11
+10860;manos champ;965762;France;port;27;28
+865711;americold;183609;Luxembourg;warehouse;28;93
+779478;fedex supply;104904;Czech Republic;warehouse;29;14
+213789;tank;616134;Ukraine;warehouse;30;87
+907558;tractor;524438;Belgium;warehouse;31;88
+10136;Valencia;747345;United Kingdom;port;32;64
+10138;Antwerp;722806;Poland;port;33;19
+10358;Zeebrugge;332698;Netherlands;port;34;57
+10563;Rostock;571059;Germany;port;35;10
+10860;Rio Grande;975154;Ireland;port;36;66
+11174;flatbed;799796;Belarus;port;37;44
+517860;stakebed;996844;Lithuania;warehouse;38;78
+738558;penske logistics;198580;Denmark;warehouse;39;12
+195430;dsc logistics;774890;Russia;warehouse;40;18
+213457;dsc log;564122;Latvia;warehouse;41;12

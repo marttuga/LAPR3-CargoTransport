@@ -1,0 +1,14 @@
+@startuml
+autonumber
+actor "Traffic Manager" as tm
+
+activate tm
+
+tm -> ":System" : Find the closest places to all others
+activate ":System"
+
+":System" --> tm :  Informs the (in)success of the operation
+deactivate ":System"
+
+deactivate tm
+@enduml

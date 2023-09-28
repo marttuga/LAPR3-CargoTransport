@@ -1,0 +1,37 @@
+@startuml
+autonumber
+actor "Traffic manager" as TM
+
+activate TM
+TM -> ":System" : starts to consult the ship list
+activate ":System"
+
+":System" --> TM : asks to choose travelled distance or total number of movements to order
+deactivate ":System"
+
+alt chooses to sort the ship by descending travelled distance
+
+
+
+TM -> ":System" : chooses descending travelled distance
+activate ":System"
+":System" --> TM : shows sorted list of the ships
+
+deactivate ":System"
+
+
+deactivate ":System"
+
+
+
+else chooses to sort the ship by ascending total number of movements
+
+TM -> ":System" : chooses ascending number of movements
+activate ":System"
+":System" --> TM : shows sorted list of the ships
+
+deactivate ":System"
+end
+
+
+@enduml

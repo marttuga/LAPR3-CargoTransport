@@ -1,0 +1,386 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+
+package Controller{
+class MostTravelledDistanceController{
++MostTravelledDistanceController()
++getTopNShips(listTree, startDate, endDate, n)
+}
+Class ShipResumeController {
++ShipResumeController()
++getShipResume(Integer, BST<ShipMMSI>)
+}
+class ShipSortedTemporallyController{
++ShipSortedTemporallyController()
++sortTemporally(mMSI, BST<ShipMMSI>)
++positionValues(List<ShipMMSI>, startDatePeriod, endDatePeriod)
+}
+class ShipDetailsController {
++ShipDetailsController()
++getShipDetailsMMSI(mMSI, BST<ShipMMSI> )
++getShipDetailsIMO(iMO, BST<ShipIMO>)
++getShipDetailsCallSign(callSign, BST<ShipCallSign>)
+}
+class ListMmsiMovTDDDController {
++getClientList()
++getTestList()
++sortByTIN(clientList)
++sortByTIN2(clientList)
++sortByName(clientList)
++sortByName2(clientList)
+}
+class PairOfShipsController {
++PairOfShipsController()
++pairShips()
++fillList(ShipMMSI)
++distOrig(mmsi1)
++distDest(mmsi1)
++getNumberOfMovements()
++sort()
+}
+Class ReadShipController {
++load()
++readShips()
++checkCargo(String)
++checkLat(String)
++checkLon(String)
++checkHeading(String)
++isUseBigFiles()
+}
+class ShipsTreeController {
++creatShipTree(mMSI, baseDateTime,lAT,lON,sOG,cOG,heading,vesselName,iMO,callSign,vesselType,length,width,draft,cargo,transClass)
++getBSTByShipMMSI()
++getBSTByShipIMO()
++getBSTByCallSign()
++resetTrees()
++getInstance()
++ShipsTreeController()
+
+}
+class BuildTreeController{
++creatShipTree()
++getBSTByShipMMSI()
++getBSTByShipIMO()
++getBSTByCallSign()
++resetShipTrees()
++fillPortNodeList()
++build2DPortTree()
++getPortNodeList()
++getPort2dTree()
++reset2DPortTree()
+}
+class FindClosestPortController{
++findPortClose()
++getNearestPort()
+}
+}
+
+
+package Domain {
+class MostTravelledDistance{
++getTopNShips(listTree, startDate, endDate, n)
++containShip(list, mMSI)
++checkDate(firstDate, lastDate, testDate)
++sameMMSIList(list, mMSI)
+}
+ class ShipResume {
+    +getShipResume( mMSI, BST<ShipMMSI> )
+    +getBaseDateTimeInicial(List<ShipMMSI>)
+    +getBaseDateTimeFinal(List<ShipMMSI> )
+    +getTotalMovementTime(List<ShipMMSI>)
+    +getTotalNumberOfMovements(List<ShipMMSI>)
+    +getMaxSOG(List<ShipMMSI>)
+    +getMeanSOG(List<ShipMMSI> )
+    +getMeanCOG(List<ShipMMSI> )
+    +getMaxCOG(List<ShipMMSI>)
+    +containShip( mMSI, List<Map.Entry<ShipMMSI, Double>> )
+    +getDepartureLatitude(List<ShipMMSI>)
+    + getDepartureLongitude(List<ShipMMSI> )
+    +getArrivalLatitude(List<ShipMMSI> )
+    +getArrivalLongitude(List<ShipMMSI> )
+    +getTravelDistance(List<ShipMMSI> )
+    +getDeltaDistance(List<ShipMMSI> )
+}
+class ShipDetails{
++getShipDetailsMMSI(mMSI, BST<ShipMMSI>)
++getShipDetailsIMO(iMO, BST<ShipIMO>)
++getShipDetailsCallSign(callSign, BST<ShipCallSign>)
++checkCallSign(callSign)
++checkMMSI(mMSI)
++checkIMO(iMO)
+
+}
+
+class PositionalMMessage{
+ -mMSI
+ -vesselType
+ -date
+ -lat
+ -lon
+ -sog
+ -cog
+
+ +getMMSI()
+ +getVesselType()
+ +getBaseDateTime()
+ +getLat()
+ +getLon()
+ +getSOG()
+ +getCOG()
+ +toString()
+}
+class ShipSortedTemporally{
++sortTemporally(mMSI, BST<ShipMMSI>)
++positionValues(List<ShipMMSI>, startDatePeriod, endDatePeriod)
++checkDate(firstDate, lastDate, testDate)
+}
+class ShipMMSI{
++ShipMMSI()
++ShipMMSI(ship)
++ShipMMSI(List<Map.Entry<String, ShipMMSI>>)
++getMapList()
++compareTo(ShipMMSI)
++toString()
+}
+
+class PairOfShips{
++PairShips(BST <ShipsMMSI>)
++fillList(ShipMMSI, List<ShipMMSI>)
++distOrig(mMSI1, List<ShipMMSI>, mMSI2)
++distDest(mMSI1, List<ShipMMSI>, mMSI2)
++getNumberOfMovements(List<ShipMMSI>, mMSI)
++sort(List<ShipAtrib>)
+}
+
+class ShipAtrib{
+
+-mMSI
+-mMSI1
+-distOrig
+-distDest
+-numberOfMovements
+-numberOfMovements1
+-travelDistance
+-travelDistance1
+-travelDistanceDiference
+
++getMMSI()
++getmMSI1()
++getdistOrig()
++getdistDest()
++getnumberOfMovements()
++getnumberOfMovements1()
++gettravelDistance()
++gettravelDistance1()
++gettravelDistanceDiference()
++ShipAtrib(mMSI,mMSI1,distOrig,distDest,numberOfMovements,numberOfMovements1,travelDistance,travelDistance1,travelDistanceDiference)
+}
+
+class Ship {
+  - mMSI
+  -baseDateTime
+  -lati
+  -long
+  -sog
+  -cog
+  -heading
+  -vesselName
+  -iMO
+  -callSign
+  -vesselType
+  -length
+  -width
+  -draft
+  -cargo
+  -transcieverClass
+
+  +getMMSI()
+  +getBaseDateTime()
+  +getLati()
+  +getLong()
+  +getSOG()
+  +getCOG()
+  +getHeading()
+  +getVesselType()
+  +getLenght()
+  +getWidth()
+  +getDraft()
+  +getCargo()
+  +getTranscieverClass()
+  +setMMSI(mMSI)
+  +setBaseDateTime(baseDateTime)
+  +setLati(lati)
+  +setLong(long)
+  +setSOG(sog)
+  +setCOG(cog)
+  +setHeading(heading)
+  +setVesselType(vesselType)
+  +setLenght(lenght)
+  +setWidth(width)
+  +setDraft(draft)
+  +setCargo(cargo)
+  +setTranscieverClass(transcieverClass)
+  +Ship()
+}
+
+
+  class ShipResume {
+    +getShipResume( mMSI, BST<ShipMMSI> )
+    +getBaseDateTimeInicial(List<ShipMMSI>)
+    +getBaseDateTimeFinal(List<ShipMMSI> )
+    +getTotalMovementTime(List<ShipMMSI>)
+    +getTotalNumberOfMovements(List<ShipMMSI>)
+    +getMaxSOG(List<ShipMMSI>)
+    +getMeanSOG(List<ShipMMSI> )
+    +getMeanCOG(List<ShipMMSI> )
+    +getMaxCOG(List<ShipMMSI>)
+    +containShip( mMSI, List<Map.Entry<ShipMMSI, Double>> )
+    +getDepartureLatitude(List<ShipMMSI>)
+    + getDepartureLongitude(List<ShipMMSI> )
+    +getArrivalLatitude(List<ShipMMSI> )
+    +getArrivalLongitude(List<ShipMMSI> )
+    +getTravelDistance(List<ShipMMSI> )
+    +getDeltaDistance(List<ShipMMSI> )
+}
+
+ class ListMmsiMovTDDD {
+    -ship
+    -numMovements
+    -travelledDist
+    -deltaDist
+
+    +allShips(BST<ShipMMSI>)
+    +shipMmsiMovTDDD((List<ShipMMSI>, ShipMMSI)
+    +sameMMSIList(List<ShipMMSI>, mMSI)
+    +containShip(List<ShipAtrib>, mMSI)
+    +listDescTravDist(List<ShipMMTDDD>)
+    +listAsceTravDist(List<ShipMMTDDD>)
+    +listDescDelDist(List<ShipMMTDDD>)
+    +listAsceDelDist(List<ShipMMTDDD>)
+
+
+}
+
+class ShipTreeCreate{
+- BST<ShipMMSI>
+-BST<ShipIMO>
+-BST<ShipCallSign>
+-List<Map.Entry<Integer, ShipMMSI>>
+-List<Map.Entry<String, ShipIMO>>
+-List<Map.Entry<String, ShipCallSign>>
++createShipMMSIMap(Ship)
++createShipIMOMap(Ship)
++createShipCallSignMap(Ship)
++creatShipTree(Ship )
++ShipTreeCreate()
++getTreeMMSI()
++getTreeIMO()
++getTreeCallSign()
++ resetTress()
+}
+
+class ShipCallSign{
++ShipCallSign(ship)
++ShipCallSign(List<Map.Entry<String, ShipCallSign>>)
++getMapList()
++compareTo(ShipCallSign )
++toString()
+}
+
+class ShipIMO{
++ShipIMO(ship)
++ShipIMO(List<Map.Entry<String, ShipIMO>>)
++getMapList()
++compareTo(ShipIMO )
++toString()
+}
+
+class ShipTreeCreate{
++createShipMMSIMap()
++createShipCallSignMap()
++createShipIMOMap()
++creatShipTree()
++ShipTreeCreate()
++getTreeMMSI()
++getTreeIMO()
++getTreeCallSign()
++resetTress()
+}
+
+class Port2DCreate{
++fillList()
++build2DPortTree()
++contains()
++getPort2dTree()
++getNodeList()
+}
+
+class FindClosestPort{
++findPortClose()
++getNearestPort()
+}
+}
+
+package Utils{
+class ShipSortedTemporallyOutput{
++outputShipSorted(List<PositionalMessage> positionsList)
+}
+class ShipDetailsOutput{
++output(String details)
+}
+class ShipResumeOutput{
++outputResume(String resume)
+}
+class ListMMTDDDOutput{
+outputList(List<ShipAtrib>)
+}
+
+class TopNShipsOutput{
++outputTopNships(list)
+}
+class PairOfShipsOutput{
++outputPair(list)
+}
+}
+PairOfShipsController..>PairOfShips
+PairOfShips..>ShipMMSI
+PairOfShips..>ShipAtrib
+PairOfShips..>ShipResume
+ListMmsiMovTDDDController..> ListMmsiMovTDDD
+ShipAtrib..>ShipMMSI
+ListMmsiMovTDDD..>ShipAtrib
+ListMmsiMovTDDD..>ShipResume
+ShipMMSI..>Ship
+ReadShipController ..> ShipsTreeController
+ShipsTreeController ..> ShipTreeCreate
+ShipTreeCreate..> ShipCallSign
+ShipTreeCreate..> ShipIMO
+ShipTreeCreate..> ShipMMSI
+ShipTreeCreate..> Ship
+ShipSortedTemporallyController..> ShipSortedTemporally
+PositionalMMessage..>Ship
+PositionalMMessage..>ShipMMSI
+ShipSortedTemporally..>PositionalMMessage
+ShipSortedTemporally..>ShipSortedTemporallyOutput
+ShipMMSI..>Ship
+ShipDetailsController ..> ShipDetails
+ShipDetails..> ShipCallSign
+ShipDetails..> ShipIMO
+ShipDetails..> ShipMMSI
+ShipDetails..> Ship
+ShipDetails ..> ShipDetailsOutput
+ShipResumeController..>Ship
+ShipResumeController..>ShipResume
+ShipResume..> ShipResumeOutput
+ListMmsiMovTDDD..>ListMMTDDDOutput
+MostTravelledDistanceController..> MostTravelledDistance
+MostTravelledDistance..>Ship
+MostTravelledDistance..>ShipMMSI
+MostTravelledDistance..> ShipResume
+MostTravelledDistance..>TopNShipsOutput
+PairOfShips..> PairOfShipsOutput
+BuildTreeController..> ShipTreeCreate
+BuildTreeController..> Port2DCreate
+FindClosestPortController..>FindClosestPort
+@enduml

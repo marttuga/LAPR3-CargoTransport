@@ -1,0 +1,98 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+
+package Controller{
+class ShipDetailsController {
++ShipDetailsController()
++getShipDetailsMMSI(mMSI, BST<ShipMMSI> )
++getShipDetailsIMO(iMO, BST<ShipIMO>)
++getShipDetailsCallSign(callSign, BST<ShipCallSign>)
+}
+}
+
+
+package Domain {
+
+class ShipDetails{
++getShipDetailsMMSI(mMSI, BST<ShipMMSI>)
++getShipDetailsIMO(iMO, BST<ShipIMO>)
++getShipDetailsCallSign(callSign, BST<ShipCallSign>)
++checkCallSign(callSign)
++checkMMSI(mMSI)
++checkIMO(iMO)
+
+}
+
+class ShipCallSign{
++ShipCallSign(ship)
++ShipCallSign(List<Map.Entry<String, ShipCallSign>>)
++getMapList()
++compareTo(ShipCallSign )
++toString()
+}
+
+class ShipIMO{
++ShipIMO(ship)
++ShipIMO(List<Map.Entry<String, ShipIMO>>)
++getMapList()
++compareTo(ShipIMO )
++toString()
+}
+
+class ShipMMSI{
++ShipMMSI(ship)
++ShipMMSI(List<Map.Entry<String, ShipMMSI>>)
++getMapList()
++compareTo(ShipMMSI)
++toString()
+}
+
+class Ship {
+  - mMSI
+  -baseDateTime
+  -lati
+  -long
+  -sog
+  -cog
+  -heading
+  -vesselName
+  -iMO
+  -callSign
+  -vesselType
+  -length
+  -width
+  -draft
+  -cargo
+  -transcieverClass
+
+  +getMMSI()
+  +getBaseDateTime()
+  +getLati()
+  +getLong()
+  +getSOG()
+  +getCOG()
+  +getHeading()
+  +getVesselType()
+  +getLenght()
+  +getWidth()
+  +getDraft()
+  +getCargo()
+  +getTranscieverClass()
+  +Ship()
+}
+}
+package Utils{
+class ShipDetailsOutput{
++output(String details)
+}
+
+ShipDetailsController ..> ShipDetails
+ShipDetails..> ShipCallSign
+ShipDetails..> ShipIMO
+ShipDetails..> ShipMMSI
+ShipDetails..> Ship
+
+ShipDetails ..> ShipDetailsOutput
+
+@enduml

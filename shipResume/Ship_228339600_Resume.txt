@@ -1,0 +1,343 @@
+MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85,262
+Delta Distance:85,222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85,261
+Delta Distance:85,222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85,261
+Delta Distance:85,222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ MMSI:228339600
+IMO:IMO9450648
+Call Sign:FLSU
+Vessel Name:CMA CGM ALMAVIVA
+Start Base Date Time:Thu Dec 31 00:00:00 WET 2020
+End Base Date Time:Thu Dec 31 03:56:00 WET 2020
+Total Movements Time:236
+Total Number Of Movements:18
+Max SOG:12.0
+Mean SOG:11.731578947368419
+Max COG:131.1
+Mean COG:129.03684210526316
+Departure Latitude:28.37458
+Departure Longitude:-88.88584
+Arrival Latitude:27.87869
+Arrival Longitude:-88.88584
+Travelled Distance:85.261
+Delta Distance:85.222
+ 

@@ -1,0 +1,31 @@
+@startuml
+autonumber
+actor "Traffic manager" as TM
+
+activate TM
+alt chooses to search the ship by MMSI
+
+TM -> ":System" : inserts the MMSI of the ship
+activate ":System"
+
+":System" --> TM : shows ship details
+deactivate ":System"
+
+else chooses to search the ship by IMO
+
+TM -> ":System" : inserts the IMO of the ship
+activate ":System"
+
+":System" --> TM : shows ship details
+deactivate ":System"
+
+else chooses to search the ship by Call Sign
+
+TM -> ":System" : inserts the Call Sign of the ship
+activate ":System"
+
+":System" --> TM : shows ship details
+deactivate ":System"
+
+end
+@enduml

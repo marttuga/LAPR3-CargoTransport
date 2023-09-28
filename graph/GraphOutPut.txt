@@ -1,0 +1,2647 @@
+Vertices:
+
+Location{locationID='CY', type='capital', name='Nicosia', positionID=1, country='Cyprus', tripID=0, capacity=1}
+
+
+Location{locationID='MT', type='capital', name='Valletta', positionID=2, country='Malta', tripID=0, capacity=1}
+
+
+Location{locationID='GR', type='capital', name='Athens', positionID=3, country='Greece', tripID=0, capacity=1}
+
+
+Location{locationID='PT', type='capital', name='Lisbon', positionID=4, country='Portugal', tripID=0, capacity=1}
+
+
+Location{locationID='TR', type='capital', name='Ankara', positionID=5, country='Turkey', tripID=0, capacity=1}
+
+
+Location{locationID='AM', type='capital', name='Yerevan', positionID=6, country='Armenia', tripID=0, capacity=1}
+
+
+Location{locationID='ES', type='capital', name='Madrid', positionID=7, country='Spain', tripID=0, capacity=1}
+
+
+Location{locationID='AL', type='capital', name='Tirana', positionID=8, country='Albania', tripID=0, capacity=1}
+
+
+Location{locationID='GE', type='capital', name='Tbilisi', positionID=9, country='Georgia', tripID=0, capacity=1}
+
+
+Location{locationID='IT', type='capital', name='Rome', positionID=10, country='Italy', tripID=0, capacity=1}
+
+
+Location{locationID='MK', type='capital', name='Skopje', positionID=11, country='Macedonia', tripID=0, capacity=1}
+
+
+Location{locationID='ME', type='capital', name='Podgorica', positionID=12, country='Montenegro', tripID=0, capacity=1}
+
+
+Location{locationID='KO', type='capital', name='Pristina', positionID=13, country='Kosovo', tripID=0, capacity=1}
+
+
+Location{locationID='BG', type='capital', name='Sofia', positionID=14, country='Bulgaria', tripID=0, capacity=1}
+
+
+Location{locationID='MC', type='capital', name='Monaco', positionID=15, country='Monaco', tripID=0, capacity=1}
+
+
+Location{locationID='BA', type='capital', name='Sarajevo', positionID=16, country='Bosnia', tripID=0, capacity=1}
+
+
+Location{locationID='RO', type='capital', name='Bucharest', positionID=17, country='Romania', tripID=0, capacity=1}
+
+
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+
+
+Location{locationID='HR', type='capital', name='Zagreb', positionID=19, country='Croatia', tripID=0, capacity=1}
+
+
+Location{locationID='SI', type='capital', name='Ljubljana', positionID=20, country='Slovenia', tripID=0, capacity=1}
+
+
+Location{locationID='CH', type='capital', name='Bern', positionID=21, country='Switzerland', tripID=0, capacity=1}
+
+
+Location{locationID='MD', type='capital', name='Chisinau', positionID=22, country='Moldova', tripID=0, capacity=1}
+
+
+Location{locationID='LI', type='capital', name='Vaduz', positionID=23, country='Liechtenstein', tripID=0, capacity=1}
+
+
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+
+
+Location{locationID='SK', type='capital', name='Bratislava', positionID=25, country='Slovakia', tripID=0, capacity=1}
+
+
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+
+
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+
+
+Location{locationID='LU', type='capital', name='Luxembourg', positionID=28, country='Luxembourg', tripID=0, capacity=1}
+
+
+Location{locationID='CZ', type='capital', name='Prague', positionID=29, country='Czech Republic', tripID=0, capacity=1}
+
+
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+
+
+Location{locationID='BE', type='capital', name='Brussels', positionID=31, country='Belgium', tripID=0, capacity=1}
+
+
+Location{locationID='GB', type='capital', name='London', positionID=32, country='United Kingdom', tripID=0, capacity=1}
+
+
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+
+
+Location{locationID='NL', type='capital', name='Amsterdam', positionID=34, country='Netherlands', tripID=0, capacity=1}
+
+
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+
+
+Location{locationID='IE', type='capital', name='Dublin', positionID=36, country='Ireland', tripID=0, capacity=1}
+
+
+Location{locationID='BY', type='capital', name='Minsk', positionID=37, country='Belarus', tripID=0, capacity=1}
+
+
+Location{locationID='LT', type='capital', name='Vilnius', positionID=38, country='Lithuania', tripID=0, capacity=1}
+
+
+Location{locationID='DK', type='capital', name='Copenhagen', positionID=39, country='Denmark', tripID=0, capacity=1}
+
+
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+
+
+Location{locationID='LV', type='capital', name='Riga', positionID=41, country='Latvia', tripID=0, capacity=1}
+
+
+Location{locationID='SE', type='capital', name='Stockholm', positionID=42, country='Sweden', tripID=0, capacity=1}
+
+
+Location{locationID='EE', type='capital', name='Tallinn', positionID=43, country='Estonia', tripID=0, capacity=1}
+
+
+Location{locationID='NO', type='capital', name='Oslo', positionID=44, country='Norway', tripID=0, capacity=1}
+
+
+Location{locationID='FI', type='capital', name='Helsinki', positionID=45, country='Finland', tripID=0, capacity=1}
+
+
+Location{locationID='IS', type='capital', name='Reykjavik', positionID=46, country='Iceland', tripID=0, capacity=1}
+
+
+Location{locationID='MX', type='capital', name='Mexico City', positionID=47, country='Mexico', tripID=0, capacity=1}
+
+
+Location{locationID='CA', type='capital', name='Ottawa', positionID=48, country='Canada', tripID=0, capacity=1}
+
+
+Location{locationID='US', type='capital', name='Washington', positionID=49, country='United States', tripID=0, capacity=1}
+
+
+Location{locationID='PA', type='capital', name='Panama City', positionID=50, country='Panama', tripID=0, capacity=1}
+
+
+Location{locationID='CR', type='capital', name='San Jose', positionID=51, country='Costa Rica', tripID=0, capacity=1}
+
+
+Location{locationID='NI', type='capital', name='Managua', positionID=52, country='Nicaragua', tripID=0, capacity=1}
+
+
+Location{locationID='SV', type='capital', name='San Salvador', positionID=53, country='El Salvador', tripID=0, capacity=1}
+
+
+Location{locationID='HN', type='capital', name='Tegucigalpa', positionID=54, country='Honduras', tripID=0, capacity=1}
+
+
+Location{locationID='GT', type='capital', name='Guatemala City', positionID=55, country='Guatemala', tripID=0, capacity=1}
+
+
+Location{locationID='BZ', type='capital', name='Belmopan', positionID=56, country='Belize', tripID=0, capacity=1}
+
+
+Location{locationID='UY', type='capital', name='Montevideo', positionID=57, country='Uruguay', tripID=0, capacity=1}
+
+
+Location{locationID='AR', type='capital', name='Buenos Aires', positionID=58, country='Argentina', tripID=0, capacity=1}
+
+
+Location{locationID='CL', type='capital', name='Santiago', positionID=59, country='Chile', tripID=0, capacity=1}
+
+
+Location{locationID='PY', type='capital', name='Asuncion', positionID=60, country='Paraguay', tripID=0, capacity=1}
+
+
+Location{locationID='BO', type='capital', name='La Paz', positionID=61, country='Bolivia', tripID=0, capacity=1}
+
+
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+
+
+Location{locationID='PE', type='capital', name='Lima', positionID=63, country='Peru', tripID=0, capacity=1}
+
+
+Location{locationID='EC', type='capital', name='Quito', positionID=64, country='Ecuador', tripID=0, capacity=1}
+
+
+Location{locationID='CO', type='capital', name='Bogota', positionID=65, country='Colombia', tripID=0, capacity=1}
+
+
+Location{locationID='SR', type='capital', name='Paramaribo', positionID=66, country='Suriname', tripID=0, capacity=1}
+
+
+Location{locationID='GY', type='capital', name='Georgetown', positionID=67, country='Guyana', tripID=0, capacity=1}
+
+
+Location{locationID='VE', type='capital', name='Caracas', positionID=68, country='Venezuela', tripID=0, capacity=1}
+
+
+Location{locationID='29002', type='port', name='Marsaxlokk', positionID=445419, country='Cyprus', tripID=1, capacity=35}
+
+
+Location{locationID='14635', type='port', name='Aarhus', positionID=621073, country='Malta', tripID=2, capacity=32}
+
+
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+
+
+Location{locationID='20301', type='port', name='Matarani', positionID=533922, country='Portugal', tripID=4, capacity=19}
+
+
+Location{locationID='20351', type='port', name='Genoa', positionID=535090, country='Turkey', tripID=5, capacity=65}
+
+
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+
+
+Location{locationID='22226', type='port', name='Kaliningrad', positionID=274074, country='Spain', tripID=7, capacity=63}
+
+
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+
+
+Location{locationID='27792', type='port', name='Leixoes', positionID=358817, country='Georgia', tripID=9, capacity=69}
+
+
+Location{locationID='28082', type='port', name='Venice', positionID=510955, country='Italy', tripID=10, capacity=85}
+
+
+Location{locationID='28261', type='port', name='Setubal', positionID=838647, country='Macedonia', tripID=11, capacity=11}
+
+
+Location{locationID='28313', type='port', name='Bahia Blanca', positionID=611495, country='Montenegro', tripID=12, capacity=75}
+
+
+Location{locationID='18012', type='port', name='Esmeraldas', positionID=732715, country='Kosovo', tripID=13, capacity=20}
+
+
+Location{locationID='18326', type='port', name='Manzanillo', positionID=492320, country='Bulgaria', tripID=14, capacity=99}
+
+
+Location{locationID='18476', type='port', name='Mareiro', positionID=848581, country='Romania', tripID=17, capacity=16}
+
+
+Location{locationID='23428', type='port', name='Atlantis', positionID=136177, country='Slovenia', tripID=20, capacity=61}
+
+
+Location{locationID='13012', type='port', name='Sargaço', positionID=591409, country='Switzerland', tripID=21, capacity=90}
+
+
+Location{locationID='18937', type='port', name='platform ', positionID=402908, country='Slovakia', tripID=25, capacity=15}
+
+
+Location{locationID='30045', type='port', name='box', positionID=586855, country='Austria', tripID=26, capacity=11}
+
+
+Location{locationID='10860', type='port', name='Rio Grande', positionID=965762, country='France', tripID=27, capacity=28}
+
+
+Location{locationID='10136', type='port', name='Valencia', positionID=747345, country='United Kingdom', tripID=32, capacity=64}
+
+
+Location{locationID='10138', type='port', name='Antwerp', positionID=722806, country='Poland', tripID=33, capacity=19}
+
+
+Location{locationID='10358', type='port', name='Zeebrugge', positionID=332698, country='Netherlands', tripID=34, capacity=57}
+
+
+Location{locationID='10563', type='port', name='Rostock', positionID=571059, country='Germany', tripID=35, capacity=10}
+
+
+Location{locationID='11174', type='port', name='flatbed', positionID=799796, country='Belarus', tripID=37, capacity=44}
+
+
+Matrix:
+   |  0  |  1  |  2  |  3  |  4  |  5  |  6  |  7  |  8  |  9  |  10  |  11  |  12  |  13  |  14  |  15  |  16  |  17  |  18  |  19  |  20  |  21  |  22  |  23  |  24  |  25  |  26  |  27  |  28  |  29  |  30  |  31  |  32  |  33  |  34  |  35  |  36  |  37  |  38  |  39  |  40  |  41  |  42  |  43  |  44  |  45  |  46  |  47  |  48  |  49  |  50  |  51  |  52  |  53  |  54  |  55  |  56  |  57  |  58  |  59  |  60  |  61  |  62  |  63  |  64  |  65  |  66  |  67  |  68  |  69  |  70  |  71  |  72  |  73  |  74  |  75  |  76  |  77  |  78  |  79  |  80  |  81  |  82  |  83  |  84  |  85  |  86  |  87  |  88  |  89  |  90  |  91  |  92 
+ 0 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 1 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 2 |     |     |     |     |  X  |     |     |  X  |     |     |  X  |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 3 |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 4 |     |     |  X  |     |     |  X  |     |     |  X  |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 5 |     |     |     |     |  X  |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 6 |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 7 |     |     |  X  |     |     |     |     |     |     |     |  X  |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 8 |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 9 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 10 |     |     |  X  |     |     |     |     |  X  |     |     |     |     |  X  |  X  |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 11 |     |     |     |     |     |     |     |  X  |     |     |     |     |  X  |     |     |  X  |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 12 |     |     |     |     |     |     |     |  X  |     |     |  X  |  X  |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     
+ 13 |     |     |  X  |     |  X  |     |     |     |     |     |  X  |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     
+ 14 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 15 |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 16 |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |     |     |  X  |     |  X  |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     
+ 17 |     |     |     |     |     |     |     |     |     |     |  X  |  X  |  X  |  X  |     |  X  |  X  |     |  X  |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 18 |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |  X  |     |  X  |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 19 |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |  X  |     |     |     |     |  X  |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     
+ 20 |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |  X  |  X  |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     
+ 21 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 22 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 23 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |  X  |  X  |     |     |     |     |  X  |  X  |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 24 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |  X  |     |     |  X  |  X  |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     
+ 25 |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |  X  |  X  |     |  X  |  X  |  X  |     |     |     |  X  |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     
+ 26 |     |     |     |     |     |     |  X  |     |     |  X  |     |     |     |     |  X  |     |     |     |     |     |  X  |     |     |     |     |     |     |  X  |     |     |  X  |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     
+ 27 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 28 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |  X  |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 29 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |  X  |     |  X  |  X  |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 30 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 31 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     
+ 32 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |  X  |     |     |     |     |  X  |     |  X  |  X  |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     
+ 33 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     
+ 34 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |  X  |  X  |  X  |  X  |     |  X  |     |  X  |  X  |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     
+ 35 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 36 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |  X  |     |     |     |     |  X  |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  
+ 37 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 38 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 39 |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |  X  |     |     |     |  X  |  X  |     |     |  X  |     |  X  |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 40 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |     |  X  |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 41 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 42 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 43 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |  X  |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 44 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |  X  |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 45 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 46 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 47 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 48 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 49 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 50 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 51 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 52 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 53 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 54 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 55 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 56 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 57 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |  X  |  X  |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 58 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |  X  |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 59 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 60 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |  X  |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 61 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |     |  X  |  X  |     |  X  |     |  X  |  X  |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 62 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |  X  |  X  |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 63 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 64 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |  X  |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 65 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 66 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 67 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 68 |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |  X  |  X  |     |     |     |     |     |     
+ 69 |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |  X  |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     
+ 70 |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |  X  |     |  X  |     |     |     |     |     |     |     |     |     |     |  X  |     |     |  X  |  X  |     
+ 71 |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 72 |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |  X  
+ 73 |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |  X  |  X  |  X  |     
+ 74 |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     
+ 75 |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |  X  |     |     |     |     |     |  X  |  X  |  X  |     |     |     |  X  |     |     |     |     
+ 76 |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 77 |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |  X  |     |  X  |     |     |     
+ 78 |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |     
+ 79 |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     
+ 80 |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |  X  
+ 81 |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |  X  
+ 82 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     
+ 83 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |     |     |     
+ 84 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |  X  |     |     |     |     |  X  |     |     |     |     
+ 85 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |     |     |     |     |     
+ 86 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |     |  X  |     |     |     |     |     |     |     
+ 87 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |  X  |  X  |     
+ 88 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     
+ 89 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     
+ 90 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |  X  |     |     |     |     |  X  |     |     |     |     |     |     |     |     |  X  |     |     |     |  X  |     
+ 91 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |  X  |     |     
+ 92 |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |  X  |     |     |     |     |     |     |     |  X  |  X  |     |     |     |     |     |     |     |     |     |     |     
+
+Edges:
+From 0 to 68-> 
+Location{locationID='CY', type='capital', name='Nicosia', positionID=1, country='Cyprus', tripID=0, capacity=1}
+ -> 
+Location{locationID='29002', type='port', name='Marsaxlokk', positionID=445419, country='Cyprus', tripID=1, capacity=35}
+
+Weight: Borders{countryOrigin='Nicosia', countryDestiny='Marsaxlokk', weight=37.71426383381406}
+From 1 to 69-> 
+Location{locationID='MT', type='capital', name='Valletta', positionID=2, country='Malta', tripID=0, capacity=1}
+ -> 
+Location{locationID='14635', type='port', name='Aarhus', positionID=621073, country='Malta', tripID=2, capacity=32}
+
+Weight: Borders{countryOrigin='Valletta', countryDestiny='Aarhus', weight=5.724836673994898}
+From 2 to 4-> 
+Location{locationID='GR', type='capital', name='Athens', positionID=3, country='Greece', tripID=0, capacity=1}
+ -> 
+Location{locationID='TR', type='capital', name='Ankara', positionID=5, country='Turkey', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Greece', countryDestiny='Turkey', weight=819.06848355422}
+From 2 to 7-> 
+Location{locationID='GR', type='capital', name='Athens', positionID=3, country='Greece', tripID=0, capacity=1}
+ -> 
+Location{locationID='AL', type='capital', name='Tirana', positionID=8, country='Albania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Albania', countryDestiny='Greece', weight=499.8538021465809}
+From 2 to 10-> 
+Location{locationID='GR', type='capital', name='Athens', positionID=3, country='Greece', tripID=0, capacity=1}
+ -> 
+Location{locationID='MK', type='capital', name='Skopje', positionID=11, country='Macedonia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Greece', countryDestiny='Macedonia', weight=487.9876389566052}
+From 2 to 13-> 
+Location{locationID='GR', type='capital', name='Athens', positionID=3, country='Greece', tripID=0, capacity=1}
+ -> 
+Location{locationID='BG', type='capital', name='Sofia', positionID=14, country='Bulgaria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bulgaria', countryDestiny='Greece', weight=523.7432414375885}
+From 2 to 70-> 
+Location{locationID='GR', type='capital', name='Athens', positionID=3, country='Greece', tripID=0, capacity=1}
+ -> 
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+
+Weight: Borders{countryOrigin='Athens', countryDestiny='Copenhagen', weight=2255.358738375957}
+From 3 to 6-> 
+Location{locationID='PT', type='capital', name='Lisbon', positionID=4, country='Portugal', tripID=0, capacity=1}
+ -> 
+Location{locationID='ES', type='capital', name='Madrid', positionID=7, country='Spain', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Spain', countryDestiny='Portugal', weight=503.03431102114183}
+From 3 to 71-> 
+Location{locationID='PT', type='capital', name='Lisbon', positionID=4, country='Portugal', tripID=0, capacity=1}
+ -> 
+Location{locationID='20301', type='port', name='Matarani', positionID=533922, country='Portugal', tripID=4, capacity=19}
+
+Weight: Borders{countryOrigin='Lisbon', countryDestiny='Matarani', weight=2481.260569519735}
+From 4 to 2-> 
+Location{locationID='TR', type='capital', name='Ankara', positionID=5, country='Turkey', tripID=0, capacity=1}
+ -> 
+Location{locationID='GR', type='capital', name='Athens', positionID=3, country='Greece', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Greece', countryDestiny='Turkey', weight=819.06848355422}
+From 4 to 5-> 
+Location{locationID='TR', type='capital', name='Ankara', positionID=5, country='Turkey', tripID=0, capacity=1}
+ -> 
+Location{locationID='AM', type='capital', name='Yerevan', positionID=6, country='Armenia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Armenia', countryDestiny='Turkey', weight=989.5254585055751}
+From 4 to 8-> 
+Location{locationID='TR', type='capital', name='Ankara', positionID=5, country='Turkey', tripID=0, capacity=1}
+ -> 
+Location{locationID='GE', type='capital', name='Tbilisi', positionID=9, country='Georgia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Georgia', countryDestiny='Turkey', weight=1024.3389715917908}
+From 4 to 13-> 
+Location{locationID='TR', type='capital', name='Ankara', positionID=5, country='Turkey', tripID=0, capacity=1}
+ -> 
+Location{locationID='BG', type='capital', name='Sofia', positionID=14, country='Bulgaria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bulgaria', countryDestiny='Turkey', weight=853.6604982058324}
+From 4 to 72-> 
+Location{locationID='TR', type='capital', name='Ankara', positionID=5, country='Turkey', tripID=0, capacity=1}
+ -> 
+Location{locationID='20351', type='port', name='Genoa', positionID=535090, country='Turkey', tripID=5, capacity=65}
+
+Weight: Borders{countryOrigin='Ankara', countryDestiny='Genoa', weight=12470.278106427426}
+From 5 to 4-> 
+Location{locationID='AM', type='capital', name='Yerevan', positionID=6, country='Armenia', tripID=0, capacity=1}
+ -> 
+Location{locationID='TR', type='capital', name='Ankara', positionID=5, country='Turkey', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Armenia', countryDestiny='Turkey', weight=989.5254585055751}
+From 5 to 8-> 
+Location{locationID='AM', type='capital', name='Yerevan', positionID=6, country='Armenia', tripID=0, capacity=1}
+ -> 
+Location{locationID='GE', type='capital', name='Tbilisi', positionID=9, country='Georgia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Armenia', countryDestiny='Georgia', weight=170.1693659828731}
+From 5 to 73-> 
+Location{locationID='AM', type='capital', name='Yerevan', positionID=6, country='Armenia', tripID=0, capacity=1}
+ -> 
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+
+Weight: Borders{countryOrigin='Yerevan', countryDestiny='Grundartangi', weight=2939.8087747606023}
+From 6 to 3-> 
+Location{locationID='ES', type='capital', name='Madrid', positionID=7, country='Spain', tripID=0, capacity=1}
+ -> 
+Location{locationID='PT', type='capital', name='Lisbon', positionID=4, country='Portugal', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Spain', countryDestiny='Portugal', weight=503.03431102114183}
+From 6 to 26-> 
+Location{locationID='ES', type='capital', name='Madrid', positionID=7, country='Spain', tripID=0, capacity=1}
+ -> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Spain', countryDestiny='France', weight=1054.20305866904}
+From 6 to 74-> 
+Location{locationID='ES', type='capital', name='Madrid', positionID=7, country='Spain', tripID=0, capacity=1}
+ -> 
+Location{locationID='22226', type='port', name='Kaliningrad', positionID=274074, country='Spain', tripID=7, capacity=63}
+
+Weight: Borders{countryOrigin='Madrid', countryDestiny='Kaliningrad', weight=2909.3507689024204}
+From 7 to 2-> 
+Location{locationID='AL', type='capital', name='Tirana', positionID=8, country='Albania', tripID=0, capacity=1}
+ -> 
+Location{locationID='GR', type='capital', name='Athens', positionID=3, country='Greece', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Albania', countryDestiny='Greece', weight=499.8538021465809}
+From 7 to 10-> 
+Location{locationID='AL', type='capital', name='Tirana', positionID=8, country='Albania', tripID=0, capacity=1}
+ -> 
+Location{locationID='MK', type='capital', name='Skopje', positionID=11, country='Macedonia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Albania', countryDestiny='Macedonia', weight=153.63134323258876}
+From 7 to 11-> 
+Location{locationID='AL', type='capital', name='Tirana', positionID=8, country='Albania', tripID=0, capacity=1}
+ -> 
+Location{locationID='ME', type='capital', name='Podgorica', positionID=12, country='Montenegro', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Albania', countryDestiny='Montenegro', weight=131.55177359013845}
+From 7 to 12-> 
+Location{locationID='AL', type='capital', name='Tirana', positionID=8, country='Albania', tripID=0, capacity=1}
+ -> 
+Location{locationID='KO', type='capital', name='Pristina', positionID=13, country='Kosovo', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Albania', countryDestiny='Kosovo', weight=187.01607822168086}
+From 7 to 75-> 
+Location{locationID='AL', type='capital', name='Tirana', positionID=8, country='Albania', tripID=0, capacity=1}
+ -> 
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+
+Weight: Borders{countryOrigin='Tirana', countryDestiny='Gdansk', weight=1488.509008700767}
+From 8 to 4-> 
+Location{locationID='GE', type='capital', name='Tbilisi', positionID=9, country='Georgia', tripID=0, capacity=1}
+ -> 
+Location{locationID='TR', type='capital', name='Ankara', positionID=5, country='Turkey', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Georgia', countryDestiny='Turkey', weight=1024.3389715917908}
+From 8 to 5-> 
+Location{locationID='GE', type='capital', name='Tbilisi', positionID=9, country='Georgia', tripID=0, capacity=1}
+ -> 
+Location{locationID='AM', type='capital', name='Yerevan', positionID=6, country='Armenia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Armenia', countryDestiny='Georgia', weight=170.1693659828731}
+From 8 to 39-> 
+Location{locationID='GE', type='capital', name='Tbilisi', positionID=9, country='Georgia', tripID=0, capacity=1}
+ -> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Georgia', countryDestiny='Russia', weight=1649.7435127533436}
+From 8 to 76-> 
+Location{locationID='GE', type='capital', name='Tbilisi', positionID=9, country='Georgia', tripID=0, capacity=1}
+ -> 
+Location{locationID='27792', type='port', name='Leixoes', positionID=358817, country='Georgia', tripID=9, capacity=69}
+
+Weight: Borders{countryOrigin='Tbilisi', countryDestiny='Leixoes', weight=2378.796478171741}
+From 9 to 19-> 
+Location{locationID='IT', type='capital', name='Rome', positionID=10, country='Italy', tripID=0, capacity=1}
+ -> 
+Location{locationID='SI', type='capital', name='Ljubljana', positionID=20, country='Slovenia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Slovenia', countryDestiny='Italy', weight=489.4116163975859}
+From 9 to 20-> 
+Location{locationID='IT', type='capital', name='Rome', positionID=10, country='Italy', tripID=0, capacity=1}
+ -> 
+Location{locationID='CH', type='capital', name='Bern', positionID=21, country='Switzerland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Italy', countryDestiny='Switzerland', weight=685.1759748359322}
+From 9 to 25-> 
+Location{locationID='IT', type='capital', name='Rome', positionID=10, country='Italy', tripID=0, capacity=1}
+ -> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Austria', countryDestiny='Italy', weight=763.9852702086224}
+From 9 to 26-> 
+Location{locationID='IT', type='capital', name='Rome', positionID=10, country='Italy', tripID=0, capacity=1}
+ -> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='France', countryDestiny='Italy', weight=1106.749754292102}
+From 9 to 77-> 
+Location{locationID='IT', type='capital', name='Rome', positionID=10, country='Italy', tripID=0, capacity=1}
+ -> 
+Location{locationID='28082', type='port', name='Venice', positionID=510955, country='Italy', tripID=10, capacity=85}
+
+Weight: Borders{countryOrigin='Rome', countryDestiny='Venice', weight=1760.0358267608174}
+From 10 to 2-> 
+Location{locationID='MK', type='capital', name='Skopje', positionID=11, country='Macedonia', tripID=0, capacity=1}
+ -> 
+Location{locationID='GR', type='capital', name='Athens', positionID=3, country='Greece', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Greece', countryDestiny='Macedonia', weight=487.9876389566052}
+From 10 to 7-> 
+Location{locationID='MK', type='capital', name='Skopje', positionID=11, country='Macedonia', tripID=0, capacity=1}
+ -> 
+Location{locationID='AL', type='capital', name='Tirana', positionID=8, country='Albania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Albania', countryDestiny='Macedonia', weight=153.63134323258876}
+From 10 to 12-> 
+Location{locationID='MK', type='capital', name='Skopje', positionID=11, country='Macedonia', tripID=0, capacity=1}
+ -> 
+Location{locationID='KO', type='capital', name='Pristina', positionID=13, country='Kosovo', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Kosovo', countryDestiny='Macedonia', weight=77.50146813774057}
+From 10 to 13-> 
+Location{locationID='MK', type='capital', name='Skopje', positionID=11, country='Macedonia', tripID=0, capacity=1}
+ -> 
+Location{locationID='BG', type='capital', name='Sofia', positionID=14, country='Bulgaria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bulgaria', countryDestiny='Macedonia', weight=172.75185769393298}
+From 10 to 17-> 
+Location{locationID='MK', type='capital', name='Skopje', positionID=11, country='Macedonia', tripID=0, capacity=1}
+ -> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Macedonia', countryDestiny='Serbia', weight=323.5008564959761}
+From 10 to 78-> 
+Location{locationID='MK', type='capital', name='Skopje', positionID=11, country='Macedonia', tripID=0, capacity=1}
+ -> 
+Location{locationID='28261', type='port', name='Setubal', positionID=838647, country='Macedonia', tripID=11, capacity=11}
+
+Weight: Borders{countryOrigin='Skopje', countryDestiny='Setubal', weight=824.1140708423184}
+From 11 to 7-> 
+Location{locationID='ME', type='capital', name='Podgorica', positionID=12, country='Montenegro', tripID=0, capacity=1}
+ -> 
+Location{locationID='AL', type='capital', name='Tirana', positionID=8, country='Albania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Albania', countryDestiny='Montenegro', weight=131.55177359013845}
+From 11 to 12-> 
+Location{locationID='ME', type='capital', name='Podgorica', positionID=12, country='Montenegro', tripID=0, capacity=1}
+ -> 
+Location{locationID='KO', type='capital', name='Pristina', positionID=13, country='Kosovo', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Kosovo', countryDestiny='Montenegro', weight=157.90037015013908}
+From 11 to 15-> 
+Location{locationID='ME', type='capital', name='Podgorica', positionID=12, country='Montenegro', tripID=0, capacity=1}
+ -> 
+Location{locationID='BA', type='capital', name='Sarajevo', positionID=16, country='Bosnia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bosnia', countryDestiny='Montenegro', weight=174.32615863617872}
+From 11 to 17-> 
+Location{locationID='ME', type='capital', name='Podgorica', positionID=12, country='Montenegro', tripID=0, capacity=1}
+ -> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Montenegro', countryDestiny='Serbia', weight=284.61414734068865}
+From 11 to 18-> 
+Location{locationID='ME', type='capital', name='Podgorica', positionID=12, country='Montenegro', tripID=0, capacity=1}
+ -> 
+Location{locationID='HR', type='capital', name='Zagreb', positionID=19, country='Croatia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Croatia', countryDestiny='Montenegro', weight=456.57765045056914}
+From 11 to 79-> 
+Location{locationID='ME', type='capital', name='Podgorica', positionID=12, country='Montenegro', tripID=0, capacity=1}
+ -> 
+Location{locationID='28313', type='port', name='Bahia Blanca', positionID=611495, country='Montenegro', tripID=12, capacity=75}
+
+Weight: Borders{countryOrigin='Podgorica', countryDestiny='Bahia Blanca', weight=2412.828465170908}
+From 12 to 7-> 
+Location{locationID='KO', type='capital', name='Pristina', positionID=13, country='Kosovo', tripID=0, capacity=1}
+ -> 
+Location{locationID='AL', type='capital', name='Tirana', positionID=8, country='Albania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Albania', countryDestiny='Kosovo', weight=187.01607822168086}
+From 12 to 10-> 
+Location{locationID='KO', type='capital', name='Pristina', positionID=13, country='Kosovo', tripID=0, capacity=1}
+ -> 
+Location{locationID='MK', type='capital', name='Skopje', positionID=11, country='Macedonia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Kosovo', countryDestiny='Macedonia', weight=77.50146813774057}
+From 12 to 11-> 
+Location{locationID='KO', type='capital', name='Pristina', positionID=13, country='Kosovo', tripID=0, capacity=1}
+ -> 
+Location{locationID='ME', type='capital', name='Podgorica', positionID=12, country='Montenegro', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Kosovo', countryDestiny='Montenegro', weight=157.90037015013908}
+From 12 to 17-> 
+Location{locationID='KO', type='capital', name='Pristina', positionID=13, country='Kosovo', tripID=0, capacity=1}
+ -> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Kosovo', countryDestiny='Serbia', weight=246.12196691862172}
+From 12 to 80-> 
+Location{locationID='KO', type='capital', name='Pristina', positionID=13, country='Kosovo', tripID=0, capacity=1}
+ -> 
+Location{locationID='18012', type='port', name='Esmeraldas', positionID=732715, country='Kosovo', tripID=13, capacity=20}
+
+Weight: Borders{countryOrigin='Pristina', countryDestiny='Esmeraldas', weight=12346.556016196246}
+From 13 to 2-> 
+Location{locationID='BG', type='capital', name='Sofia', positionID=14, country='Bulgaria', tripID=0, capacity=1}
+ -> 
+Location{locationID='GR', type='capital', name='Athens', positionID=3, country='Greece', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bulgaria', countryDestiny='Greece', weight=523.7432414375885}
+From 13 to 4-> 
+Location{locationID='BG', type='capital', name='Sofia', positionID=14, country='Bulgaria', tripID=0, capacity=1}
+ -> 
+Location{locationID='TR', type='capital', name='Ankara', positionID=5, country='Turkey', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bulgaria', countryDestiny='Turkey', weight=853.6604982058324}
+From 13 to 10-> 
+Location{locationID='BG', type='capital', name='Sofia', positionID=14, country='Bulgaria', tripID=0, capacity=1}
+ -> 
+Location{locationID='MK', type='capital', name='Skopje', positionID=11, country='Macedonia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bulgaria', countryDestiny='Macedonia', weight=172.75185769393298}
+From 13 to 16-> 
+Location{locationID='BG', type='capital', name='Sofia', positionID=14, country='Bulgaria', tripID=0, capacity=1}
+ -> 
+Location{locationID='RO', type='capital', name='Bucharest', positionID=17, country='Romania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bulgaria', countryDestiny='Romania', weight=296.6903416808738}
+From 13 to 17-> 
+Location{locationID='BG', type='capital', name='Sofia', positionID=14, country='Bulgaria', tripID=0, capacity=1}
+ -> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bulgaria', countryDestiny='Serbia', weight=329.26422786516355}
+From 13 to 81-> 
+Location{locationID='BG', type='capital', name='Sofia', positionID=14, country='Bulgaria', tripID=0, capacity=1}
+ -> 
+Location{locationID='18326', type='port', name='Manzanillo', positionID=492320, country='Bulgaria', tripID=14, capacity=99}
+
+Weight: Borders{countryOrigin='Sofia', countryDestiny='Manzanillo', weight=10984.923743666888}
+From 14 to 26-> 
+Location{locationID='MC', type='capital', name='Monaco', positionID=15, country='Monaco', tripID=0, capacity=1}
+ -> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='France', countryDestiny='Monaco', weight=692.1156704783575}
+From 15 to 11-> 
+Location{locationID='BA', type='capital', name='Sarajevo', positionID=16, country='Bosnia', tripID=0, capacity=1}
+ -> 
+Location{locationID='ME', type='capital', name='Podgorica', positionID=12, country='Montenegro', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bosnia', countryDestiny='Montenegro', weight=174.32615863617872}
+From 15 to 17-> 
+Location{locationID='BA', type='capital', name='Sarajevo', positionID=16, country='Bosnia', tripID=0, capacity=1}
+ -> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bosnia', countryDestiny='Serbia', weight=196.8262293429513}
+From 15 to 18-> 
+Location{locationID='BA', type='capital', name='Sarajevo', positionID=16, country='Bosnia', tripID=0, capacity=1}
+ -> 
+Location{locationID='HR', type='capital', name='Zagreb', positionID=19, country='Croatia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bosnia', countryDestiny='Croatia', weight=287.1328055911941}
+From 16 to 13-> 
+Location{locationID='RO', type='capital', name='Bucharest', positionID=17, country='Romania', tripID=0, capacity=1}
+ -> 
+Location{locationID='BG', type='capital', name='Sofia', positionID=14, country='Bulgaria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bulgaria', countryDestiny='Romania', weight=296.6903416808738}
+From 16 to 17-> 
+Location{locationID='RO', type='capital', name='Bucharest', positionID=17, country='Romania', tripID=0, capacity=1}
+ -> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Romania', countryDestiny='Serbia', weight=445.2585626881285}
+From 16 to 21-> 
+Location{locationID='RO', type='capital', name='Bucharest', positionID=17, country='Romania', tripID=0, capacity=1}
+ -> 
+Location{locationID='MD', type='capital', name='Chisinau', positionID=22, country='Moldova', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Moldova', countryDestiny='Romania', weight=356.65442925894143}
+From 16 to 23-> 
+Location{locationID='RO', type='capital', name='Bucharest', positionID=17, country='Romania', tripID=0, capacity=1}
+ -> 
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Hungary', countryDestiny='Romania', weight=640.6283277265363}
+From 16 to 29-> 
+Location{locationID='RO', type='capital', name='Bucharest', positionID=17, country='Romania', tripID=0, capacity=1}
+ -> 
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Romania', countryDestiny='Ukraine', weight=745.0612333754393}
+From 16 to 82-> 
+Location{locationID='RO', type='capital', name='Bucharest', positionID=17, country='Romania', tripID=0, capacity=1}
+ -> 
+Location{locationID='18476', type='port', name='Mareiro', positionID=848581, country='Romania', tripID=17, capacity=16}
+
+Weight: Borders{countryOrigin='Bucharest', countryDestiny='Mareiro', weight=190.81697526327451}
+From 17 to 10-> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+ -> 
+Location{locationID='MK', type='capital', name='Skopje', positionID=11, country='Macedonia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Macedonia', countryDestiny='Serbia', weight=323.5008564959761}
+From 17 to 11-> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+ -> 
+Location{locationID='ME', type='capital', name='Podgorica', positionID=12, country='Montenegro', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Montenegro', countryDestiny='Serbia', weight=284.61414734068865}
+From 17 to 12-> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+ -> 
+Location{locationID='KO', type='capital', name='Pristina', positionID=13, country='Kosovo', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Kosovo', countryDestiny='Serbia', weight=246.12196691862172}
+From 17 to 13-> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+ -> 
+Location{locationID='BG', type='capital', name='Sofia', positionID=14, country='Bulgaria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bulgaria', countryDestiny='Serbia', weight=329.26422786516355}
+From 17 to 15-> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+ -> 
+Location{locationID='BA', type='capital', name='Sarajevo', positionID=16, country='Bosnia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bosnia', countryDestiny='Serbia', weight=196.8262293429513}
+From 17 to 16-> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+ -> 
+Location{locationID='RO', type='capital', name='Bucharest', positionID=17, country='Romania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Romania', countryDestiny='Serbia', weight=445.2585626881285}
+From 17 to 18-> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+ -> 
+Location{locationID='HR', type='capital', name='Zagreb', positionID=19, country='Croatia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Croatia', countryDestiny='Serbia', weight=367.9517780676274}
+From 17 to 23-> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+ -> 
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Hungary', countryDestiny='Serbia', weight=316.3600649275674}
+From 18 to 11-> 
+Location{locationID='HR', type='capital', name='Zagreb', positionID=19, country='Croatia', tripID=0, capacity=1}
+ -> 
+Location{locationID='ME', type='capital', name='Podgorica', positionID=12, country='Montenegro', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Croatia', countryDestiny='Montenegro', weight=456.57765045056914}
+From 18 to 15-> 
+Location{locationID='HR', type='capital', name='Zagreb', positionID=19, country='Croatia', tripID=0, capacity=1}
+ -> 
+Location{locationID='BA', type='capital', name='Sarajevo', positionID=16, country='Bosnia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bosnia', countryDestiny='Croatia', weight=287.1328055911941}
+From 18 to 17-> 
+Location{locationID='HR', type='capital', name='Zagreb', positionID=19, country='Croatia', tripID=0, capacity=1}
+ -> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Croatia', countryDestiny='Serbia', weight=367.9517780676274}
+From 18 to 19-> 
+Location{locationID='HR', type='capital', name='Zagreb', positionID=19, country='Croatia', tripID=0, capacity=1}
+ -> 
+Location{locationID='SI', type='capital', name='Ljubljana', positionID=20, country='Slovenia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Croatia', countryDestiny='Slovenia', weight=117.7930749041601}
+From 18 to 23-> 
+Location{locationID='HR', type='capital', name='Zagreb', positionID=19, country='Croatia', tripID=0, capacity=1}
+ -> 
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Croatia', countryDestiny='Hungary', weight=301.61207390691317}
+From 19 to 9-> 
+Location{locationID='SI', type='capital', name='Ljubljana', positionID=20, country='Slovenia', tripID=0, capacity=1}
+ -> 
+Location{locationID='IT', type='capital', name='Rome', positionID=10, country='Italy', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Slovenia', countryDestiny='Italy', weight=489.4116163975859}
+From 19 to 18-> 
+Location{locationID='SI', type='capital', name='Ljubljana', positionID=20, country='Slovenia', tripID=0, capacity=1}
+ -> 
+Location{locationID='HR', type='capital', name='Zagreb', positionID=19, country='Croatia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Croatia', countryDestiny='Slovenia', weight=117.7930749041601}
+From 19 to 23-> 
+Location{locationID='SI', type='capital', name='Ljubljana', positionID=20, country='Slovenia', tripID=0, capacity=1}
+ -> 
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Slovenia', countryDestiny='Hungary', weight=382.7653773950039}
+From 19 to 25-> 
+Location{locationID='SI', type='capital', name='Ljubljana', positionID=20, country='Slovenia', tripID=0, capacity=1}
+ -> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Austria', countryDestiny='Slovenia', weight=276.9943012736798}
+From 19 to 83-> 
+Location{locationID='SI', type='capital', name='Ljubljana', positionID=20, country='Slovenia', tripID=0, capacity=1}
+ -> 
+Location{locationID='23428', type='port', name='Atlantis', positionID=136177, country='Slovenia', tripID=20, capacity=61}
+
+Weight: Borders{countryOrigin='Ljubljana', countryDestiny='Atlantis', weight=1712.626279735301}
+From 20 to 9-> 
+Location{locationID='CH', type='capital', name='Bern', positionID=21, country='Switzerland', tripID=0, capacity=1}
+ -> 
+Location{locationID='IT', type='capital', name='Rome', positionID=10, country='Italy', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Italy', countryDestiny='Switzerland', weight=685.1759748359322}
+From 20 to 22-> 
+Location{locationID='CH', type='capital', name='Bern', positionID=21, country='Switzerland', tripID=0, capacity=1}
+ -> 
+Location{locationID='LI', type='capital', name='Vaduz', positionID=23, country='Liechtenstein', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Liechtenstein', countryDestiny='Switzerland', weight=157.12089627231498}
+From 20 to 25-> 
+Location{locationID='CH', type='capital', name='Bern', positionID=21, country='Switzerland', tripID=0, capacity=1}
+ -> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Austria', countryDestiny='Switzerland', weight=682.3685811137868}
+From 20 to 26-> 
+Location{locationID='CH', type='capital', name='Bern', positionID=21, country='Switzerland', tripID=0, capacity=1}
+ -> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='France', countryDestiny='Switzerland', weight=440.1466814642295}
+From 20 to 34-> 
+Location{locationID='CH', type='capital', name='Bern', positionID=21, country='Switzerland', tripID=0, capacity=1}
+ -> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Switzerland', weight=754.0459104825462}
+From 20 to 84-> 
+Location{locationID='CH', type='capital', name='Bern', positionID=21, country='Switzerland', tripID=0, capacity=1}
+ -> 
+Location{locationID='13012', type='port', name='Sargaço', positionID=591409, country='Switzerland', tripID=21, capacity=90}
+
+Weight: Borders{countryOrigin='Bern', countryDestiny='Sargaço', weight=1963.145196589228}
+From 21 to 16-> 
+Location{locationID='MD', type='capital', name='Chisinau', positionID=22, country='Moldova', tripID=0, capacity=1}
+ -> 
+Location{locationID='RO', type='capital', name='Bucharest', positionID=17, country='Romania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Moldova', countryDestiny='Romania', weight=356.65442925894143}
+From 21 to 29-> 
+Location{locationID='MD', type='capital', name='Chisinau', positionID=22, country='Moldova', tripID=0, capacity=1}
+ -> 
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Moldova', countryDestiny='Ukraine', weight=400.5480777627794}
+From 22 to 20-> 
+Location{locationID='LI', type='capital', name='Vaduz', positionID=23, country='Liechtenstein', tripID=0, capacity=1}
+ -> 
+Location{locationID='CH', type='capital', name='Bern', positionID=21, country='Switzerland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Liechtenstein', countryDestiny='Switzerland', weight=157.12089627231498}
+From 22 to 25-> 
+Location{locationID='LI', type='capital', name='Vaduz', positionID=23, country='Liechtenstein', tripID=0, capacity=1}
+ -> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Austria', countryDestiny='Liechtenstein', weight=526.3634967798478}
+From 23 to 16-> 
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+ -> 
+Location{locationID='RO', type='capital', name='Bucharest', positionID=17, country='Romania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Hungary', countryDestiny='Romania', weight=640.6283277265363}
+From 23 to 17-> 
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+ -> 
+Location{locationID='RS', type='capital', name='Belgrade', positionID=18, country='Serbia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Hungary', countryDestiny='Serbia', weight=316.3600649275674}
+From 23 to 18-> 
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+ -> 
+Location{locationID='HR', type='capital', name='Zagreb', positionID=19, country='Croatia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Croatia', countryDestiny='Hungary', weight=301.61207390691317}
+From 23 to 19-> 
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+ -> 
+Location{locationID='SI', type='capital', name='Ljubljana', positionID=20, country='Slovenia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Slovenia', countryDestiny='Hungary', weight=382.7653773950039}
+From 23 to 24-> 
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+ -> 
+Location{locationID='SK', type='capital', name='Bratislava', positionID=25, country='Slovakia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Slovakia', countryDestiny='Hungary', weight=163.18809821091457}
+From 23 to 25-> 
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+ -> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Austria', countryDestiny='Hungary', weight=216.6574547558187}
+From 23 to 29-> 
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+ -> 
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Hungary', countryDestiny='Ukraine', weight=895.2394581734628}
+From 24 to 23-> 
+Location{locationID='SK', type='capital', name='Bratislava', positionID=25, country='Slovakia', tripID=0, capacity=1}
+ -> 
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Slovakia', countryDestiny='Hungary', weight=163.18809821091457}
+From 24 to 25-> 
+Location{locationID='SK', type='capital', name='Bratislava', positionID=25, country='Slovakia', tripID=0, capacity=1}
+ -> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Austria', countryDestiny='Slovakia', weight=55.88769338693033}
+From 24 to 28-> 
+Location{locationID='SK', type='capital', name='Bratislava', positionID=25, country='Slovakia', tripID=0, capacity=1}
+ -> 
+Location{locationID='CZ', type='capital', name='Prague', positionID=29, country='Czech Republic', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Slovakia', countryDestiny='Czech Republic', weight=288.4891692848008}
+From 24 to 29-> 
+Location{locationID='SK', type='capital', name='Bratislava', positionID=25, country='Slovakia', tripID=0, capacity=1}
+ -> 
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Slovakia', countryDestiny='Ukraine', weight=1002.7605403127294}
+From 24 to 32-> 
+Location{locationID='SK', type='capital', name='Bratislava', positionID=25, country='Slovakia', tripID=0, capacity=1}
+ -> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Slovakia', countryDestiny='Poland', weight=532.8173127696241}
+From 24 to 85-> 
+Location{locationID='SK', type='capital', name='Bratislava', positionID=25, country='Slovakia', tripID=0, capacity=1}
+ -> 
+Location{locationID='18937', type='port', name='platform ', positionID=402908, country='Slovakia', tripID=25, capacity=15}
+
+Weight: Borders{countryOrigin='Bratislava', countryDestiny='platform ', weight=2050.4721477935227}
+From 25 to 9-> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+ -> 
+Location{locationID='IT', type='capital', name='Rome', positionID=10, country='Italy', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Austria', countryDestiny='Italy', weight=763.9852702086224}
+From 25 to 19-> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+ -> 
+Location{locationID='SI', type='capital', name='Ljubljana', positionID=20, country='Slovenia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Austria', countryDestiny='Slovenia', weight=276.9943012736798}
+From 25 to 20-> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+ -> 
+Location{locationID='CH', type='capital', name='Bern', positionID=21, country='Switzerland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Austria', countryDestiny='Switzerland', weight=682.3685811137868}
+From 25 to 22-> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+ -> 
+Location{locationID='LI', type='capital', name='Vaduz', positionID=23, country='Liechtenstein', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Austria', countryDestiny='Liechtenstein', weight=526.3634967798478}
+From 25 to 23-> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+ -> 
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Austria', countryDestiny='Hungary', weight=216.6574547558187}
+From 25 to 24-> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+ -> 
+Location{locationID='SK', type='capital', name='Bratislava', positionID=25, country='Slovakia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Austria', countryDestiny='Slovakia', weight=55.88769338693033}
+From 25 to 28-> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+ -> 
+Location{locationID='CZ', type='capital', name='Prague', positionID=29, country='Czech Republic', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Austria', countryDestiny='Czech Republic', weight=250.57614299549812}
+From 25 to 34-> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+ -> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Austria', weight=524.395897820506}
+From 25 to 86-> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+ -> 
+Location{locationID='30045', type='port', name='box', positionID=586855, country='Austria', tripID=26, capacity=11}
+
+Weight: Borders{countryOrigin='Vienna', countryDestiny='box', weight=893.0973470793944}
+From 26 to 6-> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+ -> 
+Location{locationID='ES', type='capital', name='Madrid', positionID=7, country='Spain', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Spain', countryDestiny='France', weight=1054.20305866904}
+From 26 to 9-> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+ -> 
+Location{locationID='IT', type='capital', name='Rome', positionID=10, country='Italy', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='France', countryDestiny='Italy', weight=1106.749754292102}
+From 26 to 14-> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+ -> 
+Location{locationID='MC', type='capital', name='Monaco', positionID=15, country='Monaco', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='France', countryDestiny='Monaco', weight=692.1156704783575}
+From 26 to 20-> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+ -> 
+Location{locationID='CH', type='capital', name='Bern', positionID=21, country='Switzerland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='France', countryDestiny='Switzerland', weight=440.1466814642295}
+From 26 to 27-> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+ -> 
+Location{locationID='LU', type='capital', name='Luxembourg', positionID=28, country='Luxembourg', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='France', countryDestiny='Luxembourg', weight=286.8474826062427}
+From 26 to 30-> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+ -> 
+Location{locationID='BE', type='capital', name='Brussels', positionID=31, country='Belgium', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belgium', countryDestiny='France', weight=260.8498153531566}
+From 26 to 34-> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+ -> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='France', weight=877.7063567976248}
+From 26 to 87-> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+ -> 
+Location{locationID='10860', type='port', name='Rio Grande', positionID=965762, country='France', tripID=27, capacity=28}
+
+Weight: Borders{countryOrigin='Paris', countryDestiny='Rio Grande', weight=242.410153577046}
+From 27 to 26-> 
+Location{locationID='LU', type='capital', name='Luxembourg', positionID=28, country='Luxembourg', tripID=0, capacity=1}
+ -> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='France', countryDestiny='Luxembourg', weight=286.8474826062427}
+From 27 to 30-> 
+Location{locationID='LU', type='capital', name='Luxembourg', positionID=28, country='Luxembourg', tripID=0, capacity=1}
+ -> 
+Location{locationID='BE', type='capital', name='Brussels', positionID=31, country='Belgium', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belgium', countryDestiny='Luxembourg', weight=186.87104261293655}
+From 27 to 34-> 
+Location{locationID='LU', type='capital', name='Luxembourg', positionID=28, country='Luxembourg', tripID=0, capacity=1}
+ -> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Luxembourg', weight=603.0888284261378}
+From 28 to 24-> 
+Location{locationID='CZ', type='capital', name='Prague', positionID=29, country='Czech Republic', tripID=0, capacity=1}
+ -> 
+Location{locationID='SK', type='capital', name='Bratislava', positionID=25, country='Slovakia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Slovakia', countryDestiny='Czech Republic', weight=288.4891692848008}
+From 28 to 25-> 
+Location{locationID='CZ', type='capital', name='Prague', positionID=29, country='Czech Republic', tripID=0, capacity=1}
+ -> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Austria', countryDestiny='Czech Republic', weight=250.57614299549812}
+From 28 to 32-> 
+Location{locationID='CZ', type='capital', name='Prague', positionID=29, country='Czech Republic', tripID=0, capacity=1}
+ -> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Poland', countryDestiny='Czech Republic', weight=515.0159564140941}
+From 28 to 34-> 
+Location{locationID='CZ', type='capital', name='Prague', positionID=29, country='Czech Republic', tripID=0, capacity=1}
+ -> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Czech Republic', weight=281.3070395337596}
+From 29 to 16-> 
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+ -> 
+Location{locationID='RO', type='capital', name='Bucharest', positionID=17, country='Romania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Romania', countryDestiny='Ukraine', weight=745.0612333754393}
+From 29 to 21-> 
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+ -> 
+Location{locationID='MD', type='capital', name='Chisinau', positionID=22, country='Moldova', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Moldova', countryDestiny='Ukraine', weight=400.5480777627794}
+From 29 to 23-> 
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+ -> 
+Location{locationID='HU', type='capital', name='Budapest', positionID=24, country='Hungary', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Hungary', countryDestiny='Ukraine', weight=895.2394581734628}
+From 29 to 24-> 
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+ -> 
+Location{locationID='SK', type='capital', name='Bratislava', positionID=25, country='Slovakia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Slovakia', countryDestiny='Ukraine', weight=1002.7605403127294}
+From 29 to 32-> 
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+ -> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Poland', countryDestiny='Ukraine', weight=690.9348545926659}
+From 29 to 36-> 
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+ -> 
+Location{locationID='BY', type='capital', name='Minsk', positionID=37, country='Belarus', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belarus', countryDestiny='Ukraine', weight=435.0448648918645}
+From 29 to 39-> 
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+ -> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Russia', countryDestiny='Ukraine', weight=756.4553182315138}
+From 30 to 26-> 
+Location{locationID='BE', type='capital', name='Brussels', positionID=31, country='Belgium', tripID=0, capacity=1}
+ -> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belgium', countryDestiny='France', weight=260.8498153531566}
+From 30 to 27-> 
+Location{locationID='BE', type='capital', name='Brussels', positionID=31, country='Belgium', tripID=0, capacity=1}
+ -> 
+Location{locationID='LU', type='capital', name='Luxembourg', positionID=28, country='Luxembourg', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belgium', countryDestiny='Luxembourg', weight=186.87104261293655}
+From 30 to 33-> 
+Location{locationID='BE', type='capital', name='Brussels', positionID=31, country='Belgium', tripID=0, capacity=1}
+ -> 
+Location{locationID='NL', type='capital', name='Amsterdam', positionID=34, country='Netherlands', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belgium', countryDestiny='Netherlands', weight=173.85152488548405}
+From 30 to 34-> 
+Location{locationID='BE', type='capital', name='Brussels', positionID=31, country='Belgium', tripID=0, capacity=1}
+ -> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Belgium', weight=652.4956143465986}
+From 31 to 35-> 
+Location{locationID='GB', type='capital', name='London', positionID=32, country='United Kingdom', tripID=0, capacity=1}
+ -> 
+Location{locationID='IE', type='capital', name='Dublin', positionID=36, country='Ireland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Ireland', countryDestiny='United Kingdom', weight=463.419307157346}
+From 31 to 88-> 
+Location{locationID='GB', type='capital', name='London', positionID=32, country='United Kingdom', tripID=0, capacity=1}
+ -> 
+Location{locationID='10136', type='port', name='Valencia', positionID=747345, country='United Kingdom', tripID=32, capacity=64}
+
+Weight: Borders{countryOrigin='London', countryDestiny='Valencia', weight=1782.9431981538953}
+From 32 to 24-> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+ -> 
+Location{locationID='SK', type='capital', name='Bratislava', positionID=25, country='Slovakia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Slovakia', countryDestiny='Poland', weight=532.8173127696241}
+From 32 to 28-> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+ -> 
+Location{locationID='CZ', type='capital', name='Prague', positionID=29, country='Czech Republic', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Poland', countryDestiny='Czech Republic', weight=515.0159564140941}
+From 32 to 29-> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+ -> 
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Poland', countryDestiny='Ukraine', weight=690.9348545926659}
+From 32 to 34-> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+ -> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Poland', weight=516.4059168730319}
+From 32 to 36-> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+ -> 
+Location{locationID='BY', type='capital', name='Minsk', positionID=37, country='Belarus', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belarus', countryDestiny='Poland', weight=475.44462238036743}
+From 32 to 37-> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+ -> 
+Location{locationID='LT', type='capital', name='Vilnius', positionID=38, country='Lithuania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Lithuania', countryDestiny='Poland', weight=393.27791131420076}
+From 32 to 39-> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+ -> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Poland', countryDestiny='Russia', weight=1149.1854647157095}
+From 32 to 89-> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+ -> 
+Location{locationID='10138', type='port', name='Antwerp', positionID=722806, country='Poland', tripID=33, capacity=19}
+
+Weight: Borders{countryOrigin='Warsaw', countryDestiny='Antwerp', weight=2164.08079731109}
+From 33 to 30-> 
+Location{locationID='NL', type='capital', name='Amsterdam', positionID=34, country='Netherlands', tripID=0, capacity=1}
+ -> 
+Location{locationID='BE', type='capital', name='Brussels', positionID=31, country='Belgium', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belgium', countryDestiny='Netherlands', weight=173.85152488548405}
+From 33 to 34-> 
+Location{locationID='NL', type='capital', name='Amsterdam', positionID=34, country='Netherlands', tripID=0, capacity=1}
+ -> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Netherlands', weight=574.821592880543}
+From 33 to 90-> 
+Location{locationID='NL', type='capital', name='Amsterdam', positionID=34, country='Netherlands', tripID=0, capacity=1}
+ -> 
+Location{locationID='10358', type='port', name='Zeebrugge', positionID=332698, country='Netherlands', tripID=34, capacity=57}
+
+Weight: Borders{countryOrigin='Amsterdam', countryDestiny='Zeebrugge', weight=128.31978397540976}
+From 34 to 20-> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+ -> 
+Location{locationID='CH', type='capital', name='Bern', positionID=21, country='Switzerland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Switzerland', weight=754.0459104825462}
+From 34 to 25-> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+ -> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Austria', weight=524.395897820506}
+From 34 to 26-> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+ -> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='France', weight=877.7063567976248}
+From 34 to 27-> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+ -> 
+Location{locationID='LU', type='capital', name='Luxembourg', positionID=28, country='Luxembourg', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Luxembourg', weight=603.0888284261378}
+From 34 to 28-> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+ -> 
+Location{locationID='CZ', type='capital', name='Prague', positionID=29, country='Czech Republic', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Czech Republic', weight=281.3070395337596}
+From 34 to 30-> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+ -> 
+Location{locationID='BE', type='capital', name='Brussels', positionID=31, country='Belgium', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Belgium', weight=652.4956143465986}
+From 34 to 32-> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+ -> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Poland', weight=516.4059168730319}
+From 34 to 33-> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+ -> 
+Location{locationID='NL', type='capital', name='Amsterdam', positionID=34, country='Netherlands', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Netherlands', weight=574.821592880543}
+From 34 to 38-> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+ -> 
+Location{locationID='DK', type='capital', name='Copenhagen', positionID=39, country='Denmark', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Denmark', weight=354.2981234531948}
+From 34 to 91-> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+ -> 
+Location{locationID='10563', type='port', name='Rostock', positionID=571059, country='Germany', tripID=35, capacity=10}
+
+Weight: Borders{countryOrigin='Berlin', countryDestiny='Rostock', weight=711.181842651375}
+From 35 to 31-> 
+Location{locationID='IE', type='capital', name='Dublin', positionID=36, country='Ireland', tripID=0, capacity=1}
+ -> 
+Location{locationID='GB', type='capital', name='London', positionID=32, country='United Kingdom', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Ireland', countryDestiny='United Kingdom', weight=463.419307157346}
+From 36 to 29-> 
+Location{locationID='BY', type='capital', name='Minsk', positionID=37, country='Belarus', tripID=0, capacity=1}
+ -> 
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belarus', countryDestiny='Ukraine', weight=435.0448648918645}
+From 36 to 32-> 
+Location{locationID='BY', type='capital', name='Minsk', positionID=37, country='Belarus', tripID=0, capacity=1}
+ -> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belarus', countryDestiny='Poland', weight=475.44462238036743}
+From 36 to 37-> 
+Location{locationID='BY', type='capital', name='Minsk', positionID=37, country='Belarus', tripID=0, capacity=1}
+ -> 
+Location{locationID='LT', type='capital', name='Vilnius', positionID=38, country='Lithuania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belarus', countryDestiny='Lithuania', weight=169.82526508581853}
+From 36 to 39-> 
+Location{locationID='BY', type='capital', name='Minsk', positionID=37, country='Belarus', tripID=0, capacity=1}
+ -> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belarus', countryDestiny='Russia', weight=673.8753904453833}
+From 36 to 40-> 
+Location{locationID='BY', type='capital', name='Minsk', positionID=37, country='Belarus', tripID=0, capacity=1}
+ -> 
+Location{locationID='LV', type='capital', name='Riga', positionID=41, country='Latvia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belarus', countryDestiny='Latvia', weight=403.55280493802786}
+From 36 to 92-> 
+Location{locationID='BY', type='capital', name='Minsk', positionID=37, country='Belarus', tripID=0, capacity=1}
+ -> 
+Location{locationID='11174', type='port', name='flatbed', positionID=799796, country='Belarus', tripID=37, capacity=44}
+
+Weight: Borders{countryOrigin='Minsk', countryDestiny='flatbed', weight=12211.870455404418}
+From 37 to 32-> 
+Location{locationID='LT', type='capital', name='Vilnius', positionID=38, country='Lithuania', tripID=0, capacity=1}
+ -> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Lithuania', countryDestiny='Poland', weight=393.27791131420076}
+From 37 to 36-> 
+Location{locationID='LT', type='capital', name='Vilnius', positionID=38, country='Lithuania', tripID=0, capacity=1}
+ -> 
+Location{locationID='BY', type='capital', name='Minsk', positionID=37, country='Belarus', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belarus', countryDestiny='Lithuania', weight=169.82526508581853}
+From 37 to 39-> 
+Location{locationID='LT', type='capital', name='Vilnius', positionID=38, country='Lithuania', tripID=0, capacity=1}
+ -> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Lithuania', countryDestiny='Russia', weight=786.9204516586777}
+From 37 to 40-> 
+Location{locationID='LT', type='capital', name='Vilnius', positionID=38, country='Lithuania', tripID=0, capacity=1}
+ -> 
+Location{locationID='LV', type='capital', name='Riga', positionID=41, country='Latvia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Latvia', countryDestiny='Lithuania', weight=263.64608177147744}
+From 38 to 34-> 
+Location{locationID='DK', type='capital', name='Copenhagen', positionID=39, country='Denmark', tripID=0, capacity=1}
+ -> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Denmark', weight=354.2981234531948}
+From 39 to 8-> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+ -> 
+Location{locationID='GE', type='capital', name='Tbilisi', positionID=9, country='Georgia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Georgia', countryDestiny='Russia', weight=1649.7435127533436}
+From 39 to 29-> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+ -> 
+Location{locationID='UA', type='capital', name='Kyiv', positionID=30, country='Ukraine', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Russia', countryDestiny='Ukraine', weight=756.4553182315138}
+From 39 to 32-> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+ -> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Poland', countryDestiny='Russia', weight=1149.1854647157095}
+From 39 to 36-> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+ -> 
+Location{locationID='BY', type='capital', name='Minsk', positionID=37, country='Belarus', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belarus', countryDestiny='Russia', weight=673.8753904453833}
+From 39 to 37-> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+ -> 
+Location{locationID='LT', type='capital', name='Vilnius', positionID=38, country='Lithuania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Lithuania', countryDestiny='Russia', weight=786.9204516586777}
+From 39 to 40-> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+ -> 
+Location{locationID='LV', type='capital', name='Riga', positionID=41, country='Latvia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Latvia', countryDestiny='Russia', weight=840.9635633378313}
+From 39 to 42-> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+ -> 
+Location{locationID='EE', type='capital', name='Tallinn', positionID=43, country='Estonia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Estonia', countryDestiny='Russia', weight=867.8303795145504}
+From 39 to 43-> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+ -> 
+Location{locationID='NO', type='capital', name='Oslo', positionID=44, country='Norway', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Norway', countryDestiny='Russia', weight=1642.6471087556497}
+From 39 to 44-> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+ -> 
+Location{locationID='FI', type='capital', name='Helsinki', positionID=45, country='Finland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Finland', countryDestiny='Russia', weight=892.2223004825809}
+From 40 to 36-> 
+Location{locationID='LV', type='capital', name='Riga', positionID=41, country='Latvia', tripID=0, capacity=1}
+ -> 
+Location{locationID='BY', type='capital', name='Minsk', positionID=37, country='Belarus', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belarus', countryDestiny='Latvia', weight=403.55280493802786}
+From 40 to 37-> 
+Location{locationID='LV', type='capital', name='Riga', positionID=41, country='Latvia', tripID=0, capacity=1}
+ -> 
+Location{locationID='LT', type='capital', name='Vilnius', positionID=38, country='Lithuania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Latvia', countryDestiny='Lithuania', weight=263.64608177147744}
+From 40 to 39-> 
+Location{locationID='LV', type='capital', name='Riga', positionID=41, country='Latvia', tripID=0, capacity=1}
+ -> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Latvia', countryDestiny='Russia', weight=840.9635633378313}
+From 40 to 42-> 
+Location{locationID='LV', type='capital', name='Riga', positionID=41, country='Latvia', tripID=0, capacity=1}
+ -> 
+Location{locationID='EE', type='capital', name='Tallinn', positionID=43, country='Estonia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Estonia', countryDestiny='Latvia', weight=278.130758830495}
+From 41 to 43-> 
+Location{locationID='SE', type='capital', name='Stockholm', positionID=42, country='Sweden', tripID=0, capacity=1}
+ -> 
+Location{locationID='NO', type='capital', name='Oslo', positionID=44, country='Norway', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Norway', countryDestiny='Sweden', weight=415.4221232936702}
+From 41 to 44-> 
+Location{locationID='SE', type='capital', name='Stockholm', positionID=42, country='Sweden', tripID=0, capacity=1}
+ -> 
+Location{locationID='FI', type='capital', name='Helsinki', positionID=45, country='Finland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Finland', countryDestiny='Sweden', weight=396.33477590271076}
+From 42 to 39-> 
+Location{locationID='EE', type='capital', name='Tallinn', positionID=43, country='Estonia', tripID=0, capacity=1}
+ -> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Estonia', countryDestiny='Russia', weight=867.8303795145504}
+From 42 to 40-> 
+Location{locationID='EE', type='capital', name='Tallinn', positionID=43, country='Estonia', tripID=0, capacity=1}
+ -> 
+Location{locationID='LV', type='capital', name='Riga', positionID=41, country='Latvia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Estonia', countryDestiny='Latvia', weight=278.130758830495}
+From 43 to 39-> 
+Location{locationID='NO', type='capital', name='Oslo', positionID=44, country='Norway', tripID=0, capacity=1}
+ -> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Norway', countryDestiny='Russia', weight=1642.6471087556497}
+From 43 to 41-> 
+Location{locationID='NO', type='capital', name='Oslo', positionID=44, country='Norway', tripID=0, capacity=1}
+ -> 
+Location{locationID='SE', type='capital', name='Stockholm', positionID=42, country='Sweden', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Norway', countryDestiny='Sweden', weight=415.4221232936702}
+From 43 to 44-> 
+Location{locationID='NO', type='capital', name='Oslo', positionID=44, country='Norway', tripID=0, capacity=1}
+ -> 
+Location{locationID='FI', type='capital', name='Helsinki', positionID=45, country='Finland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Finland', countryDestiny='Norway', weight=786.2370579537827}
+From 44 to 39-> 
+Location{locationID='FI', type='capital', name='Helsinki', positionID=45, country='Finland', tripID=0, capacity=1}
+ -> 
+Location{locationID='RU', type='capital', name='Moscow', positionID=40, country='Russia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Finland', countryDestiny='Russia', weight=892.2223004825809}
+From 44 to 41-> 
+Location{locationID='FI', type='capital', name='Helsinki', positionID=45, country='Finland', tripID=0, capacity=1}
+ -> 
+Location{locationID='SE', type='capital', name='Stockholm', positionID=42, country='Sweden', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Finland', countryDestiny='Sweden', weight=396.33477590271076}
+From 44 to 43-> 
+Location{locationID='FI', type='capital', name='Helsinki', positionID=45, country='Finland', tripID=0, capacity=1}
+ -> 
+Location{locationID='NO', type='capital', name='Oslo', positionID=44, country='Norway', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Finland', countryDestiny='Norway', weight=786.2370579537827}
+From 46 to 54-> 
+Location{locationID='MX', type='capital', name='Mexico City', positionID=47, country='Mexico', tripID=0, capacity=1}
+ -> 
+Location{locationID='GT', type='capital', name='Guatemala City', positionID=55, country='Guatemala', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Guatemala', countryDestiny='Mexico', weight=1059.8134375105653}
+From 46 to 55-> 
+Location{locationID='MX', type='capital', name='Mexico City', positionID=47, country='Mexico', tripID=0, capacity=1}
+ -> 
+Location{locationID='BZ', type='capital', name='Belmopan', positionID=56, country='Belize', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belize', countryDestiny='Mexico', weight=1119.7283855743888}
+From 49 to 50-> 
+Location{locationID='PA', type='capital', name='Panama City', positionID=50, country='Panama', tripID=0, capacity=1}
+ -> 
+Location{locationID='CR', type='capital', name='San Jose', positionID=51, country='Costa Rica', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Costa Rica', countryDestiny='Panama', weight=510.32527417925195}
+From 49 to 64-> 
+Location{locationID='PA', type='capital', name='Panama City', positionID=50, country='Panama', tripID=0, capacity=1}
+ -> 
+Location{locationID='CO', type='capital', name='Bogota', positionID=65, country='Colombia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Panama', countryDestiny='Colombia', weight=773.3049136766377}
+From 50 to 49-> 
+Location{locationID='CR', type='capital', name='San Jose', positionID=51, country='Costa Rica', tripID=0, capacity=1}
+ -> 
+Location{locationID='PA', type='capital', name='Panama City', positionID=50, country='Panama', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Costa Rica', countryDestiny='Panama', weight=510.32527417925195}
+From 50 to 51-> 
+Location{locationID='CR', type='capital', name='San Jose', positionID=51, country='Costa Rica', tripID=0, capacity=1}
+ -> 
+Location{locationID='NI', type='capital', name='Managua', positionID=52, country='Nicaragua', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Costa Rica', countryDestiny='Nicaragua', weight=340.46336372053753}
+From 51 to 50-> 
+Location{locationID='NI', type='capital', name='Managua', positionID=52, country='Nicaragua', tripID=0, capacity=1}
+ -> 
+Location{locationID='CR', type='capital', name='San Jose', positionID=51, country='Costa Rica', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Costa Rica', countryDestiny='Nicaragua', weight=340.46336372053753}
+From 51 to 53-> 
+Location{locationID='NI', type='capital', name='Managua', positionID=52, country='Nicaragua', tripID=0, capacity=1}
+ -> 
+Location{locationID='HN', type='capital', name='Tegucigalpa', positionID=54, country='Honduras', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Honduras', countryDestiny='Nicaragua', weight=242.92449419889334}
+From 52 to 53-> 
+Location{locationID='SV', type='capital', name='San Salvador', positionID=53, country='El Salvador', tripID=0, capacity=1}
+ -> 
+Location{locationID='HN', type='capital', name='Tegucigalpa', positionID=54, country='Honduras', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Honduras', countryDestiny='El Salvador', weight=218.2863129350728}
+From 52 to 54-> 
+Location{locationID='SV', type='capital', name='San Salvador', positionID=53, country='El Salvador', tripID=0, capacity=1}
+ -> 
+Location{locationID='GT', type='capital', name='Guatemala City', positionID=55, country='Guatemala', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Guatemala', countryDestiny='El Salvador', weight=175.25965499283126}
+From 53 to 51-> 
+Location{locationID='HN', type='capital', name='Tegucigalpa', positionID=54, country='Honduras', tripID=0, capacity=1}
+ -> 
+Location{locationID='NI', type='capital', name='Managua', positionID=52, country='Nicaragua', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Honduras', countryDestiny='Nicaragua', weight=242.92449419889334}
+From 53 to 52-> 
+Location{locationID='HN', type='capital', name='Tegucigalpa', positionID=54, country='Honduras', tripID=0, capacity=1}
+ -> 
+Location{locationID='SV', type='capital', name='San Salvador', positionID=53, country='El Salvador', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Honduras', countryDestiny='El Salvador', weight=218.2863129350728}
+From 54 to 46-> 
+Location{locationID='GT', type='capital', name='Guatemala City', positionID=55, country='Guatemala', tripID=0, capacity=1}
+ -> 
+Location{locationID='MX', type='capital', name='Mexico City', positionID=47, country='Mexico', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Guatemala', countryDestiny='Mexico', weight=1059.8134375105653}
+From 54 to 52-> 
+Location{locationID='GT', type='capital', name='Guatemala City', positionID=55, country='Guatemala', tripID=0, capacity=1}
+ -> 
+Location{locationID='SV', type='capital', name='San Salvador', positionID=53, country='El Salvador', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Guatemala', countryDestiny='El Salvador', weight=175.25965499283126}
+From 55 to 46-> 
+Location{locationID='BZ', type='capital', name='Belmopan', positionID=56, country='Belize', tripID=0, capacity=1}
+ -> 
+Location{locationID='MX', type='capital', name='Mexico City', positionID=47, country='Mexico', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Belize', countryDestiny='Mexico', weight=1119.7283855743888}
+From 56 to 57-> 
+Location{locationID='UY', type='capital', name='Montevideo', positionID=57, country='Uruguay', tripID=0, capacity=1}
+ -> 
+Location{locationID='AR', type='capital', name='Buenos Aires', positionID=58, country='Argentina', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Argentina', countryDestiny='Uruguay', weight=230.4506113407644}
+From 56 to 61-> 
+Location{locationID='UY', type='capital', name='Montevideo', positionID=57, country='Uruguay', tripID=0, capacity=1}
+ -> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Brazil', countryDestiny='Uruguay', weight=2274.3714319452897}
+From 57 to 56-> 
+Location{locationID='AR', type='capital', name='Buenos Aires', positionID=58, country='Argentina', tripID=0, capacity=1}
+ -> 
+Location{locationID='UY', type='capital', name='Montevideo', positionID=57, country='Uruguay', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Argentina', countryDestiny='Uruguay', weight=230.4506113407644}
+From 57 to 58-> 
+Location{locationID='AR', type='capital', name='Buenos Aires', positionID=58, country='Argentina', tripID=0, capacity=1}
+ -> 
+Location{locationID='CL', type='capital', name='Santiago', positionID=59, country='Chile', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Argentina', countryDestiny='Chile', weight=1112.410226422371}
+From 57 to 59-> 
+Location{locationID='AR', type='capital', name='Buenos Aires', positionID=58, country='Argentina', tripID=0, capacity=1}
+ -> 
+Location{locationID='PY', type='capital', name='Asuncion', positionID=60, country='Paraguay', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Argentina', countryDestiny='Paraguay', weight=1039.6310369058256}
+From 57 to 60-> 
+Location{locationID='AR', type='capital', name='Buenos Aires', positionID=58, country='Argentina', tripID=0, capacity=1}
+ -> 
+Location{locationID='BO', type='capital', name='La Paz', positionID=61, country='Bolivia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Argentina', countryDestiny='Bolivia', weight=2220.9886991765525}
+From 57 to 61-> 
+Location{locationID='AR', type='capital', name='Buenos Aires', positionID=58, country='Argentina', tripID=0, capacity=1}
+ -> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Argentina', countryDestiny='Brazil', weight=2349.794478471186}
+From 58 to 57-> 
+Location{locationID='CL', type='capital', name='Santiago', positionID=59, country='Chile', tripID=0, capacity=1}
+ -> 
+Location{locationID='AR', type='capital', name='Buenos Aires', positionID=58, country='Argentina', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Argentina', countryDestiny='Chile', weight=1112.410226422371}
+From 58 to 60-> 
+Location{locationID='CL', type='capital', name='Santiago', positionID=59, country='Chile', tripID=0, capacity=1}
+ -> 
+Location{locationID='BO', type='capital', name='La Paz', positionID=61, country='Bolivia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bolivia', countryDestiny='Chile', weight=1901.496461180022}
+From 58 to 62-> 
+Location{locationID='CL', type='capital', name='Santiago', positionID=59, country='Chile', tripID=0, capacity=1}
+ -> 
+Location{locationID='PE', type='capital', name='Lima', positionID=63, country='Peru', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Chile', countryDestiny='Peru', weight=2466.187728471468}
+From 59 to 57-> 
+Location{locationID='PY', type='capital', name='Asuncion', positionID=60, country='Paraguay', tripID=0, capacity=1}
+ -> 
+Location{locationID='AR', type='capital', name='Buenos Aires', positionID=58, country='Argentina', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Argentina', countryDestiny='Paraguay', weight=1039.6310369058256}
+From 59 to 60-> 
+Location{locationID='PY', type='capital', name='Asuncion', positionID=60, country='Paraguay', tripID=0, capacity=1}
+ -> 
+Location{locationID='BO', type='capital', name='La Paz', positionID=61, country='Bolivia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bolivia', countryDestiny='Paraguay', weight=1460.2785494486895}
+From 59 to 61-> 
+Location{locationID='PY', type='capital', name='Asuncion', positionID=60, country='Paraguay', tripID=0, capacity=1}
+ -> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Brazil', countryDestiny='Paraguay', weight=1463.0639485691966}
+From 60 to 57-> 
+Location{locationID='BO', type='capital', name='La Paz', positionID=61, country='Bolivia', tripID=0, capacity=1}
+ -> 
+Location{locationID='AR', type='capital', name='Buenos Aires', positionID=58, country='Argentina', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Argentina', countryDestiny='Bolivia', weight=2220.9886991765525}
+From 60 to 58-> 
+Location{locationID='BO', type='capital', name='La Paz', positionID=61, country='Bolivia', tripID=0, capacity=1}
+ -> 
+Location{locationID='CL', type='capital', name='Santiago', positionID=59, country='Chile', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bolivia', countryDestiny='Chile', weight=1901.496461180022}
+From 60 to 59-> 
+Location{locationID='BO', type='capital', name='La Paz', positionID=61, country='Bolivia', tripID=0, capacity=1}
+ -> 
+Location{locationID='PY', type='capital', name='Asuncion', positionID=60, country='Paraguay', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bolivia', countryDestiny='Paraguay', weight=1460.2785494486895}
+From 60 to 61-> 
+Location{locationID='BO', type='capital', name='La Paz', positionID=61, country='Bolivia', tripID=0, capacity=1}
+ -> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bolivia', countryDestiny='Brazil', weight=2161.29518618453}
+From 60 to 62-> 
+Location{locationID='BO', type='capital', name='La Paz', positionID=61, country='Bolivia', tripID=0, capacity=1}
+ -> 
+Location{locationID='PE', type='capital', name='Lima', positionID=63, country='Peru', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bolivia', countryDestiny='Peru', weight=1078.8411460030907}
+From 61 to 56-> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+ -> 
+Location{locationID='UY', type='capital', name='Montevideo', positionID=57, country='Uruguay', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Brazil', countryDestiny='Uruguay', weight=2274.3714319452897}
+From 61 to 57-> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+ -> 
+Location{locationID='AR', type='capital', name='Buenos Aires', positionID=58, country='Argentina', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Argentina', countryDestiny='Brazil', weight=2349.794478471186}
+From 61 to 59-> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+ -> 
+Location{locationID='PY', type='capital', name='Asuncion', positionID=60, country='Paraguay', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Brazil', countryDestiny='Paraguay', weight=1463.0639485691966}
+From 61 to 60-> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+ -> 
+Location{locationID='BO', type='capital', name='La Paz', positionID=61, country='Bolivia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bolivia', countryDestiny='Brazil', weight=2161.29518618453}
+From 61 to 62-> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+ -> 
+Location{locationID='PE', type='capital', name='Lima', positionID=63, country='Peru', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Brazil', countryDestiny='Peru', weight=3168.493035983146}
+From 61 to 64-> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+ -> 
+Location{locationID='CO', type='capital', name='Bogota', positionID=65, country='Colombia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Brazil', countryDestiny='Colombia', weight=3663.6686171043016}
+From 61 to 65-> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+ -> 
+Location{locationID='SR', type='capital', name='Paramaribo', positionID=66, country='Suriname', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Brazil', countryDestiny='Suriname', weight=2531.9126200802775}
+From 61 to 66-> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+ -> 
+Location{locationID='GY', type='capital', name='Georgetown', positionID=67, country='Guyana', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Brazil', countryDestiny='Guyana', weight=2751.7804583308675}
+From 61 to 67-> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+ -> 
+Location{locationID='VE', type='capital', name='Caracas', positionID=68, country='Venezuela', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Brazil', countryDestiny='Venezuela', weight=3588.458311679439}
+From 62 to 58-> 
+Location{locationID='PE', type='capital', name='Lima', positionID=63, country='Peru', tripID=0, capacity=1}
+ -> 
+Location{locationID='CL', type='capital', name='Santiago', positionID=59, country='Chile', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Chile', countryDestiny='Peru', weight=2466.187728471468}
+From 62 to 60-> 
+Location{locationID='PE', type='capital', name='Lima', positionID=63, country='Peru', tripID=0, capacity=1}
+ -> 
+Location{locationID='BO', type='capital', name='La Paz', positionID=61, country='Bolivia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bolivia', countryDestiny='Peru', weight=1078.8411460030907}
+From 62 to 61-> 
+Location{locationID='PE', type='capital', name='Lima', positionID=63, country='Peru', tripID=0, capacity=1}
+ -> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Brazil', countryDestiny='Peru', weight=3168.493035983146}
+From 62 to 63-> 
+Location{locationID='PE', type='capital', name='Lima', positionID=63, country='Peru', tripID=0, capacity=1}
+ -> 
+Location{locationID='EC', type='capital', name='Quito', positionID=64, country='Ecuador', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Ecuador', countryDestiny='Peru', weight=1325.0688138179996}
+From 62 to 64-> 
+Location{locationID='PE', type='capital', name='Lima', positionID=63, country='Peru', tripID=0, capacity=1}
+ -> 
+Location{locationID='CO', type='capital', name='Bogota', positionID=65, country='Colombia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Colombia', countryDestiny='Peru', weight=1880.200511310185}
+From 63 to 62-> 
+Location{locationID='EC', type='capital', name='Quito', positionID=64, country='Ecuador', tripID=0, capacity=1}
+ -> 
+Location{locationID='PE', type='capital', name='Lima', positionID=63, country='Peru', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Ecuador', countryDestiny='Peru', weight=1325.0688138179996}
+From 63 to 64-> 
+Location{locationID='EC', type='capital', name='Quito', positionID=64, country='Ecuador', tripID=0, capacity=1}
+ -> 
+Location{locationID='CO', type='capital', name='Bogota', positionID=65, country='Colombia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Colombia', countryDestiny='Ecuador', weight=726.815058579703}
+From 64 to 49-> 
+Location{locationID='CO', type='capital', name='Bogota', positionID=65, country='Colombia', tripID=0, capacity=1}
+ -> 
+Location{locationID='PA', type='capital', name='Panama City', positionID=50, country='Panama', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Panama', countryDestiny='Colombia', weight=773.3049136766377}
+From 64 to 61-> 
+Location{locationID='CO', type='capital', name='Bogota', positionID=65, country='Colombia', tripID=0, capacity=1}
+ -> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Brazil', countryDestiny='Colombia', weight=3663.6686171043016}
+From 64 to 62-> 
+Location{locationID='CO', type='capital', name='Bogota', positionID=65, country='Colombia', tripID=0, capacity=1}
+ -> 
+Location{locationID='PE', type='capital', name='Lima', positionID=63, country='Peru', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Colombia', countryDestiny='Peru', weight=1880.200511310185}
+From 64 to 63-> 
+Location{locationID='CO', type='capital', name='Bogota', positionID=65, country='Colombia', tripID=0, capacity=1}
+ -> 
+Location{locationID='EC', type='capital', name='Quito', positionID=64, country='Ecuador', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Colombia', countryDestiny='Ecuador', weight=726.815058579703}
+From 64 to 67-> 
+Location{locationID='CO', type='capital', name='Bogota', positionID=65, country='Colombia', tripID=0, capacity=1}
+ -> 
+Location{locationID='VE', type='capital', name='Caracas', positionID=68, country='Venezuela', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Colombia', countryDestiny='Venezuela', weight=1028.8193350389733}
+From 65 to 61-> 
+Location{locationID='SR', type='capital', name='Paramaribo', positionID=66, country='Suriname', tripID=0, capacity=1}
+ -> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Brazil', countryDestiny='Suriname', weight=2531.9126200802775}
+From 66 to 61-> 
+Location{locationID='GY', type='capital', name='Georgetown', positionID=67, country='Guyana', tripID=0, capacity=1}
+ -> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Brazil', countryDestiny='Guyana', weight=2751.7804583308675}
+From 67 to 61-> 
+Location{locationID='VE', type='capital', name='Caracas', positionID=68, country='Venezuela', tripID=0, capacity=1}
+ -> 
+Location{locationID='BR', type='capital', name='Brasilia', positionID=62, country='Brazil', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Brazil', countryDestiny='Venezuela', weight=3588.458311679439}
+From 67 to 64-> 
+Location{locationID='VE', type='capital', name='Caracas', positionID=68, country='Venezuela', tripID=0, capacity=1}
+ -> 
+Location{locationID='CO', type='capital', name='Bogota', positionID=65, country='Colombia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Colombia', countryDestiny='Venezuela', weight=1028.8193350389733}
+From 68 to 0-> 
+Location{locationID='29002', type='port', name='Marsaxlokk', positionID=445419, country='Cyprus', tripID=1, capacity=35}
+ -> 
+Location{locationID='CY', type='capital', name='Nicosia', positionID=1, country='Cyprus', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Nicosia', countryDestiny='Marsaxlokk', weight=37.71426383381406}
+From 68 to 82-> 
+Location{locationID='29002', type='port', name='Marsaxlokk', positionID=445419, country='Cyprus', tripID=1, capacity=35}
+ -> 
+Location{locationID='18476', type='port', name='Mareiro', positionID=848581, country='Romania', tripID=17, capacity=16}
+
+Weight: Borders{countryOrigin='Cyprus', countryDestiny='Romania', weight=1258.9493389802708}
+From 68 to 85-> 
+Location{locationID='29002', type='port', name='Marsaxlokk', positionID=445419, country='Cyprus', tripID=1, capacity=35}
+ -> 
+Location{locationID='18937', type='port', name='platform ', positionID=402908, country='Slovakia', tripID=25, capacity=15}
+
+Weight: Borders{countryOrigin='Cyprus', countryDestiny='Slovakia', weight=1021.3372348435564}
+From 68 to 86-> 
+Location{locationID='29002', type='port', name='Marsaxlokk', positionID=445419, country='Cyprus', tripID=1, capacity=35}
+ -> 
+Location{locationID='30045', type='port', name='box', positionID=586855, country='Austria', tripID=26, capacity=11}
+
+Weight: Borders{countryOrigin='Cyprus', countryDestiny='Austria', weight=1389.1953500804987}
+From 69 to 1-> 
+Location{locationID='14635', type='port', name='Aarhus', positionID=621073, country='Malta', tripID=2, capacity=32}
+ -> 
+Location{locationID='MT', type='capital', name='Valletta', positionID=2, country='Malta', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Valletta', countryDestiny='Aarhus', weight=5.724836673994898}
+From 69 to 73-> 
+Location{locationID='14635', type='port', name='Aarhus', positionID=621073, country='Malta', tripID=2, capacity=32}
+ -> 
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+
+Weight: Borders{countryOrigin='Malta', countryDestiny='Armenia', weight=1063.9618790299623}
+From 69 to 78-> 
+Location{locationID='14635', type='port', name='Aarhus', positionID=621073, country='Malta', tripID=2, capacity=32}
+ -> 
+Location{locationID='28261', type='port', name='Setubal', positionID=838647, country='Macedonia', tripID=11, capacity=11}
+
+Weight: Borders{countryOrigin='Malta', countryDestiny='Macedonia', weight=1082.3695174023699}
+From 69 to 86-> 
+Location{locationID='14635', type='port', name='Aarhus', positionID=621073, country='Malta', tripID=2, capacity=32}
+ -> 
+Location{locationID='30045', type='port', name='box', positionID=586855, country='Austria', tripID=26, capacity=11}
+
+Weight: Borders{countryOrigin='Malta', countryDestiny='Austria', weight=672.5821932949411}
+From 70 to 2-> 
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+ -> 
+Location{locationID='GR', type='capital', name='Athens', positionID=3, country='Greece', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Athens', countryDestiny='Copenhagen', weight=2255.358738375957}
+From 70 to 71-> 
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+ -> 
+Location{locationID='20301', type='port', name='Matarani', positionID=533922, country='Portugal', tripID=4, capacity=19}
+
+Weight: Borders{countryOrigin='Greece', countryDestiny='Portugal', weight=157.65317093187764}
+From 70 to 74-> 
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+ -> 
+Location{locationID='22226', type='port', name='Kaliningrad', positionID=274074, country='Spain', tripID=7, capacity=63}
+
+Weight: Borders{countryOrigin='Spain', countryDestiny='Greece', weight=1958.2952542954479}
+From 70 to 76-> 
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+ -> 
+Location{locationID='27792', type='port', name='Leixoes', positionID=358817, country='Georgia', tripID=9, capacity=69}
+
+Weight: Borders{countryOrigin='Greece', countryDestiny='Georgia', weight=571.8538996056477}
+From 70 to 87-> 
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+ -> 
+Location{locationID='10860', type='port', name='Rio Grande', positionID=965762, country='France', tripID=27, capacity=28}
+
+Weight: Borders{countryOrigin='France', countryDestiny='Greece', weight=767.0848690375537}
+From 70 to 90-> 
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+ -> 
+Location{locationID='10358', type='port', name='Zeebrugge', positionID=332698, country='Netherlands', tripID=34, capacity=57}
+
+Weight: Borders{countryOrigin='Greece', countryDestiny='Netherlands', weight=664.7854284071431}
+From 70 to 91-> 
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+ -> 
+Location{locationID='10563', type='port', name='Rostock', positionID=571059, country='Germany', tripID=35, capacity=10}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Greece', weight=706.6486133399695}
+From 71 to 3-> 
+Location{locationID='20301', type='port', name='Matarani', positionID=533922, country='Portugal', tripID=4, capacity=19}
+ -> 
+Location{locationID='PT', type='capital', name='Lisbon', positionID=4, country='Portugal', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Lisbon', countryDestiny='Matarani', weight=2481.260569519735}
+From 71 to 70-> 
+Location{locationID='20301', type='port', name='Matarani', positionID=533922, country='Portugal', tripID=4, capacity=19}
+ -> 
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+
+Weight: Borders{countryOrigin='Greece', countryDestiny='Portugal', weight=157.65317093187764}
+From 71 to 75-> 
+Location{locationID='20301', type='port', name='Matarani', positionID=533922, country='Portugal', tripID=4, capacity=19}
+ -> 
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+
+Weight: Borders{countryOrigin='Portugal', countryDestiny='Albania', weight=510.71631840275586}
+From 71 to 76-> 
+Location{locationID='20301', type='port', name='Matarani', positionID=533922, country='Portugal', tripID=4, capacity=19}
+ -> 
+Location{locationID='27792', type='port', name='Leixoes', positionID=358817, country='Georgia', tripID=9, capacity=69}
+
+Weight: Borders{countryOrigin='Portugal', countryDestiny='Georgia', weight=414.2107521089476}
+From 72 to 4-> 
+Location{locationID='20351', type='port', name='Genoa', positionID=535090, country='Turkey', tripID=5, capacity=65}
+ -> 
+Location{locationID='TR', type='capital', name='Ankara', positionID=5, country='Turkey', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Ankara', countryDestiny='Genoa', weight=12470.278106427426}
+From 72 to 80-> 
+Location{locationID='20351', type='port', name='Genoa', positionID=535090, country='Turkey', tripID=5, capacity=65}
+ -> 
+Location{locationID='18012', type='port', name='Esmeraldas', positionID=732715, country='Kosovo', tripID=13, capacity=20}
+
+Weight: Borders{countryOrigin='Turkey', countryDestiny='Kosovo', weight=2603.1845698314114}
+From 72 to 81-> 
+Location{locationID='20351', type='port', name='Genoa', positionID=535090, country='Turkey', tripID=5, capacity=65}
+ -> 
+Location{locationID='18326', type='port', name='Manzanillo', positionID=492320, country='Bulgaria', tripID=14, capacity=99}
+
+Weight: Borders{countryOrigin='Turkey', countryDestiny='Bulgaria', weight=2164.960014314617}
+From 72 to 92-> 
+Location{locationID='20351', type='port', name='Genoa', positionID=535090, country='Turkey', tripID=5, capacity=65}
+ -> 
+Location{locationID='11174', type='port', name='flatbed', positionID=799796, country='Belarus', tripID=37, capacity=44}
+
+Weight: Borders{countryOrigin='Turkey', countryDestiny='Belarus', weight=2620.4198014766807}
+From 73 to 5-> 
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+ -> 
+Location{locationID='AM', type='capital', name='Yerevan', positionID=6, country='Armenia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Yerevan', countryDestiny='Grundartangi', weight=2939.8087747606023}
+From 73 to 69-> 
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+ -> 
+Location{locationID='14635', type='port', name='Aarhus', positionID=621073, country='Malta', tripID=2, capacity=32}
+
+Weight: Borders{countryOrigin='Malta', countryDestiny='Armenia', weight=1063.9618790299623}
+From 73 to 78-> 
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+ -> 
+Location{locationID='28261', type='port', name='Setubal', positionID=838647, country='Macedonia', tripID=11, capacity=11}
+
+Weight: Borders{countryOrigin='Armenia', countryDestiny='Macedonia', weight=291.15070265152804}
+From 73 to 79-> 
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+ -> 
+Location{locationID='28313', type='port', name='Bahia Blanca', positionID=611495, country='Montenegro', tripID=12, capacity=75}
+
+Weight: Borders{countryOrigin='Montenegro', countryDestiny='Armenia', weight=1621.4123573012891}
+From 73 to 89-> 
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+ -> 
+Location{locationID='10138', type='port', name='Antwerp', positionID=722806, country='Poland', tripID=33, capacity=19}
+
+Weight: Borders{countryOrigin='Poland', countryDestiny='Armenia', weight=940.3013952615172}
+From 73 to 90-> 
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+ -> 
+Location{locationID='10358', type='port', name='Zeebrugge', positionID=332698, country='Netherlands', tripID=34, capacity=57}
+
+Weight: Borders{countryOrigin='Armenia', countryDestiny='Netherlands', weight=828.8437190412479}
+From 73 to 91-> 
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+ -> 
+Location{locationID='10563', type='port', name='Rostock', positionID=571059, country='Germany', tripID=35, capacity=10}
+
+Weight: Borders{countryOrigin='Armenia', countryDestiny='Germany', weight=880.5163082837795}
+From 74 to 6-> 
+Location{locationID='22226', type='port', name='Kaliningrad', positionID=274074, country='Spain', tripID=7, capacity=63}
+ -> 
+Location{locationID='ES', type='capital', name='Madrid', positionID=7, country='Spain', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Madrid', countryDestiny='Kaliningrad', weight=2909.3507689024204}
+From 74 to 70-> 
+Location{locationID='22226', type='port', name='Kaliningrad', positionID=274074, country='Spain', tripID=7, capacity=63}
+ -> 
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+
+Weight: Borders{countryOrigin='Spain', countryDestiny='Greece', weight=1958.2952542954479}
+From 74 to 87-> 
+Location{locationID='22226', type='port', name='Kaliningrad', positionID=274074, country='Spain', tripID=7, capacity=63}
+ -> 
+Location{locationID='10860', type='port', name='Rio Grande', positionID=965762, country='France', tripID=27, capacity=28}
+
+Weight: Borders{countryOrigin='Spain', countryDestiny='France', weight=2036.6938757034998}
+From 74 to 91-> 
+Location{locationID='22226', type='port', name='Kaliningrad', positionID=274074, country='Spain', tripID=7, capacity=63}
+ -> 
+Location{locationID='10563', type='port', name='Rostock', positionID=571059, country='Germany', tripID=35, capacity=10}
+
+Weight: Borders{countryOrigin='Spain', countryDestiny='Germany', weight=2044.1930095780715}
+From 75 to 7-> 
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+ -> 
+Location{locationID='AL', type='capital', name='Tirana', positionID=8, country='Albania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Tirana', countryDestiny='Gdansk', weight=1488.509008700767}
+From 75 to 71-> 
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+ -> 
+Location{locationID='20301', type='port', name='Matarani', positionID=533922, country='Portugal', tripID=4, capacity=19}
+
+Weight: Borders{countryOrigin='Portugal', countryDestiny='Albania', weight=510.71631840275586}
+From 75 to 76-> 
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+ -> 
+Location{locationID='27792', type='port', name='Leixoes', positionID=358817, country='Georgia', tripID=9, capacity=69}
+
+Weight: Borders{countryOrigin='Albania', countryDestiny='Georgia', weight=122.4933807600315}
+From 75 to 82-> 
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+ -> 
+Location{locationID='18476', type='port', name='Mareiro', positionID=848581, country='Romania', tripID=17, capacity=16}
+
+Weight: Borders{countryOrigin='Romania', countryDestiny='Albania', weight=1164.193739733742}
+From 75 to 83-> 
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+ -> 
+Location{locationID='23428', type='port', name='Atlantis', positionID=136177, country='Slovenia', tripID=20, capacity=61}
+
+Weight: Borders{countryOrigin='Slovenia', countryDestiny='Albania', weight=664.0812792404058}
+From 75 to 84-> 
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+ -> 
+Location{locationID='13012', type='port', name='Sargaço', positionID=591409, country='Switzerland', tripID=21, capacity=90}
+
+Weight: Borders{countryOrigin='Switzerland', countryDestiny='Albania', weight=747.7577895068123}
+From 75 to 88-> 
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+ -> 
+Location{locationID='10136', type='port', name='Valencia', positionID=747345, country='United Kingdom', tripID=32, capacity=64}
+
+Weight: Borders{countryOrigin='Albania', countryDestiny='United Kingdom', weight=588.0714854185405}
+From 76 to 8-> 
+Location{locationID='27792', type='port', name='Leixoes', positionID=358817, country='Georgia', tripID=9, capacity=69}
+ -> 
+Location{locationID='GE', type='capital', name='Tbilisi', positionID=9, country='Georgia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Tbilisi', countryDestiny='Leixoes', weight=2378.796478171741}
+From 76 to 70-> 
+Location{locationID='27792', type='port', name='Leixoes', positionID=358817, country='Georgia', tripID=9, capacity=69}
+ -> 
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+
+Weight: Borders{countryOrigin='Greece', countryDestiny='Georgia', weight=571.8538996056477}
+From 76 to 71-> 
+Location{locationID='27792', type='port', name='Leixoes', positionID=358817, country='Georgia', tripID=9, capacity=69}
+ -> 
+Location{locationID='20301', type='port', name='Matarani', positionID=533922, country='Portugal', tripID=4, capacity=19}
+
+Weight: Borders{countryOrigin='Portugal', countryDestiny='Georgia', weight=414.2107521089476}
+From 76 to 75-> 
+Location{locationID='27792', type='port', name='Leixoes', positionID=358817, country='Georgia', tripID=9, capacity=69}
+ -> 
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+
+Weight: Borders{countryOrigin='Albania', countryDestiny='Georgia', weight=122.4933807600315}
+From 77 to 9-> 
+Location{locationID='28082', type='port', name='Venice', positionID=510955, country='Italy', tripID=10, capacity=85}
+ -> 
+Location{locationID='IT', type='capital', name='Rome', positionID=10, country='Italy', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Rome', countryDestiny='Venice', weight=1760.0358267608174}
+From 77 to 79-> 
+Location{locationID='28082', type='port', name='Venice', positionID=510955, country='Italy', tripID=10, capacity=85}
+ -> 
+Location{locationID='28313', type='port', name='Bahia Blanca', positionID=611495, country='Montenegro', tripID=12, capacity=75}
+
+Weight: Borders{countryOrigin='Italy', countryDestiny='Montenegro', weight=298.5790924913868}
+From 77 to 87-> 
+Location{locationID='28082', type='port', name='Venice', positionID=510955, country='Italy', tripID=10, capacity=85}
+ -> 
+Location{locationID='10860', type='port', name='Rio Grande', positionID=965762, country='France', tripID=27, capacity=28}
+
+Weight: Borders{countryOrigin='Italy', countryDestiny='France', weight=1386.9358716445781}
+From 77 to 89-> 
+Location{locationID='28082', type='port', name='Venice', positionID=510955, country='Italy', tripID=10, capacity=85}
+ -> 
+Location{locationID='10138', type='port', name='Antwerp', positionID=722806, country='Poland', tripID=33, capacity=19}
+
+Weight: Borders{countryOrigin='Italy', countryDestiny='Poland', weight=737.3485260078211}
+From 78 to 10-> 
+Location{locationID='28261', type='port', name='Setubal', positionID=838647, country='Macedonia', tripID=11, capacity=11}
+ -> 
+Location{locationID='MK', type='capital', name='Skopje', positionID=11, country='Macedonia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Skopje', countryDestiny='Setubal', weight=824.1140708423184}
+From 78 to 69-> 
+Location{locationID='28261', type='port', name='Setubal', positionID=838647, country='Macedonia', tripID=11, capacity=11}
+ -> 
+Location{locationID='14635', type='port', name='Aarhus', positionID=621073, country='Malta', tripID=2, capacity=32}
+
+Weight: Borders{countryOrigin='Malta', countryDestiny='Macedonia', weight=1082.3695174023699}
+From 78 to 73-> 
+Location{locationID='28261', type='port', name='Setubal', positionID=838647, country='Macedonia', tripID=11, capacity=11}
+ -> 
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+
+Weight: Borders{countryOrigin='Armenia', countryDestiny='Macedonia', weight=291.15070265152804}
+From 78 to 86-> 
+Location{locationID='28261', type='port', name='Setubal', positionID=838647, country='Macedonia', tripID=11, capacity=11}
+ -> 
+Location{locationID='30045', type='port', name='box', positionID=586855, country='Austria', tripID=26, capacity=11}
+
+Weight: Borders{countryOrigin='Macedonia', countryDestiny='Austria', weight=800.3255485792131}
+From 78 to 90-> 
+Location{locationID='28261', type='port', name='Setubal', positionID=838647, country='Macedonia', tripID=11, capacity=11}
+ -> 
+Location{locationID='10358', type='port', name='Zeebrugge', positionID=332698, country='Netherlands', tripID=34, capacity=57}
+
+Weight: Borders{countryOrigin='Macedonia', countryDestiny='Netherlands', weight=867.0769573146142}
+From 79 to 11-> 
+Location{locationID='28313', type='port', name='Bahia Blanca', positionID=611495, country='Montenegro', tripID=12, capacity=75}
+ -> 
+Location{locationID='ME', type='capital', name='Podgorica', positionID=12, country='Montenegro', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Podgorica', countryDestiny='Bahia Blanca', weight=2412.828465170908}
+From 79 to 73-> 
+Location{locationID='28313', type='port', name='Bahia Blanca', positionID=611495, country='Montenegro', tripID=12, capacity=75}
+ -> 
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+
+Weight: Borders{countryOrigin='Montenegro', countryDestiny='Armenia', weight=1621.4123573012891}
+From 79 to 77-> 
+Location{locationID='28313', type='port', name='Bahia Blanca', positionID=611495, country='Montenegro', tripID=12, capacity=75}
+ -> 
+Location{locationID='28082', type='port', name='Venice', positionID=510955, country='Italy', tripID=10, capacity=85}
+
+Weight: Borders{countryOrigin='Italy', countryDestiny='Montenegro', weight=298.5790924913868}
+From 79 to 89-> 
+Location{locationID='28313', type='port', name='Bahia Blanca', positionID=611495, country='Montenegro', tripID=12, capacity=75}
+ -> 
+Location{locationID='10138', type='port', name='Antwerp', positionID=722806, country='Poland', tripID=33, capacity=19}
+
+Weight: Borders{countryOrigin='Montenegro', countryDestiny='Poland', weight=752.2711599243056}
+From 80 to 12-> 
+Location{locationID='18012', type='port', name='Esmeraldas', positionID=732715, country='Kosovo', tripID=13, capacity=20}
+ -> 
+Location{locationID='KO', type='capital', name='Pristina', positionID=13, country='Kosovo', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Pristina', countryDestiny='Esmeraldas', weight=12346.556016196246}
+From 80 to 72-> 
+Location{locationID='18012', type='port', name='Esmeraldas', positionID=732715, country='Kosovo', tripID=13, capacity=20}
+ -> 
+Location{locationID='20351', type='port', name='Genoa', positionID=535090, country='Turkey', tripID=5, capacity=65}
+
+Weight: Borders{countryOrigin='Turkey', countryDestiny='Kosovo', weight=2603.1845698314114}
+From 80 to 81-> 
+Location{locationID='18012', type='port', name='Esmeraldas', positionID=732715, country='Kosovo', tripID=13, capacity=20}
+ -> 
+Location{locationID='18326', type='port', name='Manzanillo', positionID=492320, country='Bulgaria', tripID=14, capacity=99}
+
+Weight: Borders{countryOrigin='Kosovo', countryDestiny='Bulgaria', weight=4765.728720656036}
+From 80 to 92-> 
+Location{locationID='18012', type='port', name='Esmeraldas', positionID=732715, country='Kosovo', tripID=13, capacity=20}
+ -> 
+Location{locationID='11174', type='port', name='flatbed', positionID=799796, country='Belarus', tripID=37, capacity=44}
+
+Weight: Borders{countryOrigin='Kosovo', countryDestiny='Belarus', weight=1186.3903286584134}
+From 81 to 13-> 
+Location{locationID='18326', type='port', name='Manzanillo', positionID=492320, country='Bulgaria', tripID=14, capacity=99}
+ -> 
+Location{locationID='BG', type='capital', name='Sofia', positionID=14, country='Bulgaria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Sofia', countryDestiny='Manzanillo', weight=10984.923743666888}
+From 81 to 72-> 
+Location{locationID='18326', type='port', name='Manzanillo', positionID=492320, country='Bulgaria', tripID=14, capacity=99}
+ -> 
+Location{locationID='20351', type='port', name='Genoa', positionID=535090, country='Turkey', tripID=5, capacity=65}
+
+Weight: Borders{countryOrigin='Turkey', countryDestiny='Bulgaria', weight=2164.960014314617}
+From 81 to 80-> 
+Location{locationID='18326', type='port', name='Manzanillo', positionID=492320, country='Bulgaria', tripID=14, capacity=99}
+ -> 
+Location{locationID='18012', type='port', name='Esmeraldas', positionID=732715, country='Kosovo', tripID=13, capacity=20}
+
+Weight: Borders{countryOrigin='Kosovo', countryDestiny='Bulgaria', weight=4765.728720656036}
+From 81 to 92-> 
+Location{locationID='18326', type='port', name='Manzanillo', positionID=492320, country='Bulgaria', tripID=14, capacity=99}
+ -> 
+Location{locationID='11174', type='port', name='flatbed', positionID=799796, country='Belarus', tripID=37, capacity=44}
+
+Weight: Borders{countryOrigin='Bulgaria', countryDestiny='Belarus', weight=4682.1629068863485}
+From 82 to 16-> 
+Location{locationID='18476', type='port', name='Mareiro', positionID=848581, country='Romania', tripID=17, capacity=16}
+ -> 
+Location{locationID='RO', type='capital', name='Bucharest', positionID=17, country='Romania', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bucharest', countryDestiny='Mareiro', weight=190.81697526327451}
+From 82 to 68-> 
+Location{locationID='18476', type='port', name='Mareiro', positionID=848581, country='Romania', tripID=17, capacity=16}
+ -> 
+Location{locationID='29002', type='port', name='Marsaxlokk', positionID=445419, country='Cyprus', tripID=1, capacity=35}
+
+Weight: Borders{countryOrigin='Cyprus', countryDestiny='Romania', weight=1258.9493389802708}
+From 82 to 75-> 
+Location{locationID='18476', type='port', name='Mareiro', positionID=848581, country='Romania', tripID=17, capacity=16}
+ -> 
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+
+Weight: Borders{countryOrigin='Romania', countryDestiny='Albania', weight=1164.193739733742}
+From 82 to 85-> 
+Location{locationID='18476', type='port', name='Mareiro', positionID=848581, country='Romania', tripID=17, capacity=16}
+ -> 
+Location{locationID='18937', type='port', name='platform ', positionID=402908, country='Slovakia', tripID=25, capacity=15}
+
+Weight: Borders{countryOrigin='Romania', countryDestiny='Slovakia', weight=1168.0926511361586}
+From 82 to 86-> 
+Location{locationID='18476', type='port', name='Mareiro', positionID=848581, country='Romania', tripID=17, capacity=16}
+ -> 
+Location{locationID='30045', type='port', name='box', positionID=586855, country='Austria', tripID=26, capacity=11}
+
+Weight: Borders{countryOrigin='Romania', countryDestiny='Austria', weight=888.8535179672343}
+From 83 to 19-> 
+Location{locationID='23428', type='port', name='Atlantis', positionID=136177, country='Slovenia', tripID=20, capacity=61}
+ -> 
+Location{locationID='SI', type='capital', name='Ljubljana', positionID=20, country='Slovenia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Ljubljana', countryDestiny='Atlantis', weight=1712.626279735301}
+From 83 to 75-> 
+Location{locationID='23428', type='port', name='Atlantis', positionID=136177, country='Slovenia', tripID=20, capacity=61}
+ -> 
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+
+Weight: Borders{countryOrigin='Slovenia', countryDestiny='Albania', weight=664.0812792404058}
+From 83 to 84-> 
+Location{locationID='23428', type='port', name='Atlantis', positionID=136177, country='Slovenia', tripID=20, capacity=61}
+ -> 
+Location{locationID='13012', type='port', name='Sargaço', positionID=591409, country='Switzerland', tripID=21, capacity=90}
+
+Weight: Borders{countryOrigin='Slovenia', countryDestiny='Switzerland', weight=115.04857553747183}
+From 83 to 88-> 
+Location{locationID='23428', type='port', name='Atlantis', positionID=136177, country='Slovenia', tripID=20, capacity=61}
+ -> 
+Location{locationID='10136', type='port', name='Valencia', positionID=747345, country='United Kingdom', tripID=32, capacity=64}
+
+Weight: Borders{countryOrigin='Slovenia', countryDestiny='United Kingdom', weight=80.68657318553359}
+From 84 to 20-> 
+Location{locationID='13012', type='port', name='Sargaço', positionID=591409, country='Switzerland', tripID=21, capacity=90}
+ -> 
+Location{locationID='CH', type='capital', name='Bern', positionID=21, country='Switzerland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bern', countryDestiny='Sargaço', weight=1963.145196589228}
+From 84 to 75-> 
+Location{locationID='13012', type='port', name='Sargaço', positionID=591409, country='Switzerland', tripID=21, capacity=90}
+ -> 
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+
+Weight: Borders{countryOrigin='Switzerland', countryDestiny='Albania', weight=747.7577895068123}
+From 84 to 83-> 
+Location{locationID='13012', type='port', name='Sargaço', positionID=591409, country='Switzerland', tripID=21, capacity=90}
+ -> 
+Location{locationID='23428', type='port', name='Atlantis', positionID=136177, country='Slovenia', tripID=20, capacity=61}
+
+Weight: Borders{countryOrigin='Slovenia', countryDestiny='Switzerland', weight=115.04857553747183}
+From 84 to 88-> 
+Location{locationID='13012', type='port', name='Sargaço', positionID=591409, country='Switzerland', tripID=21, capacity=90}
+ -> 
+Location{locationID='10136', type='port', name='Valencia', positionID=747345, country='United Kingdom', tripID=32, capacity=64}
+
+Weight: Borders{countryOrigin='Switzerland', countryDestiny='United Kingdom', weight=166.07692872674926}
+From 85 to 24-> 
+Location{locationID='18937', type='port', name='platform ', positionID=402908, country='Slovakia', tripID=25, capacity=15}
+ -> 
+Location{locationID='SK', type='capital', name='Bratislava', positionID=25, country='Slovakia', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Bratislava', countryDestiny='platform ', weight=2050.4721477935227}
+From 85 to 68-> 
+Location{locationID='18937', type='port', name='platform ', positionID=402908, country='Slovakia', tripID=25, capacity=15}
+ -> 
+Location{locationID='29002', type='port', name='Marsaxlokk', positionID=445419, country='Cyprus', tripID=1, capacity=35}
+
+Weight: Borders{countryOrigin='Cyprus', countryDestiny='Slovakia', weight=1021.3372348435564}
+From 85 to 82-> 
+Location{locationID='18937', type='port', name='platform ', positionID=402908, country='Slovakia', tripID=25, capacity=15}
+ -> 
+Location{locationID='18476', type='port', name='Mareiro', positionID=848581, country='Romania', tripID=17, capacity=16}
+
+Weight: Borders{countryOrigin='Romania', countryDestiny='Slovakia', weight=1168.0926511361586}
+From 85 to 86-> 
+Location{locationID='18937', type='port', name='platform ', positionID=402908, country='Slovakia', tripID=25, capacity=15}
+ -> 
+Location{locationID='30045', type='port', name='box', positionID=586855, country='Austria', tripID=26, capacity=11}
+
+Weight: Borders{countryOrigin='Slovakia', countryDestiny='Austria', weight=1856.3310797874233}
+From 86 to 25-> 
+Location{locationID='30045', type='port', name='box', positionID=586855, country='Austria', tripID=26, capacity=11}
+ -> 
+Location{locationID='AT', type='capital', name='Vienna', positionID=26, country='Austria', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Vienna', countryDestiny='box', weight=893.0973470793944}
+From 86 to 68-> 
+Location{locationID='30045', type='port', name='box', positionID=586855, country='Austria', tripID=26, capacity=11}
+ -> 
+Location{locationID='29002', type='port', name='Marsaxlokk', positionID=445419, country='Cyprus', tripID=1, capacity=35}
+
+Weight: Borders{countryOrigin='Cyprus', countryDestiny='Austria', weight=1389.1953500804987}
+From 86 to 69-> 
+Location{locationID='30045', type='port', name='box', positionID=586855, country='Austria', tripID=26, capacity=11}
+ -> 
+Location{locationID='14635', type='port', name='Aarhus', positionID=621073, country='Malta', tripID=2, capacity=32}
+
+Weight: Borders{countryOrigin='Malta', countryDestiny='Austria', weight=672.5821932949411}
+From 86 to 78-> 
+Location{locationID='30045', type='port', name='box', positionID=586855, country='Austria', tripID=26, capacity=11}
+ -> 
+Location{locationID='28261', type='port', name='Setubal', positionID=838647, country='Macedonia', tripID=11, capacity=11}
+
+Weight: Borders{countryOrigin='Macedonia', countryDestiny='Austria', weight=800.3255485792131}
+From 86 to 82-> 
+Location{locationID='30045', type='port', name='box', positionID=586855, country='Austria', tripID=26, capacity=11}
+ -> 
+Location{locationID='18476', type='port', name='Mareiro', positionID=848581, country='Romania', tripID=17, capacity=16}
+
+Weight: Borders{countryOrigin='Romania', countryDestiny='Austria', weight=888.8535179672343}
+From 86 to 85-> 
+Location{locationID='30045', type='port', name='box', positionID=586855, country='Austria', tripID=26, capacity=11}
+ -> 
+Location{locationID='18937', type='port', name='platform ', positionID=402908, country='Slovakia', tripID=25, capacity=15}
+
+Weight: Borders{countryOrigin='Slovakia', countryDestiny='Austria', weight=1856.3310797874233}
+From 87 to 26-> 
+Location{locationID='10860', type='port', name='Rio Grande', positionID=965762, country='France', tripID=27, capacity=28}
+ -> 
+Location{locationID='FR', type='capital', name='Paris', positionID=27, country='France', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Paris', countryDestiny='Rio Grande', weight=242.410153577046}
+From 87 to 70-> 
+Location{locationID='10860', type='port', name='Rio Grande', positionID=965762, country='France', tripID=27, capacity=28}
+ -> 
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+
+Weight: Borders{countryOrigin='France', countryDestiny='Greece', weight=767.0848690375537}
+From 87 to 74-> 
+Location{locationID='10860', type='port', name='Rio Grande', positionID=965762, country='France', tripID=27, capacity=28}
+ -> 
+Location{locationID='22226', type='port', name='Kaliningrad', positionID=274074, country='Spain', tripID=7, capacity=63}
+
+Weight: Borders{countryOrigin='Spain', countryDestiny='France', weight=2036.6938757034998}
+From 87 to 77-> 
+Location{locationID='10860', type='port', name='Rio Grande', positionID=965762, country='France', tripID=27, capacity=28}
+ -> 
+Location{locationID='28082', type='port', name='Venice', positionID=510955, country='Italy', tripID=10, capacity=85}
+
+Weight: Borders{countryOrigin='Italy', countryDestiny='France', weight=1386.9358716445781}
+From 87 to 90-> 
+Location{locationID='10860', type='port', name='Rio Grande', positionID=965762, country='France', tripID=27, capacity=28}
+ -> 
+Location{locationID='10358', type='port', name='Zeebrugge', positionID=332698, country='Netherlands', tripID=34, capacity=57}
+
+Weight: Borders{countryOrigin='France', countryDestiny='Netherlands', weight=147.85681166169334}
+From 87 to 91-> 
+Location{locationID='10860', type='port', name='Rio Grande', positionID=965762, country='France', tripID=27, capacity=28}
+ -> 
+Location{locationID='10563', type='port', name='Rostock', positionID=571059, country='Germany', tripID=35, capacity=10}
+
+Weight: Borders{countryOrigin='France', countryDestiny='Germany', weight=65.68621944199731}
+From 88 to 31-> 
+Location{locationID='10136', type='port', name='Valencia', positionID=747345, country='United Kingdom', tripID=32, capacity=64}
+ -> 
+Location{locationID='GB', type='capital', name='London', positionID=32, country='United Kingdom', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='London', countryDestiny='Valencia', weight=1782.9431981538953}
+From 88 to 75-> 
+Location{locationID='10136', type='port', name='Valencia', positionID=747345, country='United Kingdom', tripID=32, capacity=64}
+ -> 
+Location{locationID='25350', type='port', name='Gdansk', positionID=101472, country='Albania', tripID=8, capacity=66}
+
+Weight: Borders{countryOrigin='Albania', countryDestiny='United Kingdom', weight=588.0714854185405}
+From 88 to 83-> 
+Location{locationID='10136', type='port', name='Valencia', positionID=747345, country='United Kingdom', tripID=32, capacity=64}
+ -> 
+Location{locationID='23428', type='port', name='Atlantis', positionID=136177, country='Slovenia', tripID=20, capacity=61}
+
+Weight: Borders{countryOrigin='Slovenia', countryDestiny='United Kingdom', weight=80.68657318553359}
+From 88 to 84-> 
+Location{locationID='10136', type='port', name='Valencia', positionID=747345, country='United Kingdom', tripID=32, capacity=64}
+ -> 
+Location{locationID='13012', type='port', name='Sargaço', positionID=591409, country='Switzerland', tripID=21, capacity=90}
+
+Weight: Borders{countryOrigin='Switzerland', countryDestiny='United Kingdom', weight=166.07692872674926}
+From 89 to 32-> 
+Location{locationID='10138', type='port', name='Antwerp', positionID=722806, country='Poland', tripID=33, capacity=19}
+ -> 
+Location{locationID='PL', type='capital', name='Warsaw', positionID=33, country='Poland', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Warsaw', countryDestiny='Antwerp', weight=2164.08079731109}
+From 89 to 73-> 
+Location{locationID='10138', type='port', name='Antwerp', positionID=722806, country='Poland', tripID=33, capacity=19}
+ -> 
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+
+Weight: Borders{countryOrigin='Poland', countryDestiny='Armenia', weight=940.3013952615172}
+From 89 to 77-> 
+Location{locationID='10138', type='port', name='Antwerp', positionID=722806, country='Poland', tripID=33, capacity=19}
+ -> 
+Location{locationID='28082', type='port', name='Venice', positionID=510955, country='Italy', tripID=10, capacity=85}
+
+Weight: Borders{countryOrigin='Italy', countryDestiny='Poland', weight=737.3485260078211}
+From 89 to 79-> 
+Location{locationID='10138', type='port', name='Antwerp', positionID=722806, country='Poland', tripID=33, capacity=19}
+ -> 
+Location{locationID='28313', type='port', name='Bahia Blanca', positionID=611495, country='Montenegro', tripID=12, capacity=75}
+
+Weight: Borders{countryOrigin='Montenegro', countryDestiny='Poland', weight=752.2711599243056}
+From 90 to 33-> 
+Location{locationID='10358', type='port', name='Zeebrugge', positionID=332698, country='Netherlands', tripID=34, capacity=57}
+ -> 
+Location{locationID='NL', type='capital', name='Amsterdam', positionID=34, country='Netherlands', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Amsterdam', countryDestiny='Zeebrugge', weight=128.31978397540976}
+From 90 to 70-> 
+Location{locationID='10358', type='port', name='Zeebrugge', positionID=332698, country='Netherlands', tripID=34, capacity=57}
+ -> 
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+
+Weight: Borders{countryOrigin='Greece', countryDestiny='Netherlands', weight=664.7854284071431}
+From 90 to 73-> 
+Location{locationID='10358', type='port', name='Zeebrugge', positionID=332698, country='Netherlands', tripID=34, capacity=57}
+ -> 
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+
+Weight: Borders{countryOrigin='Armenia', countryDestiny='Netherlands', weight=828.8437190412479}
+From 90 to 78-> 
+Location{locationID='10358', type='port', name='Zeebrugge', positionID=332698, country='Netherlands', tripID=34, capacity=57}
+ -> 
+Location{locationID='28261', type='port', name='Setubal', positionID=838647, country='Macedonia', tripID=11, capacity=11}
+
+Weight: Borders{countryOrigin='Macedonia', countryDestiny='Netherlands', weight=867.0769573146142}
+From 90 to 87-> 
+Location{locationID='10358', type='port', name='Zeebrugge', positionID=332698, country='Netherlands', tripID=34, capacity=57}
+ -> 
+Location{locationID='10860', type='port', name='Rio Grande', positionID=965762, country='France', tripID=27, capacity=28}
+
+Weight: Borders{countryOrigin='France', countryDestiny='Netherlands', weight=147.85681166169334}
+From 90 to 91-> 
+Location{locationID='10358', type='port', name='Zeebrugge', positionID=332698, country='Netherlands', tripID=34, capacity=57}
+ -> 
+Location{locationID='10563', type='port', name='Rostock', positionID=571059, country='Germany', tripID=35, capacity=10}
+
+Weight: Borders{countryOrigin='Netherlands', countryDestiny='Germany', weight=89.02538017943763}
+From 91 to 34-> 
+Location{locationID='10563', type='port', name='Rostock', positionID=571059, country='Germany', tripID=35, capacity=10}
+ -> 
+Location{locationID='DE', type='capital', name='Berlin', positionID=35, country='Germany', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Berlin', countryDestiny='Rostock', weight=711.181842651375}
+From 91 to 70-> 
+Location{locationID='10563', type='port', name='Rostock', positionID=571059, country='Germany', tripID=35, capacity=10}
+ -> 
+Location{locationID='25007', type='port', name='Copenhagen', positionID=497051, country='Greece', tripID=3, capacity=15}
+
+Weight: Borders{countryOrigin='Germany', countryDestiny='Greece', weight=706.6486133399695}
+From 91 to 73-> 
+Location{locationID='10563', type='port', name='Rostock', positionID=571059, country='Germany', tripID=35, capacity=10}
+ -> 
+Location{locationID='27248', type='port', name='Grundartangi', positionID=199859, country='Armenia', tripID=6, capacity=52}
+
+Weight: Borders{countryOrigin='Armenia', countryDestiny='Germany', weight=880.5163082837795}
+From 91 to 74-> 
+Location{locationID='10563', type='port', name='Rostock', positionID=571059, country='Germany', tripID=35, capacity=10}
+ -> 
+Location{locationID='22226', type='port', name='Kaliningrad', positionID=274074, country='Spain', tripID=7, capacity=63}
+
+Weight: Borders{countryOrigin='Spain', countryDestiny='Germany', weight=2044.1930095780715}
+From 91 to 87-> 
+Location{locationID='10563', type='port', name='Rostock', positionID=571059, country='Germany', tripID=35, capacity=10}
+ -> 
+Location{locationID='10860', type='port', name='Rio Grande', positionID=965762, country='France', tripID=27, capacity=28}
+
+Weight: Borders{countryOrigin='France', countryDestiny='Germany', weight=65.68621944199731}
+From 91 to 90-> 
+Location{locationID='10563', type='port', name='Rostock', positionID=571059, country='Germany', tripID=35, capacity=10}
+ -> 
+Location{locationID='10358', type='port', name='Zeebrugge', positionID=332698, country='Netherlands', tripID=34, capacity=57}
+
+Weight: Borders{countryOrigin='Netherlands', countryDestiny='Germany', weight=89.02538017943763}
+From 92 to 36-> 
+Location{locationID='11174', type='port', name='flatbed', positionID=799796, country='Belarus', tripID=37, capacity=44}
+ -> 
+Location{locationID='BY', type='capital', name='Minsk', positionID=37, country='Belarus', tripID=0, capacity=1}
+
+Weight: Borders{countryOrigin='Minsk', countryDestiny='flatbed', weight=12211.870455404418}
+From 92 to 72-> 
+Location{locationID='11174', type='port', name='flatbed', positionID=799796, country='Belarus', tripID=37, capacity=44}
+ -> 
+Location{locationID='20351', type='port', name='Genoa', positionID=535090, country='Turkey', tripID=5, capacity=65}
+
+Weight: Borders{countryOrigin='Turkey', countryDestiny='Belarus', weight=2620.4198014766807}
+From 92 to 80-> 
+Location{locationID='11174', type='port', name='flatbed', positionID=799796, country='Belarus', tripID=37, capacity=44}
+ -> 
+Location{locationID='18012', type='port', name='Esmeraldas', positionID=732715, country='Kosovo', tripID=13, capacity=20}
+
+Weight: Borders{countryOrigin='Kosovo', countryDestiny='Belarus', weight=1186.3903286584134}
+From 92 to 81-> 
+Location{locationID='11174', type='port', name='flatbed', positionID=799796, country='Belarus', tripID=37, capacity=44}
+ -> 
+Location{locationID='18326', type='port', name='Manzanillo', positionID=492320, country='Bulgaria', tripID=14, capacity=99}
+
+Weight: Borders{countryOrigin='Bulgaria', countryDestiny='Belarus', weight=4682.1629068863485}
+

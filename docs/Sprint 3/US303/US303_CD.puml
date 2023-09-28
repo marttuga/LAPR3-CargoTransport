@@ -1,0 +1,26 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+
+package Controller{
+class ClosestCitiesAndPortsController {
++getClosestPlaces(Graph<Location, Borders> graph, Location place, int nClosest, List<Country> countries)
+}
+}
+
+package Domain {
+
+class ClosestCitiesAndPorts{
++getClosestPlaces(Graph<Location, Borders> graph, Location place, int nClosest, List<Country> countries)
++belongsToContinent(List<Country> continents, String continent, Location location)
+}
+
+class ClosestPlacesSystem{
++outPutResume(String resume)
+}
+}
+
+ClosestCitiesAndPortsController ..> ClosestCitiesAndPorts
+ClosestCitiesAndPorts..> ClosestPlacesSystem
+
+@enduml

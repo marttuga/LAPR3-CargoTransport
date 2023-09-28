@@ -1,0 +1,17 @@
+@startuml
+
+autonumber
+
+skinparam sequenceMessageAlign left
+
+actor "Traffic Manager" as tm
+
+activate tm
+
+tm -> ":System" : Starts to import ships from a text file into a BST
+
+":System" --> tm : Informs (in)success of the operation
+
+deactivate tm
+
+@enduml

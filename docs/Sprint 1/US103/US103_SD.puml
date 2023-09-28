@@ -1,0 +1,56 @@
+@startuml
+autonumber
+'hide footbox
+actor "Traffic manager" as TM
+
+participant ":ShipSortedTemporallyController" as CTRL
+participant ":BST<ShipMMSI>" as BSTMMSI
+participant ":ShipSortedTemporally" as sst
+participant ":PositionalMessage" as pm
+participant ":List<ShipMMSI>" as LMMSI
+participant ":ShipSortedTemporallyOutPut" as OUTP
+activate TM
+alt chooses to search the ship by MMSI
+TM -> CTRL : inserts the MMSI of the ship
+activate CTRL
+CTRL -> BSTMMSI: shipList: getShipslist()
+activate BSTMMSI
+deactivate BSTMMSI
+CTRL -> sst: shipSorted = sortTemporally(MMSI, tree)
+CTRL -> TM: Asks interval of time
+deactivate CTRL
+TM -> CTRL:Chooses period of time
+activate CTRL
+CTRL -> sst: positionalMessage = positionValues(list, startDatePeriod, endDatePeriod)
+activate sst
+sst -> sst: checkDate(startDatePeriod, endDatePeriod)
+sst -> pm: positionMessage = PositionMessage(MMSI, vesselType, sOG, cOG, date, lat, lon)
+
+activate pm
+deactivate sst
+pm->LMMSI: mMSI= getMMSI()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: vesselType= getVesselType()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: sOG= getsOG()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: cOG= getsOG()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: date= getDate()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: lon= getLon()
+activate LMMSI
+deactivate LMMSI
+pm->LMMSI: lat= getLat()
+activate LMMSI
+deactivate LMMSI
+CTRL-> OUTP**: PositionalMessages= outPutPositionalMessages(positionalMessages)
+
+CTRL -> TM: Shows positional messages sent during that time period organized temporally
+deactivate CTRL
+@enduml

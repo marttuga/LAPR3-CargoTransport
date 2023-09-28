@@ -1,0 +1,34 @@
+@startuml
+autonumber
+'hide footbox
+actor "Traffic manager" as TM
+
+participant ":MostTravelledDistanceController" as CTRL
+participant ":BST<ShipMMSI>" as BSTMMSI
+participant ":MostTravelledDistance" as mtd
+participant ":List<ShipMMSI>" as LMMSI
+participant ":MostTravelledDistanceOutput" as OUTP
+activate TM
+
+TM -> CTRL : Starts to analyse ships travelling distances and averages speeds
+activate CTRL
+CTRL -> TM: Asks interval of time
+deactivate CTRL
+
+TM -> CTRL:Selects beginning and end dates
+activate CTRL
+CTRL -> BSTMMSI: shipList: getShipslist()
+activate BSTMMSI
+deactivate BSTMMSI
+CTRL -> mtd: topNships = getTopNShips(listTree, startDate, endDate, n)
+activate mtd
+mtd -> mtd: checkDate(startDate, endDate)
+mtd -> mtd: cointainShip (list, MMSI)
+mtd -> mtd: sameMMSILIST (list, MMSI)
+deactivate mtd
+
+CTRL-> OUTP**: topNShips= outPutTopNships(list)
+deactivate CTRL
+CTRL -> TM: Shows the top-N ships with the most kilometres travelled and their average speed grouped by vessel type
+deactivate CTRL
+@enduml

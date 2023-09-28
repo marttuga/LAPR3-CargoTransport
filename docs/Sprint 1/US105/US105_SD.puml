@@ -1,0 +1,84 @@
+@startuml
+autonumber
+'hide footbox
+actor "Traffic manager" as TM
+
+participant ":ListMmsiMovTDDDController" as CTRL
+
+participant ":BST<ShipMMSI>" as BSTMMSI
+participant ":ListMmsiMovTDDD" as listmmtddd
+participant ":ListMMTDDDOutput" as OUTP
+participant ":List<ShipMMSI>" as LMMSI
+participant "shipResume:ShipResume" as shipR
+participant "shipAtrib:ShipAtrib" as ship
+participant "shipMmsi:ShipMMSI" as MMSI
+
+
+
+activate TM
+
+alt chooses to sort by descending travelled distance
+
+TM -> CTRL : chooses to sort by travelled distance
+
+activate CTRL
+
+
+CTRL -> BSTMMSI: shipList: getShipslist()
+activate BSTMMSI
+deactivate BSTMMSI
+
+CTRL -> listmmtddd :shipListAtrib: ListMmsiMovTDDD(BST<ShipMMSI> )
+
+activate listmmtddd
+deactivate listmmtddd
+
+
+CTRL->listmmtddd: listDescTravDist(List<ShipAtrib>)
+
+activate listmmtddd
+
+
+CTRL-> OUTP**: sortedList= outputList(List<ShipAtrib>)
+
+deactivate CTRL
+
+deactivate listmmtddd
+
+
+
+
+
+
+else chooses to sort by ascending number of movements
+
+TM -> CTRL : chooses to sort by number of movements
+
+activate CTRL
+
+
+CTRL -> BSTMMSI: shipList: getShipslist()
+activate BSTMMSI
+deactivate BSTMMSI
+
+CTRL -> listmmtddd :shipListAtrib: ListMmsiMovTDDD(BST<ShipMMSI> )
+
+activate listmmtddd
+deactivate listmmtddd
+
+CTRL->listmmtddd: listAsceNumMov(List<ShipAtrib>)
+
+activate listmmtddd
+CTRL-> OUTP**: sortedList= outputList(List<ShipAtrib>)
+deactivate listmmtddd
+
+
+deactivate CTRL
+deactivate listmmtddd
+
+end
+
+
+
+
+@enduml

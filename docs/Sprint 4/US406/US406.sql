@@ -1,0 +1,24 @@
+--US406
+SET SERVEROUTPUT ON;
+
+DROP FUNCTION func_get_Trips;
+
+CREATE OR REPLACE FUNCTION func_get_Trips (v_SHIP_MMSI SHIP.MMSI%TYPE) 
+return sys_refcursor
+
+AS
+trips sys_refcursor;
+
+BEGIN
+
+OPEN trips FOR
+
+SELECT t.TRIP_ID, t.DEPARTURE, t.ARRIVAL, t.DEPARTURE_DATE, t.ARRIVAL_DATE FROM TRIP t,
+    (SELECT s.STAFF_ID FROM STAFF s)
+        WHERE (t.ARRIVAL_DATE < SYSDATE
+        AND t.MMSI = v_SHIP_MMSI
+        AND occupancyRateManifest(212351000,'2020-12-17','2020-12-19') < 66);
+
+
+RETURN (trips);
+END;

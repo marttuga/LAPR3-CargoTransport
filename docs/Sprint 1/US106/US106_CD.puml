@@ -1,0 +1,111 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+
+package Controller{
+class MostTravelledDistanceController{
++MostTravelledDistanceController()
++getTopNShips(listTree, startDate, endDate, n)
+}
+}
+
+
+package Domain{
+class Ship {
+  - mMSI
+  -baseDateTime
+  -lat
+  -lon
+  -sog
+  -cog
+  -heading
+  -vesselName
+  -iMO
+  -callSign
+  -vesselType
+  -length
+  -width
+  -draft
+  -cargo
+  -transcieverClass
+
+  +getMMSI()
+  +getBaseDateTime()
+  +getLat()
+  +getLon()
+  +getSOG()
+  +getCOG()
+  +getHeading()
+  +getVesselType()
+  +getLenght()
+  +getWidth()
+  +getDraft()
+  +getCargo()
+  +getTranscieverClass()
+  +setMMSI(mMSI)
+  +setBaseDateTime(baseDateTime)
+  +setLati(lati)
+  +setLong(long)
+  +setSOG(sog)
+  +setCOG(cog)
+  +setHeading(heading)
+  +setVesselType(vesselType)
+  +setLenght(lenght)
+  +setWidth(width)
+  +setDraft(draft)
+  +setCargo(cargo)
+  +setTranscieverClass(transcieverClass)
+  +Ship()
+}
+
+class ShipMMSI{
++ShipMMSI(ship)
++ShipMMSI(List<Map.Entry<String, ShipMMSI>>)
++getMapList()
++compareTo(ShipMMSI)
++toString()
+}
+
+}
+
+package Services{
+class MostTravelledDistance{
++getTopNShips(listTree, startDate, endDate, n)
++containShip(list, mMSI)
++checkDate(firstDate, lastDate, testDate)
++sameMMSIList(list, mMSI)
+}
+
+ class ShipResume {
+    +getShipResume( mMSI, BST<ShipMMSI> )
+    +getBaseDateTimeInicial(List<ShipMMSI>)
+    +getBaseDateTimeFinal(List<ShipMMSI> )
+    +getTotalMovementTime(List<ShipMMSI>)
+    +getTotalNumberOfMovements(List<ShipMMSI>)
+    +getMaxSOG(List<ShipMMSI>)
+    +getMeanSOG(List<ShipMMSI> )
+    +getMeanCOG(List<ShipMMSI> )
+    +getMaxCOG(List<ShipMMSI>)
+    +containShip( mMSI, List<Map.Entry<ShipMMSI, Double>> )
+    +getDepartureLatitude(List<ShipMMSI>)
+    + getDepartureLongitude(List<ShipMMSI> )
+    +getArrivalLatitude(List<ShipMMSI> )
+    +getArrivalLongitude(List<ShipMMSI> )
+    +getTravelDistance(List<ShipMMSI> )
+    +getDeltaDistance(List<ShipMMSI> )
+}
+}
+
+package Utils{
+class TopNShipsOutput{
++outputTopNships(list)
+}
+
+MostTravelledDistanceController..> MostTravelledDistance
+MostTravelledDistance..>Ship
+MostTravelledDistance..>ShipMMSI
+MostTravelledDistance..> ShipResume
+MostTravelledDistance..>TopNShipsOutput
+ShipMMSI..>Ship
+}
+@enduml

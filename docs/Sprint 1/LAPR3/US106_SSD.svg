@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="240.16px" preserveAspectRatio="none" style="width:572px;height:240px;" version="1.1" viewBox="0 0 572 240" width="572.28px" zoomAndPan="magnify"><defs><filter height="300%" id="f146wm44eb67ok" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="1.52"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="3.04" dy="3.04" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FFFFFF" filter="url(#f146wm44eb67ok)" height="86.1888" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="40.28" y="75.7031"/><rect fill="#FFFFFF" filter="url(#f146wm44eb67ok)" height="23.0672" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="535.04" y="92.6903"/><rect fill="#FFFFFF" filter="url(#f146wm44eb67ok)" height="23.0672" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="535.04" y="138.8247"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="44.08" x2="44.08" y1="68.1031" y2="175.5719"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="538.84" x2="538.84" y1="68.1031" y2="175.5719"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="76" x="3.8" y="65.7652">Traffic Manager</text><ellipse cx="44.08" cy="11.4" fill="#FEFECE" filter="url(#f146wm44eb67ok)" rx="6.08" ry="6.08" style="stroke:#A80036;stroke-width:1.52;"/><path d="M44.08,17.48 L44.08,38 M34.2,23.56 L53.96,23.56 M44.08,38 L34.2,49.4 M44.08,38 L53.96,49.4 " fill="none" filter="url(#f146wm44eb67ok)" style="stroke:#A80036;stroke-width:1.52;"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="76" x="3.8" y="185.8571">Traffic Manager</text><ellipse cx="44.08" cy="195.795" fill="#FEFECE" filter="url(#f146wm44eb67ok)" rx="6.08" ry="6.08" style="stroke:#A80036;stroke-width:1.52;"/><path d="M44.08,201.875 L44.08,222.395 M34.2,207.955 L53.96,207.955 M44.08,222.395 L34.2,233.795 M44.08,222.395 L53.96,233.795 " fill="none" filter="url(#f146wm44eb67ok)" style="stroke:#A80036;stroke-width:1.52;"/><rect fill="#FEFECE" filter="url(#f146wm44eb67ok)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="48.64" x="513" y="40.28"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="38" x="518.32" y="56.6452">:System</text><rect fill="#FEFECE" filter="url(#f146wm44eb67ok)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="48.64" x="513" y="174.8119"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="38" x="518.32" y="191.1771">:System</text><rect fill="#FFFFFF" filter="url(#f146wm44eb67ok)" height="86.1888" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="40.28" y="75.7031"/><rect fill="#FFFFFF" filter="url(#f146wm44eb67ok)" height="23.0672" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="535.04" y="92.6903"/><rect fill="#FFFFFF" filter="url(#f146wm44eb67ok)" height="23.0672" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="535.04" y="138.8247"/><polygon fill="#A80036" points="525.92,89.6503,533.52,92.6903,525.92,95.7303,528.96,92.6903" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="47.88" x2="530.48" y1="92.6903" y2="92.6903"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="53.2" y="88.9994">1</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="284.24" x="61.56" y="88.9994">Starts to analyse ships travelling distances and averages speeds</text><polygon fill="#A80036" points="56.24,112.7175,48.64,115.7575,56.24,118.7975,53.2,115.7575" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:2.0,2.0;" x1="51.68" x2="538.08" y1="115.7575" y2="115.7575"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="60.8" y="112.0666">2</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="83.6" x="69.16" y="112.0666">Asks interval dates</text><polygon fill="#A80036" points="525.92,135.7847,533.52,138.8247,525.92,141.8647,528.96,138.8247" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="47.88" x2="530.48" y1="138.8247" y2="138.8247"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="53.2" y="135.1338">3</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="143.64" x="61.56" y="135.1338">Selects beginning and end dates</text><polygon fill="#A80036" points="52.44,158.8519,44.84,161.8919,52.44,164.9319,49.4,161.8919" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:2.0,2.0;" x1="47.88" x2="538.08" y1="161.8919" y2="161.8919"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="57" y="158.201">4</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="460.56" x="65.36" y="158.201">Shows the top-N ships with the most kilometres travelled and their average speed grouped by vessel type</text><!--MD5=[96043afc0f4d60c6abcbea66e9719672]
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+actor TM as "Traffic Manager"
+activate TM
+
+TM -> ":System": Starts to analyse ships travelling distances and averages speeds
+activate ":System"
+":System" - -> TM: Asks interval dates
+deactivate ":System"
+
+TM -> ":System": Selects beginning and end dates
+activate ":System"
+
+":System" - -> TM: Shows the top-N ships with the most kilometres travelled and their average speed grouped by vessel type
+deactivate ":System"
+deactivate TM
+
+
+
+@enduml
+
+@startuml
+
+autonumber
+actor TM as "Traffic Manager"
+activate TM
+
+TM -> ":System": Starts to analyse ships travelling distances and averages speeds
+activate ":System"
+":System" - -> TM: Asks interval dates
+deactivate ":System"
+
+TM -> ":System": Selects beginning and end dates
+activate ":System"
+
+":System" - -> TM: Shows the top-N ships with the most kilometres travelled and their average speed grouped by vessel type
+deactivate ":System"
+deactivate TM
+
+
+
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 10:25:05 GMT 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

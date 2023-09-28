@@ -1,0 +1,111 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+
+package Controller{
+class ShipSortedTemporallyController{
++ShipSortedTemporallyController()
++sortTemporally(mMSI, BST<ShipMMSI>)
++positionValues(List<ShipMMSI>, startDatePeriod, endDatePeriod)
+}
+}
+
+
+package Domain{
+class PositionalMMessage{
+ -mMSI
+ -vesselType
+ -date
+ -lat
+ -lon
+ -sog
+ -cog
+
+ +getMMSI()
+ +getVesselType()
+ +getBaseDateTime()
+ +getLat()
+ +getLon()
+ +getSOG()
+ +getCOG()
+ +toString()
+}
+
+class Ship {
+  - mMSI
+  -baseDateTime
+  -lat
+  -lon
+  -sog
+  -cog
+  -heading
+  -vesselName
+  -iMO
+  -callSign
+  -vesselType
+  -length
+  -width
+  -draft
+  -cargo
+  -transcieverClass
+
+  +getMMSI()
+  +getBaseDateTime()
+  +getLat()
+  +getLon()
+  +getSOG()
+  +getCOG()
+  +getHeading()
+  +getVesselType()
+  +getLenght()
+  +getWidth()
+  +getDraft()
+  +getCargo()
+  +getTranscieverClass()
+  +setMMSI(mMSI)
+  +setBaseDateTime(baseDateTime)
+  +setLati(lati)
+  +setLong(long)
+  +setSOG(sog)
+  +setCOG(cog)
+  +setHeading(heading)
+  +setVesselType(vesselType)
+  +setLenght(lenght)
+  +setWidth(width)
+  +setDraft(draft)
+  +setCargo(cargo)
+  +setTranscieverClass(transcieverClass)
+  +Ship()
+}
+
+class ShipMMSI{
++ShipMMSI(ship)
++ShipMMSI(List<Map.Entry<String, ShipMMSI>>)
++getMapList()
++compareTo(ShipMMSI)
++toString()
+}
+
+}
+
+package Services{
+class ShipSortedTemporally{
++sortTemporally(mMSI, BST<ShipMMSI>)
++positionValues(List<ShipMMSI>, startDatePeriod, endDatePeriod)
++checkDate(firstDate, lastDate, testDate)
+}
+}
+
+package Utils{
+class ShipSortedTemporallyOutput{
++outputShipSorted(List<PositionalMessage> positionsList)
+}
+
+ShipSortedTemporallyController..> ShipSortedTemporally
+PositionalMMessage..>Ship
+PositionalMMessage..>ShipMMSI
+ShipSortedTemporally..>PositionalMMessage
+ShipSortedTemporally..>ShipSortedTemporallyOutput
+ShipMMSI..>Ship
+}
+@enduml

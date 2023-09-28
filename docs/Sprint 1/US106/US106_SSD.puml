@@ -1,0 +1,22 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+actor TM as "Traffic Manager"
+activate TM
+
+TM -> ":System": Starts to analyse ships travelling distances and averages speeds
+activate ":System"
+":System" --> TM: Asks interval dates
+deactivate ":System"
+
+TM -> ":System": Selects beginning and end dates
+activate ":System"
+
+":System" --> TM: Shows the top-N ships with the most kilometres travelled and their average speed grouped by vessel type
+deactivate ":System"
+deactivate TM
+
+
+
+@enduml

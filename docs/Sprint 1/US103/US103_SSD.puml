@@ -1,0 +1,13 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+
+autonumber
+actor TM as "Traffic Manager"
+
+
+TM -> ":System": Inserts ship's MMSI
+":System" --> TM: Asks interval of time
+
+TM -> ":System": Chooses period of time
+":System" --> TM: Shows positional messages sent during that time period organized temporally
+@enduml

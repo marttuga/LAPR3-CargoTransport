@@ -1,0 +1,30 @@
+@startuml
+autonumber
+
+actor "Traffic Manager" as TM
+
+participant ClosestCitiesAndPortsController as CTRL
+participant ClosestCitiesAndPorts as CITPOR
+participant ClosestPlacesSystem as OUTP
+
+activate TM
+
+TM -> CTRL : Find the closest places to all others
+
+activate CTRL
+
+CTRL -> CITPOR : getClosestPlaces()
+
+activate CITPOR
+
+CITPOR -> OUTP : outPutResume()
+
+deactivate CITPOR
+
+deactivate OUTP
+
+CTRL -> TM : Informs the (in)success of the operation.
+
+deactivate CTRL
+
+@enduml

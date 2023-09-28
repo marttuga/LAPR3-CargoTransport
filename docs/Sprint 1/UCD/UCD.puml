@@ -1,0 +1,47 @@
+@startuml
+left to right direction
+
+    actor "Traffic Manager" as t
+    actor "Project Manager" as pm
+
+
+    usecase US101 as "US101: Import ships from a text file into a BST"
+    usecase US102 as "US102: Search the details of a ship using any of its codes"
+    usecase US103 as"US103: Have the positional messages temporally
+     organized and associated with each of the ships"
+    usecase US104 as "US104: Make a Summary of a ship's movements"
+    usecase US105 as "Us105: List for all ships the MMSI, the total number of movements,
+    Travelled Distance and Delta Distance"
+
+    usecase US106 as "Get the top-N ships with the most kilometres
+     travelled and their average speed(MeanSOG)"
+    usecase US107 as "Return pairs of ships with routes with close
+     departure/arrival coordinates (no
+     more than 5 Kms away) and with different Travelled Distance."
+
+    usecase US108 as "US108: Want the team to develop the data model
+    required to support all the functionality and to fulfill the
+    purpose of the system to develop"
+    usecase US109 as "US109: Want the team to draft an SQL script to
+    test whether the database verifies all the data integrity restrictions
+     that are required to fulfil the purpose of the system and the
+     business constraints of the UoD"
+    usecase US110 as "US110: Want the team to define the naming conventions
+     to apply when defining identifiers or writing SQL or PL/SQL code"
+    usecase US111 as "US111: Want the team to create a SQL script to load
+     the database with a minimum set of data sufficient to carry out data
+     integrity verification and functional testing"
+
+
+    t --> US101
+    t --> US102
+    t --> US103
+    t --> US104
+    t --> US105
+
+    pm -->US108
+    pm -->US109
+    pm -->US110
+    pm -->US111
+
+@enduml

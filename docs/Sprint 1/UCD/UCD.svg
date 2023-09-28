@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="1218px" preserveAspectRatio="none" style="width:1204px;height:1218px;background:#FFFFFF;" version="1.1" viewBox="0 0 1204 1218" width="1204px" zoomAndPan="magnify"><defs><filter height="300%" id="f1wpgkeklr444a" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--MD5=[4b52362e67c82d91eba5cb75921775cc]
+entity t--><ellipse cx="267.5" cy="874.5" fill="#FEFECE" filter="url(#f1wpgkeklr444a)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M267.5,882.5 L267.5,909.5 M254.5,890.5 L280.5,890.5 M267.5,909.5 L254.5,924.5 M267.5,909.5 L280.5,924.5 " fill="none" filter="url(#f1wpgkeklr444a)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="211.5" y="942.9951">Traffic Manager</text><!--MD5=[dc7fb56487618d91d540ed1a4700aa4b]
+entity pm--><ellipse cx="267.5" cy="277.5" fill="#FEFECE" filter="url(#f1wpgkeklr444a)" rx="8" ry="8" style="stroke:#A80036;stroke-width:1.5;"/><path d="M267.5,285.5 L267.5,312.5 M254.5,293.5 L280.5,293.5 M267.5,312.5 L254.5,327.5 M267.5,312.5 L280.5,327.5 " fill="none" filter="url(#f1wpgkeklr444a)" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="117" x="209" y="345.9951">Project Manager</text><ellipse cx="891.2195" cy="663.6439" fill="#FEFECE" filter="url(#f1wpgkeklr444a)" rx="181.2195" ry="38.6439" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="335" x="723.7195" y="666.4906">US101: Import ships from a text file into a BST</text><ellipse cx="890.9433" cy="782.4887" fill="#FEFECE" filter="url(#f1wpgkeklr444a)" rx="215.4433" ry="45.4887" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="405" x="688.4433" y="785.3353">US102: Search the details of a ship using any of its codes</text><ellipse cx="890.9961" cy="905.6992" fill="#FEFECE" filter="url(#f1wpgkeklr444a)" rx="201.4961" ry="42.6992" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="350" x="715.9961" y="900.3975">US103: Have the positional messages temporally</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="343" x="719.4961" y="916.6943">organized and associated with each of the ships</text><ellipse cx="891.1542" cy="1022.6308" fill="#FEFECE" filter="url(#f1wpgkeklr444a)" rx="183.6542" ry="39.1308" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="340" x="721.1542" y="1025.4775">US104: Make a Summary of a ship's movements</text><ellipse cx="891.1696" cy="1151.7339" fill="#FEFECE" filter="url(#f1wpgkeklr444a)" rx="261.6696" ry="54.7339" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="479" x="651.6696" y="1146.4322">Us105: List for all ships the MMSI, the total number of movements,</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="273" x="754.6696" y="1162.729">Travelled Distance and Delta Distance</text><ellipse cx="267.422" cy="191.3844" fill="#FEFECE" filter="url(#f1wpgkeklr444a)" rx="192.422" ry="40.8844" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="330" x="102.422" y="186.0826">Get the top-N ships with the most kilometres</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="321" x="106.922" y="202.3795">travelled and their average speed(MeanSOG)</text><ellipse cx="267.2549" cy="60.651" fill="#FEFECE" filter="url(#f1wpgkeklr444a)" rx="261.2549" ry="54.651" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="309" x="112.7549" y="47.2008">Return pairs of ships with routes with close</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="237" x="148.7549" y="63.4977">departure/arrival coordinates (no</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="443" x="45.7549" y="79.7945">more than 5 Kms away) and with different Travelled Distance.</text><ellipse cx="890.7537" cy="82.2507" fill="#FEFECE" filter="url(#f1wpgkeklr444a)" rx="244.2537" ry="51.2507" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="358" x="711.7537" y="68.8005">US108: Want the team to develop the data model</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="404" x="688.7537" y="85.0974">required to support all the functionality and to fulfill the</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="245" x="768.2537" y="101.3943">purpose of the system to develop</text><ellipse cx="890.8462" cy="232.2692" fill="#FEFECE" filter="url(#f1wpgkeklr444a)" rx="301.8462" ry="62.7692" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="342" x="719.8462" y="210.6706">US109: Want the team to draft an SQL script to</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="489" x="646.3462" y="226.9675">test whether the database verifies all the data integrity restrictions</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="433" x="676.3462" y="243.2644">that are required to fulfil the purpose of the system and the</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="227" x="777.3462" y="259.5612">business constraints of the UoD</text><ellipse cx="891.1712" cy="383.4342" fill="#FEFECE" filter="url(#f1wpgkeklr444a)" rx="252.6712" ry="52.9342" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="411" x="685.6712" y="378.1325">US110: Want the team to define the naming conventions</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="460" x="661.1712" y="394.4294">to apply when defining identifiers or writing SQL or PL/SQL code</text><ellipse cx="891.1276" cy="530.4255" fill="#FEFECE" filter="url(#f1wpgkeklr444a)" rx="282.6276" ry="58.9255" style="stroke:#A80036;stroke-width:1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="378" x="702.1276" y="516.9753">US111: Want the team to create a SQL script to load</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="491" x="645.6276" y="533.2722">the database with a minimum set of data sufficient to carry out data</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="311" x="735.6276" y="549.5691">integrity verification and functional testing</text><!--MD5=[30124376ff517d73680a8bee15289d73]
+link t to US101--><path d="M323.751,865.489 C385.41,822.79 489.615,756.33 589,719.5 C632.881,703.238 682.181,691.538 727.982,683.186 " fill="none" id="t-to-US101" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="732.975,682.286,723.408,679.9465,728.0544,683.1733,724.8276,687.8196,732.975,682.286" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[7a25d2e93782a3394e6ccc57a6582994]
+link t to US102--><path d="M323.654,894.585 C413.479,876.807 594.725,840.937 728.088,814.544 " fill="none" id="t-to-US102" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="733.209,813.53,723.604,811.3517,728.304,814.4999,725.1558,819.1998,733.209,813.53" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[a2c781d693fbf42518018ee1ad65adcc]
+link t to US103--><path d="M323.654,905.5 C403.941,905.5 557.263,905.5 684.149,905.5 " fill="none" id="t-to-US103" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="689.41,905.5,680.41,901.5,684.41,905.5,680.41,909.5,689.41,905.5" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[d52c71f664ff61304cedb58ede228bbd]
+link t to US104--><path d="M323.654,915.883 C418.026,933.649 613.306,970.411 747.951,995.759 " fill="none" id="t-to-US104" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="753.115,996.731,745.011,991.1341,748.2014,995.8054,743.5301,998.9958,753.115,996.731" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[5e6bb76f72d4bb3d1a4101d05495d592]
+link t to US105--><path d="M323.66,941.299 C385.873,980.258 491.159,1041.991 589,1079.5 C622.593,1092.378 659.204,1103.445 694.957,1112.7677 " fill="none" id="t-to-US105" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="700.226,1114.1305,692.5136,1108.0052,695.3851,1112.879,690.5113,1115.7505,700.226,1114.1305" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[ca15944755d8fbd297e3e4385d1f90ee]
+link pm to US108--><path d="M326.018,308.042 C382.562,304.896 468.893,292.599 529,249.5 C570.504,219.74 547.535,181.31 589,151.5 C614.307,133.3 643.645,119.81 673.876,109.83 " fill="none" id="pm-to-US108" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="678.735,108.26,668.9405,107.2263,673.978,109.7999,671.4044,114.8375,678.735,108.26" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[b00aed01a08878a4df30247a37cf4ee3]
+link pm to US109--><path d="M326.133,301.452 C394.634,293.076 513.684,278.518 624.794,264.931 " fill="none" id="pm-to-US109" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="630.079,264.284,620.6599,261.4065,625.116,264.8912,621.6313,269.3473,630.079,264.284" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[869353957dffa2396bc97e9a3e5126e6]
+link pm to US110--><path d="M326.133,315.455 C403.303,324.768 544.627,341.822 666.479,356.526 " fill="none" id="pm-to-US110" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="671.534,357.136,663.0776,352.0874,666.57,356.5375,662.1199,360.0299,671.534,357.136" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[795420e9fa76f0f0af3c448d09721cbc]
+link pm to US111--><path d="M326.023,338.22 C389.223,369.991 494.353,420.27 589,453.5 C622.592,465.294 658.871,476.125 694.219,485.706 " fill="none" id="pm-to-US111" style="stroke:#A80036;stroke-width:1.0;"/><polygon fill="#A80036" points="699.427,487.11,691.7781,480.9057,694.5993,485.8088,689.6961,488.63,699.427,487.11" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[edc2f6aabd46ecff15b7df7c0a885dec]
+@startuml
+left to right direction
+
+    actor "Traffic Manager" as t
+    actor "Project Manager" as pm
+
+
+    usecase US101 as "US101: Import ships from a text file into a BST"
+    usecase US102 as "US102: Search the details of a ship using any of its codes"
+    usecase US103 as"US103: Have the positional messages temporally
+     organized and associated with each of the ships"
+    usecase US104 as "US104: Make a Summary of a ship's movements"
+    usecase US105 as "Us105: List for all ships the MMSI, the total number of movements,
+    Travelled Distance and Delta Distance"
+
+    usecase US106 as "Get the top-N ships with the most kilometres
+     travelled and their average speed(MeanSOG)"
+    usecase US107 as "Return pairs of ships with routes with close
+     departure/arrival coordinates (no
+     more than 5 Kms away) and with different Travelled Distance."
+
+    usecase US108 as "US108: Want the team to develop the data model
+    required to support all the functionality and to fulfill the
+    purpose of the system to develop"
+    usecase US109 as "US109: Want the team to draft an SQL script to
+    test whether the database verifies all the data integrity restrictions
+     that are required to fulfil the purpose of the system and the
+     business constraints of the UoD"
+    usecase US110 as "US110: Want the team to define the naming conventions
+     to apply when defining identifiers or writing SQL or PL/SQL code"
+    usecase US111 as "US111: Want the team to create a SQL script to load
+     the database with a minimum set of data sufficient to carry out data
+     integrity verification and functional testing"
+
+
+    t - -> US101
+    t - -> US102
+    t - -> US103
+    t - -> US104
+    t - -> US105
+
+    pm - ->US108
+    pm - ->US109
+    pm - ->US110
+    pm - ->US111
+@enduml
+
+PlantUML version 1.2021.13beta8(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

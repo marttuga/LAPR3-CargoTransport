@@ -1,0 +1,111 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+
+package Controller{
+Class ReadShipController {
++load()
++readShips()
++checkCargo(String)
++checkLat(String)
++checkLon(String)
++checkHeading(String)
++isUseBigFiles()
+}
+class ShipsTreeController {
++creatShipTree(mMSI, baseDateTime,lAT,lON,sOG,cOG,heading,vesselName,iMO,callSign,vesselType,length,width,draft,cargo,transClass)
++getBSTByShipMMSI()
++getBSTByShipIMO()
++getBSTByCallSign()
++ resetTrees()
++getInstance()
++ShipsTreeController()
+
+}
+}
+
+
+package Domain {
+
+class ShipTreeCreate{
+- BST<ShipMMSI>
+-BST<ShipIMO>
+-BST<ShipCallSign>
+-List<Map.Entry<Integer, ShipMMSI>>
+-List<Map.Entry<String, ShipIMO>>
+-List<Map.Entry<String, ShipCallSign>>
++createShipMMSIMap(Ship)
++createShipIMOMap(Ship)
++createShipCallSignMap(Ship)
++creatShipTree(Ship )
++ShipTreeCreate()
++getTreeMMSI()
++getTreeIMO()
++getTreeCallSign()
++ resetTress()
+}
+
+class ShipCallSign{
++ShipCallSign(ship)
++ShipCallSign(List<Map.Entry<String, ShipCallSign>>)
++getMapList()
++compareTo(ShipCallSign )
++toString()
+}
+
+class ShipIMO{
++ShipIMO(ship)
++ShipIMO(List<Map.Entry<String, ShipIMO>>)
++getMapList()
++compareTo(ShipIMO )
++toString()
+}
+
+class ShipMMSI{
++ShipMMSI(ship)
++ShipMMSI(List<Map.Entry<String, ShipMMSI>>)
++getMapList()
++compareTo(ShipMMSI)
++toString()
+}
+
+class Ship {
+  - mMSI
+  -baseDateTime
+  -lati
+  -long
+  -sog
+  -cog
+  -heading
+  -vesselName
+  -iMO
+  -callSign
+  -vesselType
+  -length
+  -width
+  -draft
+  -cargo
+  -transcieverClass
+
+  +getMMSI()
+  +getBaseDateTime()
+  +getLati()
+  +getLong()
+  +getSOG()
+  +getCOG()
+  +getHeading()
+  +getVesselType()
+  +getLenght()
+  +getWidth()
+  +getDraft()
+  +getCargo()
+  +getTranscieverClass()
+  +Ship()
+}
+ReadShipController ..> ShipsTreeController
+ShipsTreeController ..> ShipTreeCreate
+ShipTreeCreate..> ShipCallSign
+ShipTreeCreate..> ShipIMO
+ShipTreeCreate..> ShipMMSI
+ShipTreeCreate..> Ship
+@enduml

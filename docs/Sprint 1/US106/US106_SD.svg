@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="443.08px" preserveAspectRatio="none" style="width:1209px;height:443px;" version="1.1" viewBox="0 0 1209 443" width="1209.92px" zoomAndPan="magnify"><defs><filter height="300%" id="fiph1m1700g8q" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="1.52"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="3.04" dy="3.04" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><rect fill="#FFFFFF" filter="url(#fiph1m1700g8q)" height="296.2278" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="40.28" y="75.7031"/><rect fill="#FFFFFF" filter="url(#fiph1m1700g8q)" height="23.0672" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="536.56" y="92.6903"/><rect fill="#FFFFFF" filter="url(#fiph1m1700g8q)" height="190.8431" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="536.56" y="138.8247"/><rect fill="#FFFFFF" filter="url(#fiph1m1700g8q)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="679.06" y="161.8919"/><rect fill="#FFFFFF" filter="url(#fiph1m1700g8q)" height="93.5216" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="823.08" y="207.7591"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="44.08" x2="44.08" y1="68.1031" y2="378.7709"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="540.36" x2="540.36" y1="68.1031" y2="378.7709"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="682.48" x2="682.48" y1="68.1031" y2="378.7709"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="826.88" x2="826.88" y1="68.1031" y2="378.7709"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="989.52" x2="989.52" y1="68.1031" y2="378.7709"/><line style="stroke:#A80036;stroke-width:0.76;stroke-dasharray:5.0,5.0;" x1="1122.52" x2="1122.52" y1="337.9922" y2="378.7709"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="76" x="3.8" y="65.7652">Traffic manager</text><ellipse cx="44.08" cy="11.4" fill="#FEFECE" filter="url(#fiph1m1700g8q)" rx="6.08" ry="6.08" style="stroke:#A80036;stroke-width:1.52;"/><path d="M44.08,17.48 L44.08,38 M34.2,23.56 L53.96,23.56 M44.08,38 L34.2,49.4 M44.08,38 L53.96,49.4 " fill="none" filter="url(#fiph1m1700g8q)" style="stroke:#A80036;stroke-width:1.52;"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="76" x="3.8" y="389.0562">Traffic manager</text><ellipse cx="44.08" cy="398.9941" fill="#FEFECE" filter="url(#fiph1m1700g8q)" rx="6.08" ry="6.08" style="stroke:#A80036;stroke-width:1.52;"/><path d="M44.08,405.0741 L44.08,425.5941 M34.2,411.1541 L53.96,411.1541 M44.08,425.5941 L34.2,436.9941 M44.08,425.5941 L53.96,436.9941 " fill="none" filter="url(#fiph1m1700g8q)" style="stroke:#A80036;stroke-width:1.52;"/><rect fill="#FEFECE" filter="url(#fiph1m1700g8q)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="170.24" x="453.72" y="40.28"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="159.6" x="459.04" y="56.6452">:MostTravelledDistanceController</text><rect fill="#FEFECE" filter="url(#fiph1m1700g8q)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="170.24" x="453.72" y="378.0109"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="159.6" x="459.04" y="394.3762">:MostTravelledDistanceController</text><rect fill="#FEFECE" filter="url(#fiph1m1700g8q)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="93.48" x="634.6" y="40.28"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="82.84" x="639.92" y="56.6452">:BST&lt;ShipMMSI&gt;</text><rect fill="#FEFECE" filter="url(#fiph1m1700g8q)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="93.48" x="634.6" y="378.0109"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="82.84" x="639.92" y="394.3762">:BST&lt;ShipMMSI&gt;</text><rect fill="#FEFECE" filter="url(#fiph1m1700g8q)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="123.12" x="763.8" y="40.28"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="112.48" x="769.12" y="56.6452">:MostTravelledDistance</text><rect fill="#FEFECE" filter="url(#fiph1m1700g8q)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="123.12" x="763.8" y="378.0109"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="112.48" x="769.12" y="394.3762">:MostTravelledDistance</text><rect fill="#FEFECE" filter="url(#fiph1m1700g8q)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="89.68" x="943.16" y="40.28"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="79.04" x="948.48" y="56.6452">:List&lt;ShipMMSI&gt;</text><rect fill="#FEFECE" filter="url(#fiph1m1700g8q)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="89.68" x="943.16" y="378.0109"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="79.04" x="948.48" y="394.3762">:List&lt;ShipMMSI&gt;</text><rect fill="#FEFECE" filter="url(#fiph1m1700g8q)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="155.8" x="1043.48" y="378.0109"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="145.16" x="1048.8" y="394.3762">:MostTravelledDistanceOutput</text><rect fill="#FFFFFF" filter="url(#fiph1m1700g8q)" height="296.2278" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="40.28" y="75.7031"/><rect fill="#FFFFFF" filter="url(#fiph1m1700g8q)" height="23.0672" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="536.56" y="92.6903"/><rect fill="#FFFFFF" filter="url(#fiph1m1700g8q)" height="190.8431" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="536.56" y="138.8247"/><rect fill="#FFFFFF" filter="url(#fiph1m1700g8q)" height="22.8" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="679.06" y="161.8919"/><rect fill="#FFFFFF" filter="url(#fiph1m1700g8q)" height="93.5216" style="stroke:#A80036;stroke-width:0.76;" width="7.6" x="823.08" y="207.7591"/><polygon fill="#A80036" points="527.44,89.6503,535.04,92.6903,527.44,95.7303,530.48,92.6903" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="47.88" x2="532" y1="92.6903" y2="92.6903"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="53.2" y="88.9994">1</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="284.24" x="61.56" y="88.9994">Starts to analyse ships travelling distances and averages speeds</text><polygon fill="#A80036" points="56.24,112.7175,48.64,115.7575,56.24,118.7975,53.2,115.7575" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="51.68" x2="539.6" y1="115.7575" y2="115.7575"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="60.8" y="112.0666">2</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="88.92" x="69.16" y="112.0666">Asks interval of time</text><polygon fill="#A80036" points="527.44,135.7847,535.04,138.8247,527.44,141.8647,530.48,138.8247" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="47.88" x2="532" y1="138.8247" y2="138.8247"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="53.2" y="135.1338">3</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="143.64" x="61.56" y="135.1338">Selects beginning and end dates</text><polygon fill="#A80036" points="669.94,158.8519,677.54,161.8919,669.94,164.9319,672.98,161.8919" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="544.16" x2="674.5" y1="161.8919" y2="161.8919"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="549.48" y="158.201">4</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="98.04" x="557.84" y="158.201">shipList: getShipslist()</text><polygon fill="#A80036" points="813.96,204.7191,821.56,207.7591,813.96,210.7991,817,207.7591" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="544.16" x2="818.52" y1="207.7591" y2="207.7591"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="549.48" y="204.0682">5</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="256.12" x="557.84" y="204.0682">topNships = getTopNShips(listTree, startDate, endDate, n)</text><line style="stroke:#A80036;stroke-width:0.76;" x1="830.68" x2="862.6" y1="230.8263" y2="230.8263"/><line style="stroke:#A80036;stroke-width:0.76;" x1="862.6" x2="862.6" y1="230.8263" y2="240.7063"/><line style="stroke:#A80036;stroke-width:0.76;" x1="831.44" x2="862.6" y1="240.7063" y2="240.7063"/><polygon fill="#A80036" points="839.04,237.6663,831.44,240.7063,839.04,243.7463,836,240.7063" style="stroke:#A80036;stroke-width:0.76;"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="836" y="227.1354">6</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="136.04" x="844.36" y="227.1354">checkDate(startDate, endDate)</text><line style="stroke:#A80036;stroke-width:0.76;" x1="830.68" x2="862.6" y1="263.7734" y2="263.7734"/><line style="stroke:#A80036;stroke-width:0.76;" x1="862.6" x2="862.6" y1="263.7734" y2="273.6534"/><line style="stroke:#A80036;stroke-width:0.76;" x1="831.44" x2="862.6" y1="273.6534" y2="273.6534"/><polygon fill="#A80036" points="839.04,270.6134,831.44,273.6534,839.04,276.6934,836,273.6534" style="stroke:#A80036;stroke-width:0.76;"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="836" y="260.0825">7</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="107.92" x="844.36" y="260.0825">cointainShip (list, MMSI)</text><line style="stroke:#A80036;stroke-width:0.76;" x1="830.68" x2="862.6" y1="300.5206" y2="300.5206"/><line style="stroke:#A80036;stroke-width:0.76;" x1="862.6" x2="862.6" y1="300.5206" y2="310.4006"/><line style="stroke:#A80036;stroke-width:0.76;" x1="826.88" x2="862.6" y1="310.4006" y2="310.4006"/><polygon fill="#A80036" points="834.48,307.3606,826.88,310.4006,834.48,313.4406,831.44,310.4006" style="stroke:#A80036;stroke-width:0.76;"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="836" y="296.8297">8</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="123.88" x="844.36" y="296.8297">sameMMSILIST (list, MMSI)</text><polygon fill="#A80036" points="1034.36,326.6278,1041.96,329.6678,1034.36,332.7078,1037.4,329.6678" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="540.36" x2="1038.92" y1="329.6678" y2="329.6678"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="5.32" x="545.68" y="325.9769">9</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="148.96" x="554.04" y="325.9769">topNShips= outPutTopNships(list)</text><rect fill="#FEFECE" filter="url(#fiph1m1700g8q)" height="24.0231" style="stroke:#A80036;stroke-width:1.1400000000000001;" width="155.8" x="1043.48" y="312.6806"/><text fill="#000000" font-family="sans-serif" font-size="10.64" lengthAdjust="spacing" textLength="145.16" x="1048.8" y="329.0459">:MostTravelledDistanceOutput</text><polygon fill="#A80036" points="56.24,362.0509,48.64,365.0909,56.24,368.1309,53.2,365.0909" style="stroke:#A80036;stroke-width:0.76;"/><line style="stroke:#A80036;stroke-width:0.76;" x1="51.68" x2="539.6" y1="365.0909" y2="365.0909"/><text fill="#000000" font-family="sans-serif" font-size="9.88" font-weight="bold" lengthAdjust="spacing" textLength="10.64" x="60.8" y="361.4">10</text><text fill="#000000" font-family="sans-serif" font-size="9.88" lengthAdjust="spacing" textLength="460.56" x="74.48" y="361.4">Shows the top-N ships with the most kilometres travelled and their average speed grouped by vessel type</text><!--MD5=[2248e1ecad5155d24cf8644a51cce881]
+@startuml
+autonumber
+'hide footbox
+actor "Traffic manager" as TM
+
+participant ":MostTravelledDistanceController" as CTRL
+participant ":BST<ShipMMSI>" as BSTMMSI
+participant ":MostTravelledDistance" as mtd
+participant ":List<ShipMMSI>" as LMMSI
+participant ":MostTravelledDistanceOutput" as OUTP
+activate TM
+
+TM -> CTRL : Starts to analyse ships travelling distances and averages speeds
+activate CTRL
+CTRL -> TM: Asks interval of time
+deactivate CTRL
+
+TM -> CTRL:Selects beginning and end dates
+activate CTRL
+CTRL -> BSTMMSI: shipList: getShipslist()
+activate BSTMMSI
+deactivate BSTMMSI
+CTRL -> mtd: topNships = getTopNShips(listTree, startDate, endDate, n)
+activate mtd
+mtd -> mtd: checkDate(startDate, endDate)
+mtd -> mtd: cointainShip (list, MMSI)
+mtd -> mtd: sameMMSILIST (list, MMSI)
+deactivate mtd
+
+CTRL-> OUTP**: topNShips= outPutTopNships(list)
+deactivate CTRL
+CTRL -> TM: Shows the top-N ships with the most kilometres travelled and their average speed grouped by vessel type
+deactivate CTRL
+@enduml
+
+@startuml
+autonumber
+actor "Traffic manager" as TM
+
+participant ":MostTravelledDistanceController" as CTRL
+participant ":BST<ShipMMSI>" as BSTMMSI
+participant ":MostTravelledDistance" as mtd
+participant ":List<ShipMMSI>" as LMMSI
+participant ":MostTravelledDistanceOutput" as OUTP
+activate TM
+
+TM -> CTRL : Starts to analyse ships travelling distances and averages speeds
+activate CTRL
+CTRL -> TM: Asks interval of time
+deactivate CTRL
+
+TM -> CTRL:Selects beginning and end dates
+activate CTRL
+CTRL -> BSTMMSI: shipList: getShipslist()
+activate BSTMMSI
+deactivate BSTMMSI
+CTRL -> mtd: topNships = getTopNShips(listTree, startDate, endDate, n)
+activate mtd
+mtd -> mtd: checkDate(startDate, endDate)
+mtd -> mtd: cointainShip (list, MMSI)
+mtd -> mtd: sameMMSILIST (list, MMSI)
+deactivate mtd
+
+CTRL-> OUTP**: topNShips= outPutTopNships(list)
+deactivate CTRL
+CTRL -> TM: Shows the top-N ships with the most kilometres travelled and their average speed grouped by vessel type
+deactivate CTRL
+@enduml
+
+PlantUML version 1.2021.00(Sun Jan 10 10:25:05 GMT 2021)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: pt
+Country: PT
+--></g></svg>

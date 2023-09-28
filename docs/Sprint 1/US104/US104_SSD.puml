@@ -1,0 +1,15 @@
+@startuml
+autonumber
+
+skinparam sequenceMessageAlign left
+
+actor "Traffic Manager" as tm
+
+activate tm
+
+tm -> ":System" : Starts to make a summary of ship's movements
+
+":System" --> tm : Informs (in)success of the operation
+
+deactivate tm
+@enduml

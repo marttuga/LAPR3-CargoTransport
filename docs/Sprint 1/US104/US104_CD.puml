@@ -1,0 +1,68 @@
+@startuml
+skinparam classAttributeIconSize 0
+
+
+package Controller{
+Class ShipResumeController {
++ShipResumeController()
++getShipResume(Integer, BST<ShipMMSI>)
+}
+}
+
+package Domain {
+
+class ShipIMO{
++ShipIMO(ship)
++ShipIMO(List<Map.Entry<String, ShipIMO>>)
++getMapList()
++compareTo(ShipIMO )
++toString()
+}
+
+class ShipMMSI{
++ShipMMSI(ship)
++ShipMMSI(List<Map.Entry<String, ShipMMSI>>)
++getMapList()
++compareTo(ShipMMSI)
++toString()
+}
+
+class Ship {
+  - mMSI
+  -baseDateTime
+  -lati
+  -long
+  -sog
+  -cog
+  -heading
+  -vesselName
+  -iMO
+  -callSign
+  -vesselType
+  -length
+  -width
+  -draft
+  -cargo
+  -transcieverClass
+
+  +getMMSI()
+  +getBaseDateTime()
+  +getLati()
+  +getLong()
+  +getSOG()
+  +getCOG()
+  +getHeading()
+  +getVesselType()
+  +getLenght()
+  +getWidth()
+  +getDraft()
+  +getCargo()
+  +getTranscieverClass()
+  +Ship()
+}
+
+ShipResumeController..>Ship
+Ship..> ShipIMO
+Ship..> ShipMMSI
+
+@enduml

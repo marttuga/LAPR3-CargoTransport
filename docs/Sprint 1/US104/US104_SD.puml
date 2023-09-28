@@ -1,0 +1,11 @@
+autonumber
+
+skinparam sequenceMessageAlign left
+
+actor "Traffic Manager" as tm
+
+activate tm
+
+tm -> ":System" : Starts to make a summary of ship's movements
+
+deactivate tm
